@@ -1,0 +1,57 @@
+Tariff,2021 Price inc. GST,2022 Price inc. GST
+Home Plan (A1),,
+Supply charge,105.1400 cents per day,107.7685 cents per day
+Supply charge: additional homes^,41.8017 cents per day,42.8467 cents per day
+Electricity charge,29.3273 cents per unit,30.0605 cents per unit
+Smart Home Plan,,
+Supply charge,105.1400 cents per day,107.7685 cents per day
+Everyday Off-peak electricity charge,15.3645 cents per unit,15.7486 cents per unit
+Weekend shoulder electricity charge,29.2100 cents per unit,29.9402 cents per unit
+Weekday shoulder electricity charge,29.2100 cents per unit,29.9402 cents per unit
+Peak electricity charge,55.7734 cents per unit,57.1677 cents per unit
+EV Home Plan,,
+Supply charge,105.1400 cents per day,107.7685 cents per day
+Standard home electricity charge,29.3273 cents per unit,30.0605 cents per unit
+Everyday EV off peak electricity charge (more than 10 units per month),20.4651 cents per unit,20.9767 cents per unit
+Home Business Plan (K1),,
+Supply charge,185.5319 cents per day,190.1702 cents per day
+Electricity charge - first 20 units per day,30.6376 cents per unit,31.4035 cents per unit
+"Electricity charge - next 20 - 1,650 units per day",28.8719 cents per unit,29.5937 cents per unit
+"Electricity charge - more than 1,650 units per day",32.5520 cents per unit,33.3658 cents per unit
+"Green Product Contribution 
+(these charges are additional to the standard electricity price)",,
+EasyGreen electricity charge,3.8937 cents per unit,5.4648 cents per unit
+NaturalPower electricity charge,3.8937 cents per unit,5.4648 cents per unit
+EarthFriendly electricity charge,0.6679 cents per unit,0.6459 cents per unit
+,,
+Electricity plans no longer offered,,
+,,
+SmartPower (SM1),,
+Supply charge,105.1400 cents per day,107.7685 cents per day
+Supply charge: additional homes,41.8017 cents per day,42.8467 cents per day
+"Electricity charge - Peak
+Weekdays: 11am to 5pm (summer)
+Weekdays: 7am to 11am (winter)
+Weekdays: 5pm to 9pm (winter)",59.1287 cents per unit,60.607 cents per unit
+"Electricity charge - Weekday Shoulder
+Weekdays: 11am to 5pm (winter)
+Weekdays: 7am to 11am (summer)
+Weekdays: 5pm to 9pm (summer)",29.5190 cents per unit,30.257 cents per unit
+"Electricity charge - Weekend Shoulder
+Weekend: 7am to 9pm",24.4619 cents per unit,25.0735 cents per unit
+"Electricity charge - Off peak
+Every day 9pm to 7am",15.3645 cents per unit,15.7486 cents per unit
+Powershift (PS1),,
+Supply charge,105.1400 cents per day,107.7685 cents per day
+Supply charge: additional homes,41.8017 cents per day,42.8467 cents per day
+"Electricity charge - Peak
+Weekdays: 7am to 2pm, 8pm to 10pm
+Weekends: 7am to 10pm",27.6993 cents per unit,28.3918 cents per unit
+"Electricity charge - Off peak
+All days 10pm to 7am",14.1379 cents per unit,14.4914 cents per unit
+"Electricity charge - Super peak
+Weekdays 2pm to 8pm",51.3679 cents per unit,52.6521 cents per unit
+Hot Water Plan (B1),,
+Supply charge,22.1515 cents per day,22.7053 cents per day
+Supply charge - additional homes^,22.1515 cents per day,22.7053 cents per day
+Electricity charge,12.2374 cents per unit,12.5433 cents per unit
