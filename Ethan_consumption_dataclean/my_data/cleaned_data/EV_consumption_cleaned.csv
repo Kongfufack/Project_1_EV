@@ -1,0 +1,104 @@
+Models,Fuel Unit - Conventional Fuel,Fuel Usage Desc - Conventional Fuel,City FE (Guide) - Conventional Fuel,Hwy FE (Guide) - Conventional Fuel,Comb FE (Guide) - Conventional Fuel
+2023.0_Volkswagen Group of_Audi_e-tron GT,MPG,Electricity,81.0,83.0,82.0
+2023.0_Volkswagen Group of_Audi_RS e-tron GT,MPG,Electricity,79.0,82.0,81.0
+2023.0_Volkswagen Group of_Audi_Q4 e-tron,MPG,Electricity,112.0,94.0,103.0
+2023.0_Volkswagen Group of_Audi_e-tron quattro,MPG,Electricity,78.0,79.0,79.0
+2023.0_Volkswagen Group of_Audi_e-tron S (20in. wheels),MPG,Electricity,72.0,75.0,73.0
+2023.0_Volkswagen Group of_Audi_e-tron S Sportback (20 wheels),MPG,Electricity,73.0,78.0,75.0
+2023.0_Volkswagen Group of_Audi_e-tron Sportback quattro,MPG,Electricity,77.0,80.0,78.0
+2023.0_Volkswagen Group of_Audi_Q4 e-tron quattro,MPG,Electricity,97.0,87.0,93.0
+2023.0_Volkswagen Group of_Audi_Q4 e-tron Sportback,MPG,Electricity,100.0,89.0,95.0
+2023.0_BMW_BMW_i4 M50 Gran Coupe (19'' Wheels),MPG,Electricity,94.0,98.0,96.0
+2023.0_BMW_BMW_i4 M50 Gran Coupe (20'' Wheels),MPG,Electricity,79.0,80.0,80.0
+2023.0_BMW_BMW_i4 eDrive40 Gran Coupe (18'' Wheels),MPG,Electricity,109.0,108.0,109.0
+2023.0_BMW_BMW_i7 xDrive60 Sedan (19'' Wheels),MPG,Electricity,87.0,92.0,89.0
+2023.0_BMW_BMW_i7 xDrive60 Sedan (20'' Wheels),MPG,Electricity,81.0,85.0,83.0
+2023.0_BMW_BMW_i7 xDrive60 Sedan (21'' Wheels),MPG,Electricity,85.0,89.0,87.0
+2023.0_BMW_BMW_iX xDrive50 (20'' Wheels),MPG,Electricity,86.0,87.0,86.0
+2023.0_BMW_BMW_iX xDrive50 (21'' Wheels),MPG,Electricity,82.0,84.0,83.0
+2023.0_BMW_BMW_iX xDrive50 (22'' Wheels),MPG,Electricity,86.0,85.0,86.0
+"2023.0_BMW_BMW_iX M60 (21"" Wheels)",MPG,Electricity,76.0,80.0,77.0
+"2023.0_BMW_BMW_iX M60 (22"" Wheels)",MPG,Electricity,77.0,80.0,78.0
+2023.0_General Motors_Cadillac_LYRIQ,MPG,Electricity,97.0,82.0,89.0
+2023.0_General Motors_Chevrolet_BOLT EUV,MPG,Electricity,125.0,104.0,115.0
+2023.0_General Motors_Chevrolet_BOLT EV,MPG,Electricity,131.0,109.0,120.0
+2023.0_Ford Motor Company_Ford_F150 LIGHTNING EXTENDED RNG 4WD,MPG,Electricity,78.0,63.0,70.0
+2023.0_Ford Motor Company_Ford_F150 LIGHTNING PLATINUM 4WD,MPG,Electricity,73.0,60.0,66.0
+2023.0_Ford Motor Company_Ford_F150 PICKUP LIGHTNING 4WD,MPG,Electricity,76.0,61.0,68.0
+2023.0_Hyundai_GENESIS_Electrified G80,MPG,Electricity,105.0,89.0,97.0
+2023.0_Hyundai_GENESIS_GV60 ADVANCE,MPG,Electricity,103.0,86.0,95.0
+2023.0_Hyundai_GENESIS_GV60 PERFORMANCE,MPG,Electricity,97.0,82.0,90.0
+2023.0_Hyundai_HYUNDAI MOTOR COMPANY_Kona Electric,MPG,Electricity,134.0,106.0,120.0
+2023.0_Jaguar Land Rover L_Jaguar_I-PACE EV400 (20 inch tires),MPG,Electricity,89.0,82.0,85.0
+2023.0_Jaguar Land Rover L_Jaguar_I-PACE EV400 (22 inch tire),MPG,Electricity,79.0,72.0,76.0
+2023.0_Kia_KIA_EV6 AWD GT,MPG,Electricity,85.0,74.0,79.0
+2023.0_Kia_KIA_EV6 Long Range AWD (19inch tire),MPG,Electricity,120.0,98.0,109.0
+2023.0_Kia_KIA_EV6 Long Range AWD (20inch tire),MPG,Electricity,106.0,86.0,96.0
+2023.0_Kia_KIA_EV6 Long Range RWD,MPG,Electricity,134.0,101.0,117.0
+2023.0_Kia_KIA_EV6 Standard Range RWD,MPG,Electricity,136.0,100.0,117.0
+2023.0_Kia_KIA_Niro Electric,MPG,Electricity,126.0,101.0,113.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air G Touring XR AWD w/19"" wheels",MPG,Electricity,130.0,132.0,131.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air G Touring XR AWD w/20"" wheels",MPG,Electricity,121.0,122.0,121.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air G Touring XR AWD w/21"" wheels",MPG,Electricity,121.0,122.0,121.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air GT P AWD w/21"" wheels",MPG,Electricity,110.0,111.0,111.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air Pure AWD w/19"" wheels",MPG,Electricity,141.0,140.0,140.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air Pure AWD w/20"" wheels",MPG,Electricity,121.0,120.0,121.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air Touring AWD w/19"" wheels",MPG,Electricity,141.0,140.0,140.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air Touring AWD w/20"" wheels",MPG,Electricity,121.0,120.0,121.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air Touring AWD w/21"" wheels",MPG,Electricity,121.0,120.0,121.0
+2023.0_Mercedes-Benz_Mercedes-Benz_EQS 450 4MATIC,MPG,Electricity,101.0,105.0,103.0
+2023.0_Mercedes-Benz_Mercedes-Benz_EQS 450 4MATIC (SUV),MPG,Electricity,79.0,77.0,78.0
+2023.0_Mercedes-Benz_Mercedes-Benz_EQS 450+ (SUV),MPG,Electricity,87.0,83.0,85.0
+2023.0_Mercedes-Benz_Mercedes-Benz_EQS 580 4MATIC (SUV),MPG,Electricity,79.0,74.0,77.0
+2023.0_BMW_Mini_COOPER SE HARDTOP 2 DOOR,MPG,Electricity,119.0,100.0,110.0
+2023.0_Nissan_NISSAN_ARIYA ENGAGE FWD 63kWh,MPG,Electricity,109.0,94.0,101.0
+2023.0_Nissan_NISSAN_ARIYA EVO+/EMP+/PRM FWD 87kWh,MPG,Electricity,105.0,91.0,98.0
+2023.0_Nissan_NISSAN_ARIYA VENTURE+ FWD 87kWh,MPG,Electricity,111.0,95.0,103.0
+2023.0_Nissan_NISSAN_LEAF,MPG,Electricity,123.0,99.0,111.0
+2023.0_Nissan_NISSAN_LEAF SV,MPG,Electricity,121.0,98.0,109.0
+2023.0_Porsche_Porsche_Taycan 4 Cross Turismo,MPG,Electricity,80.0,80.0,80.0
+2023.0_Porsche_Porsche_Taycan 4S Cross Turismo,MPG,Electricity,78.0,78.0,78.0
+2023.0_Porsche_Porsche_Taycan 4S Perf Battery Plus,MPG,Electricity,79.0,81.0,80.0
+2023.0_Porsche_Porsche_Taycan 4S Performance Battery,MPG,Electricity,82.0,82.0,82.0
+2023.0_Porsche_Porsche_Taycan GTS,MPG,Electricity,83.0,82.0,83.0
+2023.0_Porsche_Porsche_Taycan GTS Sport Turismo,MPG,Electricity,80.0,80.0,80.0
+2023.0_Porsche_Porsche_Taycan Perf Battery Plus,MPG,Electricity,78.0,88.0,82.0
+2023.0_Porsche_Porsche_Taycan Performance Battery,MPG,Electricity,79.0,88.0,83.0
+2023.0_Porsche_Porsche_Taycan Turbo,MPG,Electricity,81.0,80.0,81.0
+2023.0_Porsche_Porsche_Taycan Turbo Cross Turismo,MPG,Electricity,80.0,78.0,79.0
+2023.0_Porsche_Porsche_Taycan Turbo S,MPG,Electricity,76.0,74.0,75.0
+2023.0_Porsche_Porsche_Taycan Turbo S Cross Turismo,MPG,Electricity,76.0,74.0,75.0
+2023.0_Rivian Automotive L_Rivian_R1T 20in,MPG,Electricity,69.0,60.0,64.0
+2023.0_Rivian Automotive L_Rivian_R1T 21in,MPG,Electricity,76.0,69.0,73.0
+2023.0_Rivian Automotive L_Rivian_R1T 22in,MPG,Electricity,73.0,63.0,68.0
+2023.0_Rivian Automotive L_Rivian_R1S 20in,MPG,Electricity,69.0,60.0,64.0
+2023.0_Rivian Automotive L_Rivian_R1S 21in,MPG,Electricity,75.0,66.0,71.0
+2023.0_Rivian Automotive L_Rivian_R1S 22in,MPG,Electricity,73.0,63.0,68.0
+2023.0_Tesla_Tesla Motors_Model 3 Long Range AWD,MPG,Electricity,134.0,126.0,131.0
+2023.0_Tesla_Tesla Motors_Model 3 Performance AWD,MPG,Electricity,118.0,107.0,113.0
+2023.0_Tesla_Tesla Motors_Model 3 RWD,MPG,Electricity,138.0,126.0,132.0
+2023.0_Tesla_Tesla Motors_Model S,MPG,Electricity,124.0,115.0,120.0
+2023.0_Tesla_Tesla Motors_Model X,MPG,Electricity,107.0,97.0,102.0
+"2023.0_Tesla_Tesla Motors_Model X Plaid (20"" Wheels)",MPG,Electricity,103.0,93.0,98.0
+"2023.0_Tesla_Tesla Motors_Model X Plaid (22"" Wheels)",MPG,Electricity,94.0,88.0,91.0
+2023.0_Tesla_Tesla Motors_Model Y AWD,MPG,Electricity,129.0,116.0,123.0
+2023.0_Tesla_Tesla Motors_Model Y Long Range AWD,MPG,Electricity,127.0,117.0,122.0
+2023.0_Tesla_Tesla Motors_Model Y Performance AWD,MPG,Electricity,115.0,106.0,111.0
+2023.0_Volvo_Polestar Automotive USA Inc_Polestar 2 BST edition,MPG,Electricity,98.0,91.0,96.0
+2023.0_Volvo_Polestar Automotive USA Inc_Polestar 2 Dual Motor,MPG,Electricity,105.0,96.0,100.0
+2023.0_Volvo_Polestar Automotive USA Inc_Polestar 2 Dual Motor Perf Pack,MPG,Electricity,105.0,96.0,100.0
+2023.0_Volvo_Polestar Automotive USA Inc_Polestar 2 Single Motor,MPG,Electricity,113.0,100.0,107.0
+2023.0_Subaru_Subaru_SOLTERRA AWD,MPG,Electricity,114.0,94.0,104.0
+2023.0_Subaru_Subaru_SOLTERRA LIMITED / TOURING AWD,MPG,Electricity,111.0,93.0,102.0
+2023.0_Toyota_TOYOTA_bZ4X,MPG,Electricity,131.0,107.0,119.0
+2023.0_Toyota_TOYOTA_bZ4X LIMITED,MPG,Electricity,125.0,103.0,114.0
+2023.0_Toyota_TOYOTA_bZ4X AWD,MPG,Electricity,114.0,94.0,104.0
+2023.0_Toyota_TOYOTA_bZ4X LIMITED AWD,MPG,Electricity,112.0,92.0,102.0
+2023.0_Volkswagen Group of_Volkswagen_ID.4,MPG,Electricity,115.0,99.0,107.0
+2023.0_Volkswagen Group of_Volkswagen_ID.4 AWD Pro,MPG,Electricity,104.0,93.0,99.0
+2023.0_Volkswagen Group of_Volkswagen_ID.4 AWD Pro S,MPG,Electricity,104.0,93.0,99.0
+2023.0_Volkswagen Group of_Volkswagen_ID.4 Pro,MPG,Electricity,115.0,98.0,107.0
+2023.0_Volkswagen Group of_Volkswagen_ID.4 Pro S,MPG,Electricity,115.0,98.0,107.0
+2023.0_Volkswagen Group of_Volkswagen_ID.4 S,MPG,Electricity,115.0,99.0,107.0
+"2023.0_Volvo_Volvo Cars of North America, LLC_C40 Recharge twin",MPG,Electricity,94.0,80.0,87.0
+"2023.0_Volvo_Volvo Cars of North America, LLC_XC40 Recharge twin",MPG,Electricity,92.0,79.0,85.0
