@@ -1,0 +1,1184 @@
+Models,Fuel_usage,Fuel_unit,City_FE,Hwy_FE,Comb_FE
+2023.0_Volkswagen Group of_Audi_e-tron GT,Electricity,MPG,81.0,83.0,82.0
+2023.0_Volkswagen Group of_Audi_RS e-tron GT,Electricity,MPG,79.0,82.0,81.0
+2023.0_Volkswagen Group of_Audi_Q4 e-tron,Electricity,MPG,112.0,94.0,103.0
+2023.0_Volkswagen Group of_Audi_e-tron quattro,Electricity,MPG,78.0,79.0,79.0
+2023.0_Volkswagen Group of_Audi_e-tron S (20in. wheels),Electricity,MPG,72.0,75.0,73.0
+2023.0_Volkswagen Group of_Audi_e-tron S Sportback (20 wheels),Electricity,MPG,73.0,78.0,75.0
+2023.0_Volkswagen Group of_Audi_e-tron Sportback quattro,Electricity,MPG,77.0,80.0,78.0
+2023.0_Volkswagen Group of_Audi_Q4 e-tron quattro,Electricity,MPG,97.0,87.0,93.0
+2023.0_Volkswagen Group of_Audi_Q4 e-tron Sportback,Electricity,MPG,100.0,89.0,95.0
+2023.0_BMW_BMW_i4 M50 Gran Coupe (19'' Wheels),Electricity,MPG,94.0,98.0,96.0
+2023.0_BMW_BMW_i4 M50 Gran Coupe (20'' Wheels),Electricity,MPG,79.0,80.0,80.0
+2023.0_BMW_BMW_i4 eDrive40 Gran Coupe (18'' Wheels),Electricity,MPG,109.0,108.0,109.0
+2023.0_BMW_BMW_i7 xDrive60 Sedan (19'' Wheels),Electricity,MPG,87.0,92.0,89.0
+2023.0_BMW_BMW_i7 xDrive60 Sedan (20'' Wheels),Electricity,MPG,81.0,85.0,83.0
+2023.0_BMW_BMW_i7 xDrive60 Sedan (21'' Wheels),Electricity,MPG,85.0,89.0,87.0
+2023.0_BMW_BMW_iX xDrive50 (20'' Wheels),Electricity,MPG,86.0,87.0,86.0
+2023.0_BMW_BMW_iX xDrive50 (21'' Wheels),Electricity,MPG,82.0,84.0,83.0
+2023.0_BMW_BMW_iX xDrive50 (22'' Wheels),Electricity,MPG,86.0,85.0,86.0
+"2023.0_BMW_BMW_iX M60 (21"" Wheels)",Electricity,MPG,76.0,80.0,77.0
+"2023.0_BMW_BMW_iX M60 (22"" Wheels)",Electricity,MPG,77.0,80.0,78.0
+2023.0_General Motors_Cadillac_LYRIQ,Electricity,MPG,97.0,82.0,89.0
+2023.0_General Motors_Chevrolet_BOLT EUV,Electricity,MPG,125.0,104.0,115.0
+2023.0_General Motors_Chevrolet_BOLT EV,Electricity,MPG,131.0,109.0,120.0
+2023.0_Ford Motor Company_Ford_F150 LIGHTNING EXTENDED RNG 4WD,Electricity,MPG,78.0,63.0,70.0
+2023.0_Ford Motor Company_Ford_F150 LIGHTNING PLATINUM 4WD,Electricity,MPG,73.0,60.0,66.0
+2023.0_Ford Motor Company_Ford_F150 PICKUP LIGHTNING 4WD,Electricity,MPG,76.0,61.0,68.0
+2023.0_Hyundai_GENESIS_Electrified G80,Electricity,MPG,105.0,89.0,97.0
+2023.0_Hyundai_GENESIS_GV60 ADVANCE,Electricity,MPG,103.0,86.0,95.0
+2023.0_Hyundai_GENESIS_GV60 PERFORMANCE,Electricity,MPG,97.0,82.0,90.0
+2023.0_Hyundai_HYUNDAI MOTOR COMPANY_Kona Electric,Electricity,MPG,134.0,106.0,120.0
+2023.0_Jaguar Land Rover L_Jaguar_I-PACE EV400 (20 inch tires),Electricity,MPG,89.0,82.0,85.0
+2023.0_Jaguar Land Rover L_Jaguar_I-PACE EV400 (22 inch tire),Electricity,MPG,79.0,72.0,76.0
+2023.0_Kia_KIA_EV6 AWD GT,Electricity,MPG,85.0,74.0,79.0
+2023.0_Kia_KIA_EV6 Long Range AWD (19inch tire),Electricity,MPG,120.0,98.0,109.0
+2023.0_Kia_KIA_EV6 Long Range AWD (20inch tire),Electricity,MPG,106.0,86.0,96.0
+2023.0_Kia_KIA_EV6 Long Range RWD,Electricity,MPG,134.0,101.0,117.0
+2023.0_Kia_KIA_EV6 Standard Range RWD,Electricity,MPG,136.0,100.0,117.0
+2023.0_Kia_KIA_Niro Electric,Electricity,MPG,126.0,101.0,113.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air G Touring XR AWD w/19"" wheels",Electricity,MPG,130.0,132.0,131.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air G Touring XR AWD w/20"" wheels",Electricity,MPG,121.0,122.0,121.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air G Touring XR AWD w/21"" wheels",Electricity,MPG,121.0,122.0,121.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air GT P AWD w/21"" wheels",Electricity,MPG,110.0,111.0,111.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air Pure AWD w/19"" wheels",Electricity,MPG,141.0,140.0,140.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air Pure AWD w/20"" wheels",Electricity,MPG,121.0,120.0,121.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air Touring AWD w/19"" wheels",Electricity,MPG,141.0,140.0,140.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air Touring AWD w/20"" wheels",Electricity,MPG,121.0,120.0,121.0
+"2023.0_Lucid USA, Inc_Lucid USA Inc._Air Touring AWD w/21"" wheels",Electricity,MPG,121.0,120.0,121.0
+2023.0_Mercedes-Benz_Mercedes-Benz_EQS 450 4MATIC,Electricity,MPG,101.0,105.0,103.0
+2023.0_Mercedes-Benz_Mercedes-Benz_EQS 450 4MATIC (SUV),Electricity,MPG,79.0,77.0,78.0
+2023.0_Mercedes-Benz_Mercedes-Benz_EQS 450+ (SUV),Electricity,MPG,87.0,83.0,85.0
+2023.0_Mercedes-Benz_Mercedes-Benz_EQS 580 4MATIC (SUV),Electricity,MPG,79.0,74.0,77.0
+2023.0_BMW_Mini_COOPER SE HARDTOP 2 DOOR,Electricity,MPG,119.0,100.0,110.0
+2023.0_Nissan_NISSAN_ARIYA ENGAGE FWD 63kWh,Electricity,MPG,109.0,94.0,101.0
+2023.0_Nissan_NISSAN_ARIYA EVO+/EMP+/PRM FWD 87kWh,Electricity,MPG,105.0,91.0,98.0
+2023.0_Nissan_NISSAN_ARIYA VENTURE+ FWD 87kWh,Electricity,MPG,111.0,95.0,103.0
+2023.0_Nissan_NISSAN_LEAF,Electricity,MPG,123.0,99.0,111.0
+2023.0_Nissan_NISSAN_LEAF SV,Electricity,MPG,121.0,98.0,109.0
+2023.0_Porsche_Porsche_Taycan 4 Cross Turismo,Electricity,MPG,80.0,80.0,80.0
+2023.0_Porsche_Porsche_Taycan 4S Cross Turismo,Electricity,MPG,78.0,78.0,78.0
+2023.0_Porsche_Porsche_Taycan 4S Perf Battery Plus,Electricity,MPG,79.0,81.0,80.0
+2023.0_Porsche_Porsche_Taycan 4S Performance Battery,Electricity,MPG,82.0,82.0,82.0
+2023.0_Porsche_Porsche_Taycan GTS,Electricity,MPG,83.0,82.0,83.0
+2023.0_Porsche_Porsche_Taycan GTS Sport Turismo,Electricity,MPG,80.0,80.0,80.0
+2023.0_Porsche_Porsche_Taycan Perf Battery Plus,Electricity,MPG,78.0,88.0,82.0
+2023.0_Porsche_Porsche_Taycan Performance Battery,Electricity,MPG,79.0,88.0,83.0
+2023.0_Porsche_Porsche_Taycan Turbo,Electricity,MPG,81.0,80.0,81.0
+2023.0_Porsche_Porsche_Taycan Turbo Cross Turismo,Electricity,MPG,80.0,78.0,79.0
+2023.0_Porsche_Porsche_Taycan Turbo S,Electricity,MPG,76.0,74.0,75.0
+2023.0_Porsche_Porsche_Taycan Turbo S Cross Turismo,Electricity,MPG,76.0,74.0,75.0
+2023.0_Rivian Automotive L_Rivian_R1T 20in,Electricity,MPG,69.0,60.0,64.0
+2023.0_Rivian Automotive L_Rivian_R1T 21in,Electricity,MPG,76.0,69.0,73.0
+2023.0_Rivian Automotive L_Rivian_R1T 22in,Electricity,MPG,73.0,63.0,68.0
+2023.0_Rivian Automotive L_Rivian_R1S 20in,Electricity,MPG,69.0,60.0,64.0
+2023.0_Rivian Automotive L_Rivian_R1S 21in,Electricity,MPG,75.0,66.0,71.0
+2023.0_Rivian Automotive L_Rivian_R1S 22in,Electricity,MPG,73.0,63.0,68.0
+2023.0_Tesla_Tesla Motors_Model 3 Long Range AWD,Electricity,MPG,134.0,126.0,131.0
+2023.0_Tesla_Tesla Motors_Model 3 Performance AWD,Electricity,MPG,118.0,107.0,113.0
+2023.0_Tesla_Tesla Motors_Model 3 RWD,Electricity,MPG,138.0,126.0,132.0
+2023.0_Tesla_Tesla Motors_Model S,Electricity,MPG,124.0,115.0,120.0
+2023.0_Tesla_Tesla Motors_Model X,Electricity,MPG,107.0,97.0,102.0
+"2023.0_Tesla_Tesla Motors_Model X Plaid (20"" Wheels)",Electricity,MPG,103.0,93.0,98.0
+"2023.0_Tesla_Tesla Motors_Model X Plaid (22"" Wheels)",Electricity,MPG,94.0,88.0,91.0
+2023.0_Tesla_Tesla Motors_Model Y AWD,Electricity,MPG,129.0,116.0,123.0
+2023.0_Tesla_Tesla Motors_Model Y Long Range AWD,Electricity,MPG,127.0,117.0,122.0
+2023.0_Tesla_Tesla Motors_Model Y Performance AWD,Electricity,MPG,115.0,106.0,111.0
+2023.0_Volvo_Polestar Automotive USA Inc_Polestar 2 BST edition,Electricity,MPG,98.0,91.0,96.0
+2023.0_Volvo_Polestar Automotive USA Inc_Polestar 2 Dual Motor,Electricity,MPG,105.0,96.0,100.0
+2023.0_Volvo_Polestar Automotive USA Inc_Polestar 2 Dual Motor Perf Pack,Electricity,MPG,105.0,96.0,100.0
+2023.0_Volvo_Polestar Automotive USA Inc_Polestar 2 Single Motor,Electricity,MPG,113.0,100.0,107.0
+2023.0_Subaru_Subaru_SOLTERRA AWD,Electricity,MPG,114.0,94.0,104.0
+2023.0_Subaru_Subaru_SOLTERRA LIMITED / TOURING AWD,Electricity,MPG,111.0,93.0,102.0
+2023.0_Toyota_TOYOTA_bZ4X,Electricity,MPG,131.0,107.0,119.0
+2023.0_Toyota_TOYOTA_bZ4X LIMITED,Electricity,MPG,125.0,103.0,114.0
+2023.0_Toyota_TOYOTA_bZ4X AWD,Electricity,MPG,114.0,94.0,104.0
+2023.0_Toyota_TOYOTA_bZ4X LIMITED AWD,Electricity,MPG,112.0,92.0,102.0
+2023.0_Volkswagen Group of_Volkswagen_ID.4,Electricity,MPG,115.0,99.0,107.0
+2023.0_Volkswagen Group of_Volkswagen_ID.4 AWD Pro,Electricity,MPG,104.0,93.0,99.0
+2023.0_Volkswagen Group of_Volkswagen_ID.4 AWD Pro S,Electricity,MPG,104.0,93.0,99.0
+2023.0_Volkswagen Group of_Volkswagen_ID.4 Pro,Electricity,MPG,115.0,98.0,107.0
+2023.0_Volkswagen Group of_Volkswagen_ID.4 Pro S,Electricity,MPG,115.0,98.0,107.0
+2023.0_Volkswagen Group of_Volkswagen_ID.4 S,Electricity,MPG,115.0,99.0,107.0
+"2023.0_Volvo_Volvo Cars of North America, LLC_C40 Recharge twin",Electricity,MPG,94.0,80.0,87.0
+"2023.0_Volvo_Volvo Cars of North America, LLC_XC40 Recharge twin",Electricity,MPG,92.0,79.0,85.0
+2023_Aston Martin Lagonda Ltd_V12 Vantage,Gasoline,MPG,14.0,22.0,16.0
+2023_Aston Martin Lagonda Ltd_Vantage V8,Gasoline,MPG,18.0,24.0,20.0
+2023_Audi_R8 Coupe quattro,Gasoline,MPG,13.0,18.0,15.0
+2023_Audi_R8 Coupe RWD,Gasoline,MPG,14.0,23.0,17.0
+2023_Audi_R8 GT RWD,Gasoline,MPG,14.0,21.0,17.0
+2023_Audi_R8 Spyder quattro,Gasoline,MPG,13.0,18.0,15.0
+2023_Audi_R8 Spyder RWD,Gasoline,MPG,14.0,23.0,17.0
+2023_Audi_TT Roadster,Gasoline,MPG,23.0,30.0,25.0
+2023_BMW_Z4 M40i,Gasoline,MPG,23.0,31.0,26.0
+2023_BMW_Z4 sDrive30i,Gasoline,MPG,25.0,33.0,28.0
+2023_Bugatti_Chiron,Gasoline,MPG,9.0,14.0,11.0
+2023_Bugatti_Chiron Pur Sport,Gasoline,MPG,8.0,11.0,9.0
+2023_Bugatti_Chiron Super Sport,Gasoline,MPG,8.0,11.0,9.0
+2023_Chevrolet_CORVETTE,Gasoline,MPG,16.0,24.0,19.0
+2023_Chevrolet_CORVETTE Z06,Gasoline,MPG,12.0,21.0,15.0
+2023_Chevrolet_CORVETTE Z06 CARBON AERO,Gasoline,MPG,12.0,19.0,14.0
+"2023_Ferrari North America, Inc._812 Competizione",Gasoline,MPG,12.0,16.0,14.0
+"2023_Ferrari North America, Inc._812 Competizione A",Gasoline,MPG,12.0,16.0,14.0
+"2023_Ferrari North America, Inc._812 GTS",Gasoline,MPG,12.0,15.0,13.0
+"2023_Ferrari North America, Inc._F8 Spider",Gasoline,MPG,15.0,18.0,16.0
+"2023_Ferrari North America, Inc._F8 Tributo",Gasoline,MPG,15.0,19.0,16.0
+"2023_Ferrari North America, Inc._Ferrari Daytona SP3",Gasoline,MPG,12.0,16.0,13.0
+"2023_Ferrari North America, Inc._Ferrari Monza SP1",Gasoline,MPG,12.0,15.0,13.0
+"2023_Ferrari North America, Inc._Ferrari Monza SP2",Gasoline,MPG,12.0,15.0,13.0
+2023_Jaguar_F-TYPE P450 AWD R-Dynamic Conv,Gasoline,MPG,16.0,24.0,18.0
+2023_Jaguar_F-TYPE P450 AWD R-Dynamic Coupe,Gasoline,MPG,16.0,24.0,18.0
+2023_Jaguar_F-TYPE P450 RWD Convertible,Gasoline,MPG,17.0,24.0,19.0
+2023_Jaguar_F-TYPE P450 RWD Coupe,Gasoline,MPG,17.0,24.0,19.0
+2023_Jaguar_F-TYPE R AWD Convertible,Gasoline,MPG,16.0,24.0,18.0
+2023_Jaguar_F-TYPE R AWD Coupe,Gasoline,MPG,16.0,24.0,18.0
+2023_Lamborghini_Huracan Coupe,Gasoline,MPG,13.0,18.0,15.0
+2023_Lamborghini_Huracan Coupe 2WD,Gasoline,MPG,13.0,18.0,15.0
+2023_Lamborghini_Huracan Spyder,Gasoline,MPG,13.0,18.0,15.0
+2023_Lamborghini_Huracan Spyder 2WD,Gasoline,MPG,13.0,18.0,15.0
+2023_MASERATI_MC20,Gasoline,MPG,15.0,25.0,18.0
+2023_MASERATI_MC20 Spyder,Gasoline,MPG,15.0,25.0,18.0
+2023_MAZDA_MX-5,Gasoline,MPG,26.0,35.0,30.0
+2023_MAZDA_MX-5,Gasoline,MPG,26.0,34.0,29.0
+2023_NISSAN_Z,Gasoline,MPG,19.0,28.0,22.0
+2023_NISSAN_Z,Gasoline,MPG,18.0,24.0,20.0
+2023_Porsche_718 Boxster,Gasoline,MPG,21.0,27.0,24.0
+2023_Porsche_718 Boxster,Gasoline,MPG,20.0,25.0,22.0
+2023_Porsche_718 Boxster GTS 4.0,Gasoline,MPG,19.0,24.0,21.0
+2023_Porsche_718 Boxster GTS 4.0,Gasoline,MPG,17.0,24.0,19.0
+2023_Porsche_718 Boxster S,Gasoline,MPG,19.0,25.0,22.0
+2023_Porsche_718 Boxster S,Gasoline,MPG,19.0,24.0,21.0
+2023_Porsche_718 Boxster T,Gasoline,MPG,21.0,27.0,23.0
+2023_Porsche_718 Boxster T,Gasoline,MPG,20.0,26.0,22.0
+2023_Porsche_718 Cayman,Gasoline,MPG,21.0,27.0,24.0
+2023_Porsche_718 Cayman,Gasoline,MPG,20.0,25.0,22.0
+2023_Porsche_718 Cayman GT4,Gasoline,MPG,18.0,24.0,20.0
+2023_Porsche_718 Cayman GT4,Gasoline,MPG,17.0,23.0,19.0
+2023_Porsche_718 Cayman GTS 4.0,Gasoline,MPG,19.0,24.0,21.0
+2023_Porsche_718 Cayman GTS 4.0,Gasoline,MPG,17.0,24.0,19.0
+2023_Porsche_718 Cayman S,Gasoline,MPG,19.0,25.0,22.0
+2023_Porsche_718 Cayman S,Gasoline,MPG,19.0,24.0,21.0
+2023_Porsche_718 Cayman T,Gasoline,MPG,21.0,27.0,23.0
+2023_Porsche_718 Cayman T,Gasoline,MPG,20.0,26.0,22.0
+2023_Porsche_718 GT4 RS,Gasoline,MPG,15.0,19.0,16.0
+2023_Porsche_718 Spyder,Gasoline,MPG,18.0,24.0,20.0
+2023_Porsche_718 Spyder,Gasoline,MPG,17.0,23.0,19.0
+2023_Porsche_911 GT3,Gasoline,MPG,15.0,18.0,16.0
+2023_Porsche_911 GT3,Gasoline,MPG,14.0,18.0,16.0
+2023_Porsche_911 GT3 Touring,Gasoline,MPG,15.0,18.0,16.0
+2023_Porsche_911 GT3 Touring,Gasoline,MPG,14.0,18.0,16.0
+2023_TOYOTA_Supra 2.0,Gasoline,MPG,25.0,31.0,27.0
+2023_TOYOTA_Supra 3.0,Gasoline,MPG,23.0,31.0,26.0
+2023_TOYOTA_Supra 3.0,Gasoline,MPG,19.0,27.0,21.0
+2023_Aston Martin Lagonda Ltd_DB11 V12,Gasoline,MPG,14.0,22.0,17.0
+2023_Aston Martin Lagonda Ltd_DB11 V8,Gasoline,MPG,18.0,24.0,20.0
+2023_Aston Martin Lagonda Ltd_DBS,Gasoline,MPG,14.0,22.0,17.0
+2023_Bentley_Continental GT Convertible,Gasoline,MPG,15.0,22.0,18.0
+2023_Bentley_Continental GT Convertible Speed,Gasoline,MPG,12.0,18.0,14.0
+"2023_Ferrari North America, Inc._Portofino M",Gasoline,MPG,16.0,23.0,19.0
+2023_LEXUS_LC 500 CONVERTIBLE,Gasoline,MPG,15.0,25.0,18.0
+2023_Mini_COOPER CONVERTIBLE,Gasoline,MPG,29.0,38.0,32.0
+2023_Mini_COOPER CONVERTIBLE,Gasoline,MPG,27.0,37.0,31.0
+2023_Mini_COOPER S CONVERTIBLE,Gasoline,MPG,27.0,36.0,30.0
+2023_Mini_COOPER S CONVERTIBLE,Gasoline,MPG,23.0,33.0,27.0
+2023_Mini_JOHN COOPER WORKS CONVERTIBLE,Gasoline,MPG,24.0,33.0,27.0
+2023_Porsche_911 Carrera,Gasoline,MPG,18.0,24.0,20.0
+2023_Porsche_911 Carrera 4,Gasoline,MPG,18.0,24.0,20.0
+2023_Porsche_911 Carrera 4 Cabriolet,Gasoline,MPG,18.0,24.0,20.0
+2023_Porsche_911 Carrera 4 GTS,Gasoline,MPG,17.0,23.0,19.0
+2023_Porsche_911 Carrera 4 GTS,Gasoline,MPG,17.0,23.0,19.0
+2023_Porsche_911 Carrera 4 GTS Cabriolet,Gasoline,MPG,17.0,22.0,19.0
+2023_Porsche_911 Carrera 4 GTS Cabriolet,Gasoline,MPG,16.0,23.0,19.0
+2023_Porsche_911 Carrera 4S,Gasoline,MPG,18.0,23.0,20.0
+2023_Porsche_911 Carrera 4S,Gasoline,MPG,17.0,25.0,20.0
+2023_Porsche_911 Carrera 4S Cabriolet,Gasoline,MPG,18.0,23.0,20.0
+2023_Porsche_911 Carrera 4S Cabriolet,Gasoline,MPG,17.0,24.0,20.0
+2023_Porsche_911 Carrera Cabriolet,Gasoline,MPG,18.0,24.0,20.0
+2023_Porsche_911 Carrera GTS,Gasoline,MPG,17.0,23.0,19.0
+2023_Porsche_911 Carrera GTS,Gasoline,MPG,17.0,24.0,20.0
+2023_Porsche_911 Carrera GTS Cabriolet,Gasoline,MPG,17.0,23.0,19.0
+2023_Porsche_911 Carrera GTS Cabriolet,Gasoline,MPG,17.0,24.0,20.0
+2023_Porsche_911 Carrera S,Gasoline,MPG,18.0,23.0,20.0
+2023_Porsche_911 Carrera S,Gasoline,MPG,18.0,25.0,21.0
+2023_Porsche_911 Carrera S Cabriolet,Gasoline,MPG,18.0,23.0,20.0
+2023_Porsche_911 Carrera S Cabriolet,Gasoline,MPG,17.0,25.0,20.0
+2023_Porsche_911 Sport Classic,Gasoline,MPG,15.0,21.0,17.0
+2023_Porsche_911 Targa 4,Gasoline,MPG,18.0,24.0,20.0
+2023_Porsche_911 Targa 4 GTS,Gasoline,MPG,17.0,22.0,19.0
+2023_Porsche_911 Targa 4 GTS,Gasoline,MPG,16.0,23.0,19.0
+2023_Porsche_911 Targa 4S,Gasoline,MPG,18.0,23.0,20.0
+2023_Porsche_911 Targa 4S,Gasoline,MPG,17.0,24.0,20.0
+2023_Porsche_911 Turbo,Gasoline,MPG,15.0,20.0,17.0
+2023_Porsche_911 Turbo Cabriolet,Gasoline,MPG,15.0,20.0,17.0
+2023_Porsche_911 Turbo S,Gasoline,MPG,15.0,20.0,17.0
+2023_Porsche_911 Turbo S Cabriolet,Gasoline,MPG,15.0,20.0,17.0
+2023_Subaru_BRZ,Gasoline,MPG,21.0,30.0,25.0
+2023_Subaru_BRZ,Gasoline,MPG,20.0,27.0,22.0
+2023_TOYOTA_GR86,Gasoline,MPG,21.0,31.0,25.0
+2023_TOYOTA_GR86,Gasoline,MPG,20.0,27.0,22.0
+2023_Audi_A3,Gasoline,MPG,28.0,38.0,32.0
+2023_Audi_A3 quattro,Gasoline,MPG,27.0,35.0,30.0
+2023_Audi_A5 Cabriolet quattro,Gasoline,MPG,24.0,31.0,26.0
+2023_Audi_A5 Coupe quattro,Gasoline,MPG,24.0,32.0,27.0
+2023_Audi_RS5 Coupe,Gasoline,MPG,18.0,26.0,21.0
+2023_Audi_S3,Gasoline,MPG,23.0,32.0,26.0
+2023_Audi_S5 Cabriolet,Gasoline,MPG,21.0,28.0,23.0
+2023_Audi_S5 Coupe,Gasoline,MPG,21.0,30.0,24.0
+2023_Audi_TT Coupe,Gasoline,MPG,23.0,30.0,25.0
+2023_Audi_TTS Coupe,Gasoline,MPG,23.0,31.0,26.0
+2023_Bentley_Continental GT,Gasoline,MPG,15.0,23.0,18.0
+2023_Bentley_Continental GT Speed,Gasoline,MPG,12.0,20.0,15.0
+2023_BMW_230i Coupe,Gasoline,MPG,26.0,35.0,29.0
+2023_BMW_230i xDrive Coupe,Gasoline,MPG,24.0,34.0,28.0
+2023_BMW_430i Convertible,Gasoline,MPG,25.0,34.0,28.0
+2023_BMW_430i Coupe,Gasoline,MPG,25.0,34.0,28.0
+2023_BMW_430i xDrive Convertible,Gasoline,MPG,23.0,33.0,27.0
+2023_BMW_430i xDrive Coupe,Gasoline,MPG,23.0,33.0,27.0
+2023_BMW_840i Convertible,Gasoline,MPG,21.0,29.0,24.0
+2023_BMW_840i Coupe,Gasoline,MPG,21.0,29.0,24.0
+2023_BMW_840i xDrive Convertible,Gasoline,MPG,21.0,29.0,24.0
+2023_BMW_840i xDrive Coupe,Gasoline,MPG,21.0,29.0,24.0
+2023_BMW_M2 Coupe,Gasoline,MPG,16.0,23.0,19.0
+2023_BMW_M2 Coupe,Gasoline,MPG,16.0,24.0,19.0
+2023_BMW_M240i Coupe,Gasoline,MPG,22.0,32.0,26.0
+2023_BMW_M240i xDrive Coupe,Gasoline,MPG,23.0,32.0,26.0
+2023_BMW_M4 Competition Coupe,Gasoline,MPG,16.0,23.0,19.0
+2023_BMW_M4 Competition M xDrive Coupe,Gasoline,MPG,16.0,22.0,18.0
+2023_BMW_M4 Coupe,Gasoline,MPG,16.0,23.0,19.0
+2023_BMW_M4 CSL Coupe,Gasoline,MPG,16.0,23.0,18.0
+2023_BMW_M440i Convertible,Gasoline,MPG,23.0,31.0,26.0
+2023_BMW_M440i Coupe,Gasoline,MPG,24.0,32.0,27.0
+2023_BMW_M440i xDrive Convertible,Gasoline,MPG,22.0,31.0,25.0
+2023_BMW_M440i xDrive Coupe,Gasoline,MPG,22.0,31.0,25.0
+2023_BMW_M4CompetitionMxDriveConvertible,Gasoline,MPG,16.0,23.0,18.0
+2023_BMW_M8 Competition Convertible,Gasoline,MPG,15.0,22.0,17.0
+2023_BMW_M8 Competition Coupe,Gasoline,MPG,15.0,22.0,17.0
+2023_BMW_M850i xDrive Convertible,Gasoline,MPG,17.0,24.0,19.0
+2023_BMW_M850i xDrive Coupe,Gasoline,MPG,17.0,24.0,19.0
+2023_Chevrolet_CAMARO,Gasoline,MPG,22.0,30.0,25.0
+2023_Chevrolet_CAMARO,Gasoline,MPG,19.0,28.0,22.0
+2023_Chevrolet_CAMARO,Gasoline,MPG,18.0,29.0,22.0
+2023_Chevrolet_CAMARO,Gasoline,MPG,16.0,26.0,20.0
+2023_Chevrolet_CAMARO,Gasoline,MPG,13.0,21.0,16.0
+2023_Chevrolet_CAMARO,Gasoline,MPG,16.0,26.0,20.0
+2023_Chevrolet_CAMARO,Gasoline,MPG,16.0,24.0,19.0
+2023_Chevrolet_CAMARO,Gasoline,MPG,14.0,20.0,16.0
+"2023_Ferrari North America, Inc._Roma",Gasoline,MPG,17.0,22.0,19.0
+2023_Ford_MUSTANG,Gasoline,MPG,22.0,32.0,25.0
+2023_Ford_MUSTANG,Gasoline,MPG,21.0,31.0,24.0
+2023_Ford_MUSTANG,Gasoline,MPG,21.0,29.0,24.0
+2023_Ford_MUSTANG,Gasoline,MPG,15.0,24.0,19.0
+2023_Ford_MUSTANG,Gasoline,MPG,15.0,24.0,18.0
+2023_Ford_MUSTANG CONVERTIBLE,Gasoline,MPG,20.0,28.0,23.0
+2023_Ford_MUSTANG CONVERTIBLE,Gasoline,MPG,20.0,28.0,23.0
+2023_Ford_MUSTANG CONVERTIBLE,Gasoline,MPG,20.0,27.0,23.0
+2023_Ford_MUSTANG CONVERTIBLE,Gasoline,MPG,15.0,23.0,18.0
+2023_Ford_MUSTANG HO CONVERTIBLE,Gasoline,MPG,19.0,26.0,22.0
+2023_Ford_MUSTANG HO CONVERTIBLE,Gasoline,MPG,19.0,25.0,21.0
+2023_Ford_MUSTANG HO COUPE,Gasoline,MPG,20.0,27.0,23.0
+2023_Ford_MUSTANG HO COUPE,Gasoline,MPG,20.0,27.0,22.0
+2023_Ford_MUSTANG MACH 1,Gasoline,MPG,15.0,23.0,18.0
+2023_Ford_MUSTANG MACH 1,Gasoline,MPG,14.0,22.0,17.0
+2023_LEXUS_LC 500,Gasoline,MPG,16.0,25.0,19.0
+2023_LEXUS_LC 500h,Gasoline,MPG,26.0,33.0,29.0
+2023_LEXUS_RC 300,Gasoline,MPG,21.0,31.0,25.0
+2023_LEXUS_RC 300 AWD,Gasoline,MPG,19.0,26.0,22.0
+2023_LEXUS_RC 350,Gasoline,MPG,20.0,28.0,23.0
+2023_LEXUS_RC 350 AWD,Gasoline,MPG,19.0,26.0,22.0
+2023_LEXUS_RC F,Gasoline,MPG,16.0,24.0,19.0
+2023_Mercedes-Benz_AMG C 43 4MATIC (convertible),Gasoline,MPG,18.0,28.0,22.0
+2023_Mercedes-Benz_AMG C 43 4MATIC (coupe),Gasoline,MPG,18.0,27.0,21.0
+2023_Mercedes-Benz_AMG E 53 4MATIC+ (Convertible),Gasoline,MPG,20.0,27.0,23.0
+2023_Mercedes-Benz_AMG E 53 4MATIC+ (Coupe),Gasoline,MPG,20.0,28.0,23.0
+2023_Mercedes-Benz_C 300 (convertible),Gasoline,MPG,21.0,29.0,24.0
+2023_Mercedes-Benz_C 300 (Coupe),Gasoline,MPG,22.0,31.0,25.0
+2023_Mercedes-Benz_C 300 4MATIC (convertible),Gasoline,MPG,21.0,30.0,25.0
+2023_Mercedes-Benz_C 300 4MATIC (Coupe),Gasoline,MPG,22.0,31.0,25.0
+2023_Mercedes-Benz_E 450 (convertible),Gasoline,MPG,22.0,29.0,25.0
+2023_Mercedes-Benz_E 450 (coupe),Gasoline,MPG,23.0,30.0,25.0
+2023_Mercedes-Benz_E 450 4MATIC (convertible),Gasoline,MPG,22.0,29.0,24.0
+2023_Mercedes-Benz_E 450 4MATIC (coupe),Gasoline,MPG,21.0,30.0,24.0
+2023_Mini_COOPER HARDTOP 2 DOOR,Gasoline,MPG,29.0,38.0,32.0
+2023_Mini_COOPER HARDTOP 2 DOOR,Gasoline,MPG,27.0,37.0,31.0
+2023_Mini_COOPER HARDTOP 4 DOOR,Gasoline,MPG,29.0,38.0,32.0
+2023_Mini_COOPER HARDTOP 4 DOOR,Gasoline,MPG,27.0,37.0,31.0
+2023_Mini_COOPER S HARDTOP 2 DOOR,Gasoline,MPG,28.0,38.0,31.0
+2023_Mini_COOPER S HARDTOP 2 DOOR,Gasoline,MPG,23.0,33.0,27.0
+2023_Mini_COOPER S HARDTOP 4 DOOR,Gasoline,MPG,28.0,38.0,31.0
+2023_Mini_COOPER S HARDTOP 4 DOOR,Gasoline,MPG,23.0,33.0,27.0
+2023_Mini_JOHN COOPER WORKS HARDTOP 2 DOOR,Gasoline,MPG,25.0,34.0,29.0
+2023_Mini_JOHN COOPER WORKS HARDTOP 2 DOOR,Gasoline,MPG,22.0,31.0,25.0
+2023_NISSAN_GT-R,Gasoline,MPG,16.0,22.0,18.0
+2023_TOYOTA_GR COROLLA,Gasoline,MPG,21.0,28.0,24.0
+2023_Acura_TLX AWD,Gasoline,MPG,21.0,29.0,24.0
+2023_Acura_TLX AWD A-SPEC,Gasoline,MPG,21.0,29.0,24.0
+2023_Acura_TLX FWD,Gasoline,MPG,22.0,31.0,25.0
+2023_Acura_TLX FWD A-SPEC,Gasoline,MPG,22.0,30.0,25.0
+2023_Acura_TLX Type-S,Gasoline,MPG,19.0,25.0,21.0
+2023_Acura_TLX Type-S Perf Tire,Gasoline,MPG,19.0,24.0,21.0
+2023_Audi_A4 quattro,Gasoline,MPG,24.0,33.0,28.0
+2023_Audi_A4 S-Line quattro,Gasoline,MPG,24.0,32.0,27.0
+2023_Audi_S4,Gasoline,MPG,21.0,30.0,24.0
+2023_BMW_228i Gran Coupe,Gasoline,MPG,24.0,34.0,28.0
+2023_BMW_228i xDrive Gran Coupe,Gasoline,MPG,23.0,33.0,27.0
+2023_BMW_330i Sedan,Gasoline,MPG,25.0,34.0,29.0
+2023_BMW_330i xDrive Sedan,Gasoline,MPG,24.0,33.0,27.0
+2023_BMW_430i Gran Coupe,Gasoline,MPG,25.0,34.0,28.0
+2023_BMW_430i xDrive Gran Coupe,Gasoline,MPG,23.0,33.0,27.0
+2023_BMW_M235i xDrive Gran Coupe,Gasoline,MPG,24.0,33.0,27.0
+2023_BMW_M3 Competition M xDrive Sedan,Gasoline,MPG,16.0,22.0,18.0
+2023_BMW_M3 Competition Sedan,Gasoline,MPG,16.0,23.0,19.0
+2023_BMW_M3 Sedan,Gasoline,MPG,16.0,23.0,19.0
+2023_BMW_M340i Sedan,Gasoline,MPG,23.0,31.0,26.0
+2023_BMW_M340i xDrive Sedan,Gasoline,MPG,23.0,32.0,26.0
+2023_BMW_M440i Gran Coupe,Gasoline,MPG,24.0,32.0,27.0
+2023_BMW_M440i xDrive Gran Coupe,Gasoline,MPG,22.0,31.0,25.0
+2023_Cadillac_CT4,Gasoline,MPG,23.0,34.0,27.0
+2023_Cadillac_CT4,Gasoline,MPG,21.0,31.0,25.0
+2023_Cadillac_CT4 AWD,Gasoline,MPG,22.0,31.0,26.0
+2023_Cadillac_CT4 AWD,Gasoline,MPG,21.0,29.0,24.0
+2023_Cadillac_CT4 V,Gasoline,MPG,20.0,29.0,23.0
+2023_Cadillac_CT4 V,Gasoline,MPG,16.0,24.0,19.0
+2023_Cadillac_CT4 V,Gasoline,MPG,15.0,23.0,18.0
+2023_Cadillac_CT4 V AWD,Gasoline,MPG,20.0,28.0,23.0
+2023_GENESIS_G70 AWD,Gasoline,MPG,20.0,28.0,23.0
+2023_GENESIS_G70 AWD,Gasoline,MPG,17.0,26.0,20.0
+2023_GENESIS_G70 RWD,Gasoline,MPG,21.0,31.0,25.0
+2023_GENESIS_G70 RWD,Gasoline,MPG,18.0,27.0,21.0
+2023_KIA_Rio,Gasoline,MPG,32.0,41.0,36.0
+2023_LEXUS_IS 300,Gasoline,MPG,21.0,31.0,25.0
+2023_LEXUS_IS 300 AWD,Gasoline,MPG,19.0,26.0,22.0
+2023_LEXUS_IS 350,Gasoline,MPG,20.0,28.0,23.0
+2023_LEXUS_IS 350 AWD,Gasoline,MPG,19.0,26.0,22.0
+2023_LEXUS_IS 500,Gasoline,MPG,17.0,25.0,20.0
+2023_LEXUS_UX 250h,Gasoline,MPG,43.0,41.0,42.0
+2023_LEXUS_UX 250h,Gasoline,MPG,43.0,41.0,42.0
+2023_LEXUS_UX 250h AWD,Gasoline,MPG,41.0,38.0,39.0
+2023_LEXUS_UX 250h AWD,Gasoline,MPG,41.0,38.0,39.0
+2023_MAZDA_MAZDA3 4-Door 2WD,Gasoline,MPG,28.0,36.0,31.0
+2023_MAZDA_MAZDA3 4-Door 2WD,Gasoline,MPG,28.0,37.0,31.0
+2023_MAZDA_MAZDA3 4-Door 4WD,Gasoline,MPG,26.0,35.0,30.0
+2023_MAZDA_MAZDA3 4-Door 4WD,Gasoline,MPG,23.0,32.0,27.0
+2023_Mercedes-Benz_AMG CLA 35 4MATIC,Gasoline,MPG,21.0,29.0,24.0
+2023_Mercedes-Benz_AMG CLA 45 4MATIC,Gasoline,MPG,20.0,28.0,23.0
+2023_Mercedes-Benz_AMG GT 43 4MATIC+,Gasoline,MPG,19.0,24.0,21.0
+2023_Mercedes-Benz_AMG GT 53 4MATIC+,Gasoline,MPG,19.0,24.0,21.0
+2023_Mercedes-Benz_AMG GT 63 4MATIC+,Gasoline,MPG,15.0,21.0,17.0
+2023_Mercedes-Benz_AMG GT 63 S 4MATIC+,Gasoline,MPG,15.0,21.0,17.0
+2023_Mercedes-Benz_C 300,Gasoline,MPG,25.0,36.0,29.0
+2023_Mercedes-Benz_C 300 4MATIC,Gasoline,MPG,24.0,33.0,27.0
+2023_Mercedes-Benz_CLA 250,Gasoline,MPG,25.0,36.0,29.0
+2023_Mercedes-Benz_CLA 250 4MATIC,Gasoline,MPG,24.0,33.0,27.0
+2023_Mercedes-Benz_CLS 450 4MATIC,Gasoline,MPG,22.0,30.0,25.0
+2023_Mitsubishi Motors Corporation_MIRAGE,Gasoline,MPG,36.0,43.0,39.0
+2023_Mitsubishi Motors Corporation_MIRAGE,Gasoline,MPG,33.0,41.0,36.0
+2023_Mitsubishi Motors Corporation_MIRAGE G4,Gasoline,MPG,35.0,41.0,37.0
+2023_Mitsubishi Motors Corporation_MIRAGE G4,Gasoline,MPG,33.0,40.0,35.0
+2023_NISSAN_VERSA,Gasoline,MPG,32.0,40.0,35.0
+2023_NISSAN_VERSA,Gasoline,MPG,27.0,35.0,30.0
+2023_TOYOTA_COROLLA,Gasoline,MPG,31.0,40.0,34.0
+2023_TOYOTA_COROLLA,Gasoline,MPG,32.0,41.0,35.0
+2023_TOYOTA_COROLLA HATCHBACK,Gasoline,MPG,32.0,41.0,35.0
+2023_TOYOTA_COROLLA HATCHBACK XSE,Gasoline,MPG,30.0,38.0,33.0
+2023_TOYOTA_COROLLA HYBRID,Gasoline,MPG,50.0,43.0,47.0
+2023_TOYOTA_COROLLA HYBRID,Gasoline,MPG,53.0,46.0,50.0
+2023_TOYOTA_COROLLA HYBRID AWD,Gasoline,MPG,47.0,41.0,44.0
+2023_TOYOTA_COROLLA HYBRID AWD,Gasoline,MPG,51.0,44.0,48.0
+2023_Volkswagen_GLI,Gasoline,MPG,26.0,36.0,30.0
+2023_Volkswagen_GLI,Gasoline,MPG,26.0,37.0,30.0
+2023_Volkswagen_Golf-R,Gasoline,MPG,23.0,30.0,26.0
+2023_Volkswagen_Golf-R,Gasoline,MPG,20.0,28.0,23.0
+2023_Volkswagen_GTI,Gasoline,MPG,24.0,34.0,28.0
+2023_Volkswagen_GTI,Gasoline,MPG,23.0,32.0,27.0
+2023_Volkswagen_Jetta,Gasoline,MPG,31.0,41.0,35.0
+2023_Volkswagen_Jetta,Gasoline,MPG,29.0,42.0,34.0
+2023_Volkswagen_Jetta Sport/SE/SEL,Gasoline,MPG,29.0,40.0,33.0
+"2023_Volvo Cars of North America, LLC_S60 B5",Gasoline,MPG,26.0,35.0,30.0
+"2023_Volvo Cars of North America, LLC_S60 B5 AWD",Gasoline,MPG,25.0,33.0,28.0
+2023_ALFA ROMEO_Giulia,Gasoline,MPG,24.0,33.0,27.0
+2023_ALFA ROMEO_Giulia,Gasoline,MPG,17.0,25.0,20.0
+2023_ALFA ROMEO_Giulia AWD,Gasoline,MPG,23.0,31.0,26.0
+2023_Audi_A5 Sportback quattro,Gasoline,MPG,24.0,33.0,28.0
+2023_Audi_A5 Sportback S-Line quattro,Gasoline,MPG,24.0,32.0,27.0
+2023_Audi_A6 quattro,Gasoline,MPG,24.0,31.0,27.0
+2023_Audi_A6 quattro,Gasoline,MPG,21.0,30.0,24.0
+2023_Audi_A7,Gasoline,MPG,21.0,30.0,24.0
+2023_Audi_RS 7,Gasoline,MPG,14.0,21.0,17.0
+2023_Audi_RS5 Sportback,Gasoline,MPG,18.0,25.0,21.0
+2023_Audi_S5 Sportback,Gasoline,MPG,21.0,30.0,24.0
+2023_Audi_S6,Gasoline,MPG,19.0,26.0,22.0
+2023_Audi_S7,Gasoline,MPG,19.0,26.0,22.0
+2023_Bentley_Flying Spur,Gasoline,MPG,15.0,22.0,17.0
+2023_Bentley_Flying Spur,Gasoline,MPG,12.0,19.0,15.0
+2023_BMW_530i Sedan,Gasoline,MPG,25.0,33.0,28.0
+2023_BMW_530i xDrive Sedan,Gasoline,MPG,23.0,32.0,26.0
+2023_BMW_540i Sedan,Gasoline,MPG,25.0,32.0,27.0
+2023_BMW_540i xDrive Sedan,Gasoline,MPG,22.0,29.0,25.0
+2023_BMW_840i Gran Coupe,Gasoline,MPG,21.0,29.0,24.0
+2023_BMW_840i xDrive Gran Coupe,Gasoline,MPG,21.0,29.0,24.0
+2023_BMW_ALPINA B8 Gran Coupe,Gasoline,MPG,17.0,24.0,19.0
+2023_BMW_M5 Competition Sedan,Gasoline,MPG,15.0,21.0,17.0
+2023_BMW_M5 Sedan,Gasoline,MPG,15.0,21.0,17.0
+2023_BMW_M550i xDrive Sedan,Gasoline,MPG,17.0,25.0,20.0
+2023_BMW_M8 Competition Gran Coupe,Gasoline,MPG,15.0,22.0,17.0
+2023_BMW_M850i xDrive Gran Coupe,Gasoline,MPG,17.0,24.0,19.0
+2023_BMW_X2 M35i,Gasoline,MPG,24.0,31.0,27.0
+2023_BMW_X2 sDrive28i,Gasoline,MPG,24.0,32.0,27.0
+2023_BMW_X2 xDrive28i,Gasoline,MPG,24.0,31.0,27.0
+2023_Cadillac_CT5,Gasoline,MPG,23.0,33.0,27.0
+2023_Cadillac_CT5,Gasoline,MPG,19.0,27.0,22.0
+2023_Cadillac_CT5 AWD,Gasoline,MPG,22.0,30.0,25.0
+2023_Cadillac_CT5 AWD,Gasoline,MPG,18.0,26.0,21.0
+2023_Cadillac_CT5 V,Gasoline,MPG,18.0,27.0,21.0
+2023_Cadillac_CT5 V,Gasoline,MPG,13.0,21.0,16.0
+2023_Cadillac_CT5 V,Gasoline,MPG,13.0,21.0,15.0
+2023_Chevrolet_MALIBU,Gasoline,MPG,27.0,35.0,30.0
+2023_Dodge_Challenger,Gasoline,MPG,19.0,30.0,23.0
+2023_Dodge_Challenger,Gasoline,MPG,16.0,25.0,19.0
+2023_Dodge_Challenger,Gasoline,MPG,15.0,23.0,18.0
+2023_Dodge_Challenger,Gasoline,MPG,15.0,24.0,18.0
+2023_Dodge_Challenger,Gasoline,MPG,14.0,23.0,17.0
+2023_Dodge_Challenger AWD,Gasoline,MPG,18.0,27.0,21.0
+2023_Dodge_Challenger SRT,Gasoline,MPG,13.0,22.0,16.0
+2023_Dodge_Challenger SRT Widebody,Gasoline,MPG,13.0,21.0,15.0
+2023_Dodge_Challenger Widebody,Gasoline,MPG,15.0,24.0,18.0
+2023_Dodge_Challenger Widebody,Gasoline,MPG,14.0,23.0,17.0
+2023_Honda_ACCORD SPORT/TOURING,Gasoline,MPG,46.0,41.0,44.0
+2023_Honda_CIVIC 4Dr,Gasoline,MPG,33.0,42.0,36.0
+2023_Honda_CIVIC 4Dr,Gasoline,MPG,31.0,38.0,34.0
+2023_Honda_CIVIC 4Dr,Gasoline,MPG,27.0,37.0,31.0
+2023_Honda_CIVIC 4Dr,Gasoline,MPG,30.0,37.0,33.0
+2023_HYUNDAI MOTOR COMPANY_Elantra,Gasoline,MPG,28.0,36.0,31.0
+2023_HYUNDAI MOTOR COMPANY_Elantra,Gasoline,MPG,33.0,42.0,37.0
+2023_HYUNDAI MOTOR COMPANY_Elantra,Gasoline,MPG,30.0,40.0,34.0
+2023_HYUNDAI MOTOR COMPANY_Elantra Hybrid,Gasoline,MPG,49.0,52.0,50.0
+2023_HYUNDAI MOTOR COMPANY_Elantra Hybrid Blue,Gasoline,MPG,53.0,56.0,54.0
+2023_HYUNDAI MOTOR COMPANY_Elantra N,Gasoline,MPG,20.0,30.0,23.0
+2023_HYUNDAI MOTOR COMPANY_Elantra N,Gasoline,MPG,22.0,31.0,25.0
+2023_HYUNDAI MOTOR COMPANY_Venue,Gasoline,MPG,29.0,33.0,31.0
+2023_INFINITI_Q50,Gasoline,MPG,20.0,29.0,23.0
+2023_INFINITI_Q50 AWD,Gasoline,MPG,19.0,27.0,22.0
+2023_INFINITI_Q50 AWD RED SPORT,Gasoline,MPG,19.0,26.0,22.0
+2023_INFINITI_Q50 RED SPORT,Gasoline,MPG,20.0,26.0,22.0
+2023_Jaguar_XF P250,Gasoline,MPG,25.0,33.0,28.0
+2023_Jaguar_XF P250 AWD,Gasoline,MPG,23.0,32.0,26.0
+2023_Jaguar_XF P300 AWD,Gasoline,MPG,22.0,30.0,25.0
+2023_KIA_Forte,Gasoline,MPG,27.0,35.0,30.0
+2023_KIA_Forte,Gasoline,MPG,22.0,31.0,26.0
+2023_KIA_Forte,Gasoline,MPG,28.0,39.0,32.0
+2023_KIA_Forte FE,Gasoline,MPG,30.0,41.0,34.0
+2023_KIA_Stinger AWD,Gasoline,MPG,21.0,29.0,24.0
+2023_KIA_Stinger AWD,Gasoline,MPG,17.0,24.0,20.0
+2023_KIA_Stinger RWD,Gasoline,MPG,22.0,32.0,25.0
+2023_KIA_Stinger RWD,Gasoline,MPG,18.0,25.0,20.0
+2023_LEXUS_ES 250 AWD,Gasoline,MPG,25.0,34.0,28.0
+2023_LEXUS_ES 300h,Gasoline,MPG,43.0,44.0,44.0
+2023_LEXUS_ES 350,Gasoline,MPG,22.0,32.0,26.0
+2023_LEXUS_ES 350 F SPORT,Gasoline,MPG,22.0,31.0,25.0
+2023_LEXUS_LS 500,Gasoline,MPG,18.0,29.0,22.0
+2023_LEXUS_LS 500 AWD,Gasoline,MPG,17.0,27.0,21.0
+2023_LEXUS_LS 500h AWD,Gasoline,MPG,22.0,29.0,25.0
+2023_MASERATI_GHIBLI GT,Gasoline,MPG,18.0,25.0,20.0
+2023_MASERATI_GHIBLI MODENA AWD,Gasoline,MPG,17.0,25.0,20.0
+2023_MASERATI_GHIBLI MODENA RWD,Gasoline,MPG,18.0,25.0,20.0
+2023_MASERATI_GHIBLI TROFEO,Gasoline,MPG,13.0,20.0,16.0
+2023_MAZDA_MAZDA3 5-Door 2WD,Gasoline,MPG,27.0,35.0,30.0
+2023_MAZDA_MAZDA3 5-Door 2WD,Gasoline,MPG,26.0,36.0,30.0
+2023_MAZDA_MAZDA3 5-Door 4WD,Gasoline,MPG,26.0,33.0,29.0
+2023_MAZDA_MAZDA3 5-Door 4WD,Gasoline,MPG,23.0,31.0,26.0
+2023_Mercedes-Benz_AMG E 53 4MATIC+,Gasoline,MPG,21.0,29.0,24.0
+2023_Mercedes-Benz_AMG E 63 S 4MATIC+,Gasoline,MPG,16.0,24.0,19.0
+2023_Mercedes-Benz_E 350,Gasoline,MPG,23.0,31.0,26.0
+2023_Mercedes-Benz_E 350 4MATIC,Gasoline,MPG,21.0,30.0,24.0
+2023_Mercedes-Benz_E 450 4MATIC,Gasoline,MPG,23.0,31.0,26.0
+2023_Mini_COOPER COUNTRYMAN,Gasoline,MPG,26.0,32.0,28.0
+2023_Mini_COOPER COUNTRYMAN ALL4,Gasoline,MPG,23.0,31.0,26.0
+2023_Mini_COOPER S CLUBMAN,Gasoline,MPG,25.0,35.0,29.0
+2023_Mini_COOPER S CLUBMAN,Gasoline,MPG,22.0,32.0,25.0
+2023_Mini_COOPER S CLUBMAN ALL4,Gasoline,MPG,23.0,32.0,27.0
+2023_Mini_COOPER S COUNTRYMAN,Gasoline,MPG,24.0,33.0,28.0
+2023_Mini_COOPER S COUNTRYMAN ALL4,Gasoline,MPG,23.0,31.0,26.0
+2023_Mini_JCW COUNTRYMAN ALL4,Gasoline,MPG,24.0,30.0,26.0
+2023_Mini_JOHN COOPER WORKS CLUBMAN ALL4,Gasoline,MPG,23.0,31.0,26.0
+2023_NISSAN_ALTIMA,Gasoline,MPG,27.0,39.0,32.0
+2023_NISSAN_ALTIMA AWD,Gasoline,MPG,26.0,36.0,30.0
+2023_NISSAN_ALTIMA SL/SR,Gasoline,MPG,27.0,37.0,31.0
+2023_NISSAN_ALTIMA SR,Gasoline,MPG,25.0,34.0,29.0
+2023_NISSAN_KICKS,Gasoline,MPG,31.0,36.0,33.0
+2023_NISSAN_MAXIMA,Gasoline,MPG,20.0,30.0,24.0
+2023_Subaru_IMPREZA 4-Door,Gasoline,MPG,28.0,36.0,32.0
+2023_Subaru_IMPREZA 4-Door,Gasoline,MPG,23.0,31.0,26.0
+2023_Subaru_IMPREZA 4-Door SPORT,Gasoline,MPG,27.0,36.0,30.0
+2023_Subaru_WRX,Gasoline,MPG,19.0,25.0,21.0
+2023_Subaru_WRX,Gasoline,MPG,19.0,26.0,22.0
+2023_TOYOTA_CAMRY,Gasoline,MPG,22.0,33.0,26.0
+2023_TOYOTA_CAMRY AWD LE/SE,Gasoline,MPG,25.0,34.0,29.0
+2023_TOYOTA_CAMRY AWD XLE/XSE,Gasoline,MPG,25.0,34.0,28.0
+2023_TOYOTA_CAMRY HYBRID LE,Gasoline,MPG,51.0,53.0,52.0
+2023_TOYOTA_CAMRY HYBRID SE/XLE/XSE,Gasoline,MPG,44.0,47.0,46.0
+2023_TOYOTA_CAMRY LE/SE,Gasoline,MPG,28.0,39.0,32.0
+2023_TOYOTA_CAMRY TRD,Gasoline,MPG,22.0,31.0,25.0
+2023_TOYOTA_CAMRY XLE/XSE,Gasoline,MPG,27.0,38.0,31.0
+2023_TOYOTA_CAMRY XSE,Gasoline,MPG,22.0,32.0,26.0
+2023_TOYOTA_PRIUS,Gasoline,MPG,57.0,56.0,57.0
+2023_TOYOTA_PRIUS AWD,Gasoline,MPG,53.0,54.0,54.0
+2023_TOYOTA_PRIUS AWD XLE/LTD,Gasoline,MPG,49.0,50.0,49.0
+2023_TOYOTA_PRIUS XLE/LTD,Gasoline,MPG,52.0,52.0,52.0
+2023_TOYOTA_TOYOTA CROWN AWD,Gasoline,MPG,29.0,32.0,30.0
+2023_TOYOTA_TOYOTA CROWN AWD,Gasoline,MPG,42.0,41.0,41.0
+"2023_Volvo Cars of North America, LLC_S90 B6 AWD",Gasoline,MPG,23.0,32.0,26.0
+2023_Acura_INTEGRA,Gasoline,MPG,30.0,37.0,33.0
+2023_Acura_INTEGRA A-SPEC,Gasoline,MPG,29.0,36.0,32.0
+2023_Acura_INTEGRA A-SPEC,Gasoline,MPG,26.0,36.0,30.0
+2023_Audi_A8L,Gasoline,MPG,19.0,28.0,22.0
+2023_Audi_S8,Gasoline,MPG,15.0,23.0,18.0
+2023_BMW_740i Sedan,Gasoline,MPG,25.0,31.0,27.0
+2023_BMW_760i xDrive Sedan,Gasoline,MPG,18.0,26.0,21.0
+2023_Chrysler_300,Gasoline,MPG,19.0,30.0,23.0
+2023_Chrysler_300,Gasoline,MPG,16.0,25.0,19.0
+2023_Chrysler_300,Gasoline,MPG,15.0,24.0,18.0
+2023_Chrysler_300 AWD,Gasoline,MPG,18.0,27.0,21.0
+2023_Dodge_Charger,Gasoline,MPG,19.0,30.0,23.0
+2023_Dodge_Charger,Gasoline,MPG,16.0,25.0,19.0
+2023_Dodge_Charger,Gasoline,MPG,15.0,24.0,18.0
+2023_Dodge_Charger AWD,Gasoline,MPG,18.0,27.0,21.0
+2023_Dodge_Charger SRT Widebody,Gasoline,MPG,12.0,21.0,15.0
+2023_Dodge_Charger Widebody,Gasoline,MPG,15.0,24.0,18.0
+2023_GENESIS_G80 AWD,Gasoline,MPG,22.0,30.0,25.0
+2023_GENESIS_G80 AWD,Gasoline,MPG,16.0,25.0,19.0
+2023_GENESIS_G80 RWD,Gasoline,MPG,22.0,32.0,26.0
+2023_GENESIS_G90 AWD,Gasoline,MPG,18.0,26.0,21.0
+2023_GENESIS_G90 MHEV,Gasoline,MPG,17.0,24.0,20.0
+2023_Honda_ACCORD,Gasoline,MPG,29.0,37.0,32.0
+2023_Honda_ACCORD,Gasoline,MPG,51.0,44.0,48.0
+2023_Honda_CIVIC 5Dr,Gasoline,MPG,31.0,39.0,35.0
+2023_Honda_CIVIC 5Dr,Gasoline,MPG,30.0,37.0,33.0
+2023_Honda_CIVIC 5Dr,Gasoline,MPG,28.0,37.0,31.0
+2023_Honda_CIVIC 5Dr,Gasoline,MPG,29.0,37.0,32.0
+2023_Honda_CIVIC 5Dr,Gasoline,MPG,26.0,36.0,29.0
+2023_Honda_CIVIC 5Dr,Gasoline,MPG,22.0,28.0,24.0
+2023_HYUNDAI MOTOR COMPANY_Sonata,Gasoline,MPG,27.0,37.0,31.0
+2023_HYUNDAI MOTOR COMPANY_Sonata,Gasoline,MPG,23.0,33.0,27.0
+2023_HYUNDAI MOTOR COMPANY_Sonata,Gasoline,MPG,28.0,38.0,32.0
+2023_HYUNDAI MOTOR COMPANY_Sonata,Gasoline,MPG,27.0,37.0,31.0
+2023_HYUNDAI MOTOR COMPANY_Sonata Hybrid,Gasoline,MPG,45.0,51.0,47.0
+2023_HYUNDAI MOTOR COMPANY_Sonata Hybrid Blue,Gasoline,MPG,50.0,54.0,52.0
+2023_KIA_K5,Gasoline,MPG,27.0,37.0,31.0
+2023_KIA_K5,Gasoline,MPG,24.0,32.0,27.0
+2023_KIA_K5 AWD,Gasoline,MPG,25.0,33.0,28.0
+2023_MASERATI_QUATTROPORTE GT,Gasoline,MPG,16.0,25.0,19.0
+2023_MASERATI_QUATTROPORTE MODENA AWD,Gasoline,MPG,17.0,25.0,20.0
+2023_MASERATI_QUATTROPORTE MODENA RWD,Gasoline,MPG,16.0,25.0,19.0
+2023_MASERATI_QUATTROPORTE TROFEO,Gasoline,MPG,13.0,20.0,16.0
+2023_Mercedes-Benz_S 500 4MATIC,Gasoline,MPG,20.0,28.0,23.0
+2023_Mercedes-Benz_S 580 4MATIC,Gasoline,MPG,16.0,25.0,19.0
+2023_Mercedes-Benz_S 580 4MATIC Maybach,Gasoline,MPG,15.0,25.0,18.0
+2023_Porsche_Panamera,Gasoline,MPG,18.0,24.0,20.0
+2023_Porsche_Panamera 4,Gasoline,MPG,18.0,24.0,20.0
+2023_Porsche_Panamera 4 Executive,Gasoline,MPG,17.0,23.0,19.0
+2023_Porsche_Panamera 4 ST,Gasoline,MPG,18.0,23.0,20.0
+2023_Porsche_Panamera 4S,Gasoline,MPG,18.0,24.0,20.0
+2023_Porsche_Panamera 4S Executive,Gasoline,MPG,17.0,23.0,19.0
+2023_Porsche_Panamera 4S ST,Gasoline,MPG,17.0,23.0,19.0
+2023_Porsche_Panamera GTS,Gasoline,MPG,15.0,21.0,17.0
+2023_Porsche_Panamera GTS ST,Gasoline,MPG,15.0,20.0,17.0
+2023_Porsche_Panamera Turbo S,Gasoline,MPG,15.0,21.0,17.0
+2023_Rolls-Royce Motor Cars Limited_Ghost,Gasoline,MPG,12.0,19.0,14.0
+2023_Rolls-Royce Motor Cars Limited_Ghost Black Badge,Gasoline,MPG,12.0,19.0,14.0
+2023_Rolls-Royce Motor Cars Limited_Ghost Extended,Gasoline,MPG,12.0,19.0,14.0
+2023_Rolls-Royce Motor Cars Limited_Phantom,Gasoline,MPG,12.0,18.0,14.0
+2023_Rolls-Royce Motor Cars Limited_Phantom Extended,Gasoline,MPG,12.0,18.0,14.0
+2023_Subaru_LEGACY,Gasoline,MPG,23.0,31.0,26.0
+2023_Subaru_LEGACY,Gasoline,MPG,27.0,35.0,30.0
+2023_Volkswagen_Arteon,Gasoline,MPG,25.0,33.0,28.0
+2023_Volkswagen_Arteon 4Motion,Gasoline,MPG,22.0,31.0,25.0
+2023_Audi_A4 Allroad quattro,Gasoline,MPG,23.0,30.0,26.0
+2023_Honda_HR-V AWD,Gasoline,MPG,25.0,30.0,27.0
+2023_Honda_HR-V FWD,Gasoline,MPG,26.0,32.0,28.0
+2023_KIA_Niro,Gasoline,MPG,53.0,45.0,49.0
+2023_KIA_Niro FE,Gasoline,MPG,53.0,54.0,53.0
+2023_KIA_Soul,Gasoline,MPG,28.0,33.0,30.0
+2023_KIA_Soul Eco dynamics,Gasoline,MPG,29.0,35.0,31.0
+2023_Lamborghini_Urus Performante,Gasoline,MPG,14.0,19.0,16.0
+2023_Mercedes-Benz_AMG GLA 35 4MATIC,Gasoline,MPG,22.0,29.0,25.0
+2023_Mercedes-Benz_AMG GLA 45 4MATIC,Gasoline,MPG,20.0,25.0,22.0
+2023_Subaru_IMPREZA 5-Door,Gasoline,MPG,28.0,36.0,31.0
+2023_Subaru_IMPREZA 5-Door,Gasoline,MPG,24.0,31.0,26.0
+2023_Subaru_IMPREZA 5-Door SPORT,Gasoline,MPG,27.0,35.0,30.0
+2023_Subaru_IMPREZA 5-Door SPORT,Gasoline,MPG,22.0,30.0,25.0
+"2023_Volvo Cars of North America, LLC_V60CC B5 AWD",Gasoline,MPG,23.0,30.0,26.0
+2023_Audi_A6 Allroad,Gasoline,MPG,21.0,30.0,24.0
+2023_Audi_RS 6 Avant,Gasoline,MPG,14.0,21.0,17.0
+2023_Mercedes-Benz_AMG E 63 S 4MATIC+ (SW),Gasoline,MPG,16.0,24.0,19.0
+2023_Mercedes-Benz_AMG GLB 35 4MATIC,Gasoline,MPG,21.0,27.0,23.0
+2023_Mercedes-Benz_E 450 4MATIC All-Terrain (wagon),Gasoline,MPG,21.0,28.0,24.0
+2023_NISSAN_MURANO AWD,Gasoline,MPG,20.0,28.0,23.0
+2023_NISSAN_MURANO FWD,Gasoline,MPG,20.0,28.0,23.0
+2023_Rolls-Royce Motor Cars Limited_Cullinan,Gasoline,MPG,12.0,19.0,14.0
+2023_Rolls-Royce Motor Cars Limited_Cullinan Black Badge,Gasoline,MPG,12.0,19.0,14.0
+"2023_Volvo Cars of North America, LLC_V90CC B6 AWD",Gasoline,MPG,22.0,29.0,25.0
+2023_Ford_MAVERICK FWD,Gasoline,MPG,23.0,30.0,25.0
+2023_Ford_MAVERICK HEV FWD,Gasoline,MPG,40.0,33.0,37.0
+2023_TOYOTA_TACOMA 2WD,Gasoline,MPG,20.0,23.0,21.0
+2023_TOYOTA_TACOMA 2WD,Gasoline,MPG,19.0,24.0,21.0
+2023_Ford_MAVERICK AWD,Gasoline,MPG,22.0,28.0,24.0
+2023_Ford_MAVERICK TREMOR AWD,Gasoline,MPG,20.0,24.0,21.0
+2023_TOYOTA_TACOMA 4WD,Gasoline,MPG,19.0,22.0,20.0
+2023_TOYOTA_TACOMA 4WD,Gasoline,MPG,18.0,22.0,20.0
+2023_TOYOTA_TACOMA 4WD,Gasoline,MPG,17.0,21.0,18.0
+2023_TOYOTA_TACOMA 4WD D-CAB MT TRD-ORP/PRO,Gasoline,MPG,17.0,20.0,18.0
+2023_Chevrolet_SILVERADO 2WD,Gasoline,MPG,19.0,21.0,20.0
+2023_Chevrolet_SILVERADO 2WD,Gasoline,MPG,19.0,22.0,20.0
+2023_Chevrolet_SILVERADO 2WD,Gasoline,MPG,24.0,29.0,26.0
+2023_Chevrolet_SILVERADO 2WD,Gasoline,MPG,17.0,21.0,19.0
+2023_Chevrolet_SILVERADO 2WD,Gasoline,MPG,17.0,21.0,19.0
+2023_Chevrolet_SILVERADO 2WD,Gasoline,MPG,16.0,20.0,18.0
+2023_Chevrolet_SILVERADO 2WD,Gasoline,MPG,16.0,20.0,18.0
+2023_Ford_F150 PICKUP 2WD,Gasoline,MPG,18.0,25.0,21.0
+2023_Ford_F150 PICKUP 2WD,Gasoline,MPG,20.0,26.0,22.0
+2023_Ford_F150 PICKUP 2WD,Gasoline,MPG,18.0,24.0,21.0
+2023_Ford_F150 PICKUP 2WD FFV,Gasoline,MPG,19.0,23.0,20.0
+2023_Ford_F150 PICKUP 2WD FFV,Gasoline,MPG,19.0,24.0,21.0
+2023_Ford_F150 PICKUP 2WD FFV,Gasoline,MPG,17.0,25.0,20.0
+2023_Ford_F150 PICKUP 2WD FFV,Gasoline,MPG,17.0,24.0,19.0
+2023_Ford_F150 PICKUP 2WD HEV,Gasoline,MPG,25.0,25.0,25.0
+2023_Ford_RANGER 2WD,Gasoline,MPG,20.0,26.0,22.0
+2023_Ford_RANGER 2WD,Gasoline,MPG,21.0,26.0,23.0
+2023_GMC_SIERRA 2WD,Gasoline,MPG,19.0,21.0,20.0
+2023_GMC_SIERRA 2WD,Gasoline,MPG,19.0,22.0,20.0
+2023_GMC_SIERRA 2WD,Gasoline,MPG,24.0,29.0,26.0
+2023_GMC_SIERRA 2WD,Gasoline,MPG,16.0,21.0,18.0
+2023_GMC_SIERRA 2WD,Gasoline,MPG,16.0,21.0,18.0
+2023_GMC_SIERRA 2WD,Gasoline,MPG,16.0,20.0,18.0
+2023_GMC_SIERRA 2WD,Gasoline,MPG,16.0,20.0,18.0
+2023_NISSAN_FRONTIER 2WD,Gasoline,MPG,18.0,24.0,20.0
+2023_NISSAN_TITAN 2WD,Gasoline,MPG,16.0,21.0,18.0
+2023_RAM_1500 4X2,Gasoline,MPG,20.0,25.0,22.0
+2023_RAM_1500 4X2,Gasoline,MPG,18.0,23.0,20.0
+2023_RAM_1500 Classic 4X2,Gasoline,MPG,17.0,25.0,20.0
+2023_RAM_1500 Classic 4X2,Gasoline,MPG,15.0,21.0,17.0
+2023_RAM_1500 HFE 4X2,Gasoline,MPG,20.0,26.0,23.0
+2023_TOYOTA_TUNDRA 2WD,Gasoline,MPG,18.0,23.0,20.0
+2023_TOYOTA_TUNDRA 2WD,Gasoline,MPG,18.0,24.0,20.0
+2023_TOYOTA_TUNDRA 2WD,Gasoline,MPG,20.0,24.0,22.0
+2023_Chevrolet_SILVERADO 4WD,Gasoline,MPG,18.0,21.0,19.0
+2023_Chevrolet_SILVERADO 4WD,Gasoline,MPG,18.0,21.0,19.0
+2023_Chevrolet_SILVERADO 4WD,Gasoline,MPG,22.0,27.0,24.0
+2023_Chevrolet_SILVERADO 4WD,Gasoline,MPG,22.0,27.0,24.0
+2023_Chevrolet_SILVERADO 4WD,Gasoline,MPG,16.0,20.0,17.0
+2023_Chevrolet_SILVERADO 4WD,Gasoline,MPG,16.0,20.0,17.0
+2023_Chevrolet_SILVERADO 4WD,Gasoline,MPG,15.0,19.0,17.0
+2023_Chevrolet_SILVERADO 4WD,Gasoline,MPG,15.0,19.0,17.0
+2023_Chevrolet_SILVERADO 4WD,Gasoline,MPG,16.0,20.0,17.0
+2023_Chevrolet_SILVERADO 4WD MUD TERRAIN TIRES,Gasoline,MPG,17.0,18.0,17.0
+2023_Chevrolet_SILVERADO 4WD MUD TERRAIN TIRES,Gasoline,MPG,21.0,23.0,22.0
+2023_Chevrolet_SILVERADO 4WD MUD TERRAIN TIRES,Gasoline,MPG,15.0,18.0,16.0
+2023_Chevrolet_SILVERADO 4WD MUD TERRAIN TIRES,Gasoline,MPG,15.0,19.0,16.0
+2023_Chevrolet_SILVERADO 4WD MUD TERRAIN TIRES,Gasoline,MPG,15.0,19.0,17.0
+2023_Chevrolet_SILVERADO 4WD MUD TERRAIN TIRES,Gasoline,MPG,14.0,18.0,16.0
+2023_Chevrolet_SILVERADO 4WD ZR2,Gasoline,MPG,14.0,17.0,15.0
+2023_Ford_F150 PICKUP 4WD,Gasoline,MPG,17.0,23.0,20.0
+2023_Ford_F150 PICKUP 4WD,Gasoline,MPG,18.0,24.0,20.0
+2023_Ford_F150 PICKUP 4WD,Gasoline,MPG,17.0,23.0,19.0
+2023_Ford_F150 PICKUP 4WD,Gasoline,MPG,18.0,23.0,20.0
+2023_Ford_F150 PICKUP 4WD FFV,Gasoline,MPG,19.0,22.0,20.0
+2023_Ford_F150 PICKUP 4WD FFV,Gasoline,MPG,16.0,22.0,18.0
+2023_Ford_F150 PICKUP 4WD FFV,Gasoline,MPG,17.0,22.0,19.0
+2023_Ford_F150 PICKUP 4WD HEV,Gasoline,MPG,23.0,23.0,23.0
+2023_Ford_F150 PICKUP TREMOR 4WD,Gasoline,MPG,16.0,20.0,18.0
+2023_Ford_F150 PICKUP TREMOR 4WD,Gasoline,MPG,16.0,20.0,18.0
+2023_Ford_F150 PICKUP TREMOR 4WD FFV,Gasoline,MPG,15.0,20.0,17.0
+2023_Ford_F150 PICKUP TREMOR 4WD FFV,Gasoline,MPG,15.0,20.0,17.0
+2023_Ford_F150 RAPTOR 37 4WD,Gasoline,MPG,14.0,16.0,15.0
+2023_Ford_F150 RAPTOR 37 4WD,Gasoline,MPG,15.0,16.0,15.0
+2023_Ford_F150 RAPTOR 4WD,Gasoline,MPG,14.0,18.0,15.0
+2023_Ford_F150 RAPTOR 4WD,Gasoline,MPG,15.0,18.0,16.0
+2023_Ford_F150 RAPTOR R 4WD,Gasoline,MPG,10.0,15.0,12.0
+2023_Ford_RANGER 4WD,Gasoline,MPG,19.0,24.0,21.0
+2023_Ford_RANGER 4WD,Gasoline,MPG,20.0,24.0,22.0
+2023_Ford_RANGER TREMOR 4WD,Gasoline,MPG,19.0,19.0,19.0
+2023_GMC_SIERRA 4WD,Gasoline,MPG,18.0,20.0,19.0
+2023_GMC_SIERRA 4WD,Gasoline,MPG,18.0,20.0,19.0
+2023_GMC_SIERRA 4WD,Gasoline,MPG,22.0,27.0,24.0
+2023_GMC_SIERRA 4WD,Gasoline,MPG,16.0,20.0,17.0
+2023_GMC_SIERRA 4WD,Gasoline,MPG,16.0,20.0,17.0
+2023_GMC_SIERRA 4WD,Gasoline,MPG,15.0,19.0,17.0
+2023_GMC_SIERRA 4WD,Gasoline,MPG,15.0,19.0,17.0
+2023_GMC_SIERRA 4WD,Gasoline,MPG,15.0,19.0,17.0
+2023_GMC_SIERRA 4WD AT4X,Gasoline,MPG,14.0,17.0,15.0
+2023_GMC_SIERRA 4WD MUD TERRAIN TIRES,Gasoline,MPG,17.0,18.0,17.0
+2023_GMC_SIERRA 4WD MUD TERRAIN TIRES,Gasoline,MPG,21.0,23.0,22.0
+2023_GMC_SIERRA 4WD MUD TERRAIN TIRES,Gasoline,MPG,15.0,18.0,16.0
+2023_GMC_SIERRA 4WD MUD TERRAIN TIRES,Gasoline,MPG,15.0,19.0,16.0
+2023_GMC_SIERRA 4WD MUD TERRAIN TIRES,Gasoline,MPG,15.0,19.0,17.0
+2023_GMC_SIERRA 4WD MUD TERRAIN TIRES,Gasoline,MPG,14.0,17.0,15.0
+2023_Honda_RIDGELINE AWD,Gasoline,MPG,18.0,24.0,21.0
+2023_Jeep_Gladiator 4X4,Gasoline,MPG,17.0,22.0,19.0
+2023_Jeep_Gladiator 4X4,Gasoline,MPG,16.0,23.0,19.0
+2023_Jeep_Gladiator EcoDiesel 4X4,Gasoline,MPG,22.0,28.0,24.0
+2023_Jeep_Gladiator Rubic EcoDiesel 4X4,Gasoline,MPG,21.0,27.0,24.0
+2023_NISSAN_FRONTIER 4WD,Gasoline,MPG,17.0,22.0,19.0
+2023_NISSAN_FRONTIER 4WD PRO-4X,Gasoline,MPG,17.0,22.0,19.0
+2023_NISSAN_TITAN 4WD,Gasoline,MPG,15.0,21.0,18.0
+2023_NISSAN_TITAN 4WD PRO-4X,Gasoline,MPG,15.0,20.0,17.0
+2023_RAM_1500 4X4,Gasoline,MPG,21.0,29.0,24.0
+2023_RAM_1500 4X4,Gasoline,MPG,19.0,24.0,21.0
+2023_RAM_1500 4X4,Gasoline,MPG,17.0,22.0,19.0
+2023_RAM_1500 Classic 4X4,Gasoline,MPG,16.0,23.0,19.0
+2023_RAM_1500 Classic 4X4,Gasoline,MPG,15.0,20.0,17.0
+2023_RAM_1500 TRX 4x4,Gasoline,MPG,10.0,14.0,12.0
+2023_TOYOTA_TUNDRA 4WD,Gasoline,MPG,17.0,22.0,19.0
+2023_TOYOTA_TUNDRA 4WD,Gasoline,MPG,17.0,23.0,19.0
+2023_TOYOTA_TUNDRA 4WD,Gasoline,MPG,19.0,22.0,20.0
+2023_TOYOTA_TUNDRA 4WD PRO,Gasoline,MPG,18.0,20.0,19.0
+2023_Cadillac_XT5 HEARSE FWD,Gasoline,MPG,20.0,23.0,21.0
+2023_Cadillac_XT5 LIMO FWD,Gasoline,MPG,20.0,23.0,21.0
+2023_Ford_Transit Connect Van FWD,Gasoline,MPG,24.0,26.0,25.0
+2023_Ford_Transit Connect Wagon LWB FWD,Gasoline,MPG,24.0,28.0,26.0
+2023_Mercedes-Benz_GLA 250,Gasoline,MPG,24.0,34.0,28.0
+2023_Mercedes-Benz_GLB 250,Gasoline,MPG,24.0,32.0,27.0
+2023_Mercedes-Benz_Metris (Cargo Van),Gasoline,MPG,19.0,23.0,20.0
+"2023_Mercedes-Benz_Metris (Cargo Van, LWB)",Gasoline,MPG,19.0,23.0,20.0
+2023_Mercedes-Benz_Metris (Passenger Van),Gasoline,MPG,18.0,22.0,19.0
+2023_Mercedes-Benz_Metris (US Postal Long),Gasoline,MPG,19.0,25.0,21.0
+2023_Mercedes-Benz_Metris (US Postal),Gasoline,MPG,19.0,25.0,21.0
+2023_Cadillac_XT5 HEARSE AWD,Gasoline,MPG,20.0,23.0,21.0
+2023_Cadillac_XT5 LIMO AWD,Gasoline,MPG,20.0,23.0,21.0
+2023_Chevrolet_SILVERADO 2WD CAB CHASSIS,Gasoline,MPG,15.0,18.0,16.0
+2023_Chevrolet_SILVERADO 4WD CAB CHASSIS,Gasoline,MPG,15.0,17.0,16.0
+2023_GMC_SIERRA 2WD CAB CHASSIS,Gasoline,MPG,15.0,18.0,16.0
+2023_GMC_SIERRA 4WD CAB CHASSIS,Gasoline,MPG,15.0,17.0,16.0
+2023_Chrysler_Pacifica,Gasoline,MPG,19.0,28.0,22.0
+2023_Chrysler_Voyager,Gasoline,MPG,19.0,28.0,22.0
+2023_Honda_ODYSSEY FWD,Gasoline,MPG,19.0,28.0,22.0
+2023_KIA_Carnival,Gasoline,MPG,19.0,26.0,22.0
+2023_TOYOTA_SIENNA,Gasoline,MPG,36.0,36.0,36.0
+2023_Chrysler_Pacifica AWD,Gasoline,MPG,17.0,25.0,20.0
+2023_TOYOTA_SIENNA AWD,Gasoline,MPG,35.0,36.0,35.0
+2023_Acura_MDX FWD,Gasoline,MPG,19.0,26.0,22.0
+2023_Acura_RDX FWD,Gasoline,MPG,22.0,28.0,24.0
+2023_Acura_RDX FWD A-SPEC,Gasoline,MPG,22.0,27.0,24.0
+2023_ALFA ROMEO_Stelvio,Gasoline,MPG,22.0,29.0,25.0
+2023_BMW_X3 sDrive30i,Gasoline,MPG,23.0,29.0,25.0
+2023_Buick_ENCORE GX FWD,Gasoline,MPG,29.0,31.0,30.0
+2023_Buick_ENCORE GX FWD,Gasoline,MPG,29.0,32.0,30.0
+2023_Buick_ENVISION FWD,Gasoline,MPG,23.0,31.0,26.0
+2023_Cadillac_XT4 FWD,Gasoline,MPG,23.0,30.0,26.0
+2023_Cadillac_XT5 FWD,Gasoline,MPG,22.0,29.0,24.0
+2023_Cadillac_XT5 FWD,Gasoline,MPG,19.0,26.0,21.0
+2023_Cadillac_XT6 FWD,Gasoline,MPG,21.0,27.0,23.0
+2023_Cadillac_XT6 FWD,Gasoline,MPG,19.0,26.0,21.0
+2023_Chevrolet_BLAZER FWD,Gasoline,MPG,22.0,29.0,25.0
+2023_Chevrolet_BLAZER FWD,Gasoline,MPG,19.0,27.0,22.0
+2023_Chevrolet_EQUINOX FWD,Gasoline,MPG,26.0,31.0,28.0
+2023_Chevrolet_TRAILBLAZER FWD,Gasoline,MPG,29.0,31.0,30.0
+2023_Chevrolet_TRAILBLAZER FWD,Gasoline,MPG,29.0,33.0,31.0
+2023_Ford_ESCAPE FWD,Gasoline,MPG,27.0,34.0,30.0
+2023_Ford_ESCAPE FWD HEV,Gasoline,MPG,42.0,36.0,39.0
+2023_GMC_TERRAIN FWD,Gasoline,MPG,24.0,29.0,26.0
+2023_Honda_CR-V FWD,Gasoline,MPG,28.0,34.0,30.0
+2023_Honda_CR-V FWD,Gasoline,MPG,43.0,36.0,40.0
+2023_Honda_PILOT FWD,Gasoline,MPG,19.0,27.0,22.0
+2023_HYUNDAI MOTOR COMPANY_Kona FWD,Gasoline,MPG,29.0,35.0,32.0
+2023_HYUNDAI MOTOR COMPANY_Kona FWD,Gasoline,MPG,30.0,35.0,32.0
+2023_HYUNDAI MOTOR COMPANY_Kona N,Gasoline,MPG,20.0,27.0,23.0
+2023_HYUNDAI MOTOR COMPANY_Palisade FWD,Gasoline,MPG,19.0,27.0,22.0
+2023_HYUNDAI MOTOR COMPANY_Santa Cruz FWD,Gasoline,MPG,22.0,26.0,23.0
+2023_HYUNDAI MOTOR COMPANY_Santa Fe FWD,Gasoline,MPG,22.0,28.0,25.0
+2023_HYUNDAI MOTOR COMPANY_Santa Fe FWD,Gasoline,MPG,25.0,28.0,26.0
+2023_HYUNDAI MOTOR COMPANY_Tucson FWD,Gasoline,MPG,25.0,32.0,28.0
+2023_INFINITI_QX50,Gasoline,MPG,23.0,29.0,26.0
+2023_KIA_Seltos FWD,Gasoline,MPG,29.0,35.0,31.0
+2023_KIA_Sorento FWD,Gasoline,MPG,22.0,29.0,25.0
+2023_KIA_Sorento FWD,Gasoline,MPG,24.0,29.0,26.0
+2023_KIA_Sorento Hybrid FWD,Gasoline,MPG,39.0,35.0,37.0
+2023_KIA_Sportage FWD,Gasoline,MPG,25.0,32.0,28.0
+2023_KIA_Telluride FWD,Gasoline,MPG,20.0,26.0,23.0
+2023_LEXUS_NX 250,Gasoline,MPG,26.0,33.0,28.0
+2023_LEXUS_RX 350,Gasoline,MPG,22.0,29.0,25.0
+2023_Lincoln_CORSAIR FWD,Gasoline,MPG,22.0,30.0,25.0
+2023_Lincoln_NAUTILUS FWD,Gasoline,MPG,21.0,26.0,23.0
+2023_Lincoln_NAUTILUS FWD,Gasoline,MPG,21.0,26.0,23.0
+2023_MITSUBISHI MOTORS_Outlander 2WD,Gasoline,MPG,24.0,31.0,27.0
+2023_Mitsubishi Motors Corporation_ECLIPSE CROSS 2WD,Gasoline,MPG,25.0,28.0,26.0
+2023_Mitsubishi Motors Corporation_ECLIPSE CROSS ES 2WD,Gasoline,MPG,26.0,29.0,27.0
+2023_Mitsubishi Motors Corporation_Outlander Sport 2WD,Gasoline,MPG,24.0,30.0,27.0
+2023_NISSAN_PATHFINDER 2WD,Gasoline,MPG,20.0,27.0,23.0
+2023_NISSAN_ROGUE FWD,Gasoline,MPG,30.0,37.0,33.0
+2023_NISSAN_ROGUE FWD,Gasoline,MPG,30.0,37.0,33.0
+2023_NISSAN_ROGUE FWD SL/PLATINUM,Gasoline,MPG,29.0,36.0,32.0
+2023_NISSAN_ROGUE FWD SL/PLATINUM,Gasoline,MPG,29.0,36.0,32.0
+2023_TOYOTA_COROLLA CROSS,Gasoline,MPG,31.0,33.0,32.0
+2023_TOYOTA_HIGHLANDER,Gasoline,MPG,22.0,29.0,25.0
+2023_TOYOTA_HIGHLANDER,Gasoline,MPG,21.0,28.0,24.0
+2023_TOYOTA_HIGHLANDER HYBRID,Gasoline,MPG,36.0,35.0,36.0
+2023_TOYOTA_RAV4,Gasoline,MPG,27.0,34.0,30.0
+2023_TOYOTA_RAV4,Gasoline,MPG,27.0,35.0,30.0
+2023_Volkswagen_Atlas,Gasoline,MPG,21.0,25.0,23.0
+2023_Volkswagen_Atlas,Gasoline,MPG,18.0,24.0,20.0
+2023_Volkswagen_Atlas Cross Sport,Gasoline,MPG,21.0,25.0,23.0
+2023_Volkswagen_Atlas Cross Sport,Gasoline,MPG,18.0,24.0,20.0
+2023_Volkswagen_Taos,Gasoline,MPG,28.0,36.0,31.0
+2023_Volkswagen_Tiguan,Gasoline,MPG,23.0,30.0,26.0
+2023_Volkswagen_Tiguan S,Gasoline,MPG,24.0,31.0,27.0
+"2023_Volvo Cars of North America, LLC_XC40 B4",Gasoline,MPG,24.0,32.0,27.0
+"2023_Volvo Cars of North America, LLC_XC60 B5",Gasoline,MPG,23.0,30.0,26.0
+2023_Acura_MDX AWD,Gasoline,MPG,19.0,25.0,21.0
+2023_Acura_RDX AWD,Gasoline,MPG,21.0,27.0,23.0
+2023_Acura_RDX AWD A-SPEC,Gasoline,MPG,21.0,26.0,23.0
+2023_ALFA ROMEO_Stelvio AWD,Gasoline,MPG,22.0,28.0,24.0
+2023_ALFA ROMEO_Stelvio AWD,Gasoline,MPG,17.0,23.0,19.0
+2023_Audi_Q3 S-Line,Gasoline,MPG,21.0,28.0,24.0
+2023_Audi_Q5 quattro,Gasoline,MPG,23.0,29.0,25.0
+2023_Audi_Q5 S-Line quattro,Gasoline,MPG,22.0,29.0,25.0
+2023_Audi_Q5 Sportback S-line quattro,Gasoline,MPG,22.0,29.0,25.0
+2023_Audi_SQ5,Gasoline,MPG,19.0,24.0,21.0
+2023_Audi_SQ5 Sportback,Gasoline,MPG,19.0,24.0,21.0
+2023_BMW_X1 xDrive28i,Gasoline,MPG,25.0,34.0,28.0
+2023_BMW_X3 M,Gasoline,MPG,15.0,20.0,17.0
+2023_BMW_X3 M Competition,Gasoline,MPG,15.0,20.0,17.0
+2023_BMW_X3 M40i,Gasoline,MPG,21.0,26.0,23.0
+2023_BMW_X3 xDrive30i,Gasoline,MPG,21.0,28.0,24.0
+2023_BMW_X4 M,Gasoline,MPG,15.0,20.0,17.0
+2023_BMW_X4 M Competition,Gasoline,MPG,15.0,20.0,17.0
+2023_BMW_X4 M40i,Gasoline,MPG,21.0,26.0,23.0
+2023_BMW_X4 xDrive30i,Gasoline,MPG,21.0,28.0,24.0
+2023_Buick_ENCORE GX AWD,Gasoline,MPG,26.0,29.0,27.0
+2023_Buick_ENVISION AWD,Gasoline,MPG,22.0,29.0,25.0
+2023_Cadillac_XT4 AWD,Gasoline,MPG,22.0,29.0,24.0
+2023_Cadillac_XT5 AWD,Gasoline,MPG,21.0,27.0,23.0
+2023_Cadillac_XT5 AWD,Gasoline,MPG,18.0,25.0,21.0
+2023_Cadillac_XT6 AWD,Gasoline,MPG,21.0,26.0,23.0
+2023_Cadillac_XT6 AWD,Gasoline,MPG,18.0,25.0,21.0
+2023_Chevrolet_BLAZER AWD,Gasoline,MPG,22.0,27.0,24.0
+2023_Chevrolet_BLAZER AWD,Gasoline,MPG,19.0,26.0,21.0
+2023_Chevrolet_EQUINOX AWD,Gasoline,MPG,24.0,30.0,26.0
+2023_Chevrolet_TRAILBLAZER AWD,Gasoline,MPG,26.0,30.0,28.0
+2023_Dodge_Hornet AWD,Gasoline,MPG,21.0,29.0,24.0
+2023_FIAT_500X AWD,Gasoline,MPG,24.0,30.0,26.0
+2023_Ford_BRONCO 4WD,Gasoline,MPG,20.0,21.0,20.0
+2023_Ford_BRONCO 4WD,Gasoline,MPG,20.0,21.0,20.0
+2023_Ford_BRONCO 4WD,Gasoline,MPG,19.0,21.0,20.0
+2023_Ford_BRONCO BADLANDS 4WD,Gasoline,MPG,17.0,17.0,17.0
+2023_Ford_BRONCO BADLANDS 4WD,Gasoline,MPG,16.0,17.0,17.0
+2023_Ford_BRONCO BADLANDS 4WD,Gasoline,MPG,17.0,17.0,17.0
+2023_Ford_BRONCO BLACK DIAMOND 4WD,Gasoline,MPG,18.0,18.0,18.0
+2023_Ford_BRONCO BLACK DIAMOND 4WD,Gasoline,MPG,16.0,18.0,17.0
+2023_Ford_BRONCO BLACK DIAMOND 4WD,Gasoline,MPG,18.0,18.0,18.0
+2023_Ford_BRONCO SASQUATCH 4WD,Gasoline,MPG,18.0,17.0,18.0
+2023_Ford_BRONCO SASQUATCH 4WD,Gasoline,MPG,16.0,18.0,17.0
+2023_Ford_BRONCO SASQUATCH 4WD,Gasoline,MPG,17.0,17.0,17.0
+2023_Ford_BRONCO SPORT 4WD,Gasoline,MPG,25.0,28.0,26.0
+2023_Ford_BRONCO SPORT 4WD,Gasoline,MPG,21.0,26.0,23.0
+2023_Ford_EDGE AWD,Gasoline,MPG,21.0,28.0,23.0
+2023_Ford_EDGE AWD,Gasoline,MPG,20.0,28.0,23.0
+2023_Ford_EDGE AWD,Gasoline,MPG,19.0,25.0,21.0
+2023_Ford_ESCAPE AWD,Gasoline,MPG,26.0,32.0,28.0
+2023_Ford_ESCAPE AWD,Gasoline,MPG,23.0,31.0,26.0
+2023_Ford_ESCAPE AWD HEV,Gasoline,MPG,42.0,36.0,39.0
+2023_GENESIS_GV70 AWD,Gasoline,MPG,22.0,28.0,24.0
+2023_GENESIS_GV70 AWD,Gasoline,MPG,19.0,26.0,22.0
+2023_GENESIS_GV70 AWD,Gasoline,MPG,19.0,24.0,21.0
+2023_GMC_TERRAIN AWD,Gasoline,MPG,24.0,28.0,26.0
+2023_Honda_CR-V AWD,Gasoline,MPG,27.0,32.0,29.0
+2023_Honda_CR-V AWD,Gasoline,MPG,40.0,34.0,37.0
+2023_Honda_PASSPORT AWD,Gasoline,MPG,19.0,24.0,21.0
+2023_HYUNDAI MOTOR COMPANY_Kona AWD,Gasoline,MPG,27.0,32.0,29.0
+2023_HYUNDAI MOTOR COMPANY_Kona AWD,Gasoline,MPG,28.0,33.0,30.0
+2023_HYUNDAI MOTOR COMPANY_Palisade AWD,Gasoline,MPG,19.0,25.0,21.0
+2023_HYUNDAI MOTOR COMPANY_Santa Cruz AWD,Gasoline,MPG,19.0,27.0,22.0
+2023_HYUNDAI MOTOR COMPANY_Santa Cruz AWD,Gasoline,MPG,21.0,25.0,23.0
+2023_HYUNDAI MOTOR COMPANY_Santa Fe AWD,Gasoline,MPG,21.0,28.0,24.0
+2023_HYUNDAI MOTOR COMPANY_Santa Fe AWD,Gasoline,MPG,22.0,25.0,24.0
+2023_HYUNDAI MOTOR COMPANY_Santa Fe Hybrid,Gasoline,MPG,33.0,30.0,32.0
+2023_HYUNDAI MOTOR COMPANY_Santa Fe Hybrid Blue,Gasoline,MPG,36.0,31.0,34.0
+2023_HYUNDAI MOTOR COMPANY_Tucson AWD,Gasoline,MPG,23.0,28.0,25.0
+2023_HYUNDAI MOTOR COMPANY_Tucson Hybrid,Gasoline,MPG,37.0,36.0,37.0
+2023_HYUNDAI MOTOR COMPANY_Tucson Hybrid Blue,Gasoline,MPG,38.0,38.0,38.0
+2023_INFINITI_QX50 AWD,Gasoline,MPG,22.0,28.0,25.0
+2023_INFINITI_QX55 AWD,Gasoline,MPG,22.0,28.0,25.0
+2023_Jaguar_E-PACE,Gasoline,MPG,20.0,26.0,23.0
+2023_Jaguar_F-PACE,Gasoline,MPG,22.0,27.0,24.0
+2023_Jaguar_F-PACE P340 MHEV,Gasoline,MPG,20.0,27.0,22.0
+2023_Jaguar_F-PACE P400 MHEV,Gasoline,MPG,19.0,26.0,22.0
+2023_Jaguar_F-PACE SVR,Gasoline,MPG,15.0,21.0,17.0
+2023_Jeep_Cherokee 4X4,Gasoline,MPG,21.0,29.0,24.0
+2023_Jeep_Cherokee Trailhawk 4X4,Gasoline,MPG,20.0,26.0,22.0
+2023_Jeep_Compass 4X4,Gasoline,MPG,24.0,32.0,27.0
+2023_Jeep_Renegade 4x4,Gasoline,MPG,23.0,29.0,26.0
+2023_Jeep_Renegade Trailhawk 4x4,Gasoline,MPG,22.0,27.0,24.0
+2023_Jeep_Wrangler 2dr 4X4,Gasoline,MPG,22.0,24.0,23.0
+2023_Jeep_Wrangler 2dr 4X4,Gasoline,MPG,18.0,23.0,20.0
+2023_Jeep_Wrangler 2dr 4X4,Gasoline,MPG,20.0,24.0,21.0
+2023_Jeep_Wrangler 2dr 4X4,Gasoline,MPG,17.0,25.0,20.0
+2023_Jeep_Wrangler 4dr 4X4,Gasoline,MPG,21.0,24.0,22.0
+2023_Jeep_Wrangler 4dr 4X4,Gasoline,MPG,18.0,23.0,20.0
+2023_Jeep_Wrangler 4dr 4X4,Gasoline,MPG,19.0,24.0,21.0
+2023_Jeep_Wrangler 4dr 4X4,Gasoline,MPG,17.0,23.0,19.0
+2023_Jeep_Wrangler 4dr 4X4,Gasoline,MPG,13.0,17.0,14.0
+2023_Jeep_Wrangler 4dr EcoDiesel 4x4,Gasoline,MPG,22.0,29.0,25.0
+2023_Jeep_Wrangler Rubic 4dr EcoDiesel 4x4,Gasoline,MPG,21.0,26.0,23.0
+2023_KIA_Seltos AWD,Gasoline,MPG,25.0,30.0,27.0
+2023_KIA_Seltos AWD,Gasoline,MPG,27.0,31.0,29.0
+2023_KIA_Sorento AWD,Gasoline,MPG,22.0,27.0,24.0
+2023_KIA_Sorento AWD,Gasoline,MPG,23.0,25.0,24.0
+2023_KIA_Sorento Hybrid AWD,Gasoline,MPG,36.0,33.0,34.0
+2023_KIA_Sportage AWD,Gasoline,MPG,23.0,28.0,25.0
+2023_KIA_Sportage Hybrid AWD,Gasoline,MPG,38.0,38.0,38.0
+2023_KIA_Sportage Hybrid FWD,Gasoline,MPG,42.0,44.0,43.0
+2023_KIA_Telluride AWD,Gasoline,MPG,18.0,24.0,21.0
+2023_Land Rover_Discovery Sport,Gasoline,MPG,19.0,23.0,20.0
+2023_Land Rover_Range Rover Evoque,Gasoline,MPG,20.0,27.0,22.0
+2023_Land Rover_Range Rover Evoque MHEV,Gasoline,MPG,21.0,26.0,23.0
+2023_Land Rover_Range Rover Velar,Gasoline,MPG,20.0,26.0,23.0
+2023_Land Rover_Range Rover Velar P340 MHEV,Gasoline,MPG,20.0,26.0,22.0
+2023_Land Rover_Range Rover Velar P400 MHEV,Gasoline,MPG,19.0,25.0,21.0
+2023_LEXUS_NX 250 AWD,Gasoline,MPG,25.0,32.0,28.0
+2023_LEXUS_NX 350 AWD,Gasoline,MPG,22.0,28.0,25.0
+2023_LEXUS_NX 350h AWD,Gasoline,MPG,41.0,37.0,39.0
+2023_LEXUS_RX 350 AWD,Gasoline,MPG,21.0,28.0,24.0
+2023_LEXUS_RX 350h AWD,Gasoline,MPG,37.0,34.0,36.0
+2023_LEXUS_RX 500h AWD,Gasoline,MPG,27.0,28.0,27.0
+2023_Lincoln_CORSAIR AWD,Gasoline,MPG,21.0,28.0,24.0
+2023_Lincoln_NAUTILUS AWD,Gasoline,MPG,20.0,25.0,22.0
+2023_Lincoln_NAUTILUS AWD,Gasoline,MPG,20.0,25.0,22.0
+2023_Lincoln_NAUTILUS AWD,Gasoline,MPG,19.0,25.0,21.0
+2023_MASERATI_GRECALE GT,Gasoline,MPG,22.0,29.0,25.0
+2023_MASERATI_GRECALE MODENA,Gasoline,MPG,22.0,29.0,25.0
+2023_MASERATI_GRECALE TROFEO,Gasoline,MPG,18.0,25.0,20.0
+2023_MAZDA_CX-30 4WD,Gasoline,MPG,22.0,30.0,25.0
+2023_MAZDA_CX-30 4WD,Gasoline,MPG,26.0,33.0,29.0
+2023_MAZDA_CX-5 4WD,Gasoline,MPG,22.0,27.0,24.0
+2023_MAZDA_CX-5 4WD,Gasoline,MPG,24.0,30.0,26.0
+2023_MAZDA_CX-9 4WD,Gasoline,MPG,20.0,26.0,23.0
+2023_MAZDA_MAZDA CX-50 4WD,Gasoline,MPG,23.0,29.0,25.0
+2023_MAZDA_MAZDA CX-50 4WD,Gasoline,MPG,24.0,30.0,27.0
+2023_Mercedes-Benz_AMG GLC 43 4MATIC (coupe),Gasoline,MPG,17.0,24.0,20.0
+2023_Mercedes-Benz_GLA 250 4MATIC,Gasoline,MPG,23.0,32.0,26.0
+2023_Mercedes-Benz_GLB 250 4MATIC,Gasoline,MPG,22.0,30.0,25.0
+2023_Mercedes-Benz_GLC 300 4MATIC (Coupe),Gasoline,MPG,20.0,26.0,22.0
+2023_Mercedes-Benz_GLE 350,Gasoline,MPG,20.0,25.0,22.0
+2023_Mercedes-Benz_GLE 350 4MATIC,Gasoline,MPG,20.0,24.0,21.0
+2023_MITSUBISHI MOTORS_Outlander 4WD,Gasoline,MPG,24.0,30.0,26.0
+2023_Mitsubishi Motors Corporation_ECLIPSE CROSS 4WD,Gasoline,MPG,25.0,26.0,25.0
+2023_Mitsubishi Motors Corporation_ECLIPSE CROSS ES 4WD,Gasoline,MPG,25.0,28.0,26.0
+2023_Mitsubishi Motors Corporation_Outlander Sport 4WD,Gasoline,MPG,23.0,29.0,26.0
+2023_Mitsubishi Motors Corporation_Outlander Sport 4WD,Gasoline,MPG,23.0,28.0,25.0
+2023_NISSAN_PATHFINDER 4WD,Gasoline,MPG,21.0,27.0,23.0
+2023_NISSAN_PATHFINDER 4WD ROCK CREEK,Gasoline,MPG,20.0,23.0,21.0
+2023_NISSAN_PATHFINDER 4WD SL/PLATINUM,Gasoline,MPG,20.0,25.0,22.0
+2023_NISSAN_ROGUE AWD,Gasoline,MPG,28.0,35.0,31.0
+2023_NISSAN_ROGUE AWD,Gasoline,MPG,28.0,35.0,31.0
+2023_NISSAN_ROGUE AWD SL/PLATINUM,Gasoline,MPG,28.0,34.0,31.0
+2023_NISSAN_ROGUE AWD SL/PLATINUM,Gasoline,MPG,28.0,34.0,31.0
+2023_Porsche_Macan,Gasoline,MPG,19.0,25.0,21.0
+2023_Porsche_Macan GTS,Gasoline,MPG,17.0,22.0,19.0
+2023_Porsche_Macan S,Gasoline,MPG,17.0,23.0,19.0
+2023_Porsche_Macan T,Gasoline,MPG,19.0,25.0,21.0
+2023_Subaru_CROSSTREK AWD,Gasoline,MPG,28.0,33.0,30.0
+2023_Subaru_CROSSTREK AWD,Gasoline,MPG,22.0,29.0,25.0
+2023_Subaru_CROSSTREK AWD,Gasoline,MPG,27.0,34.0,29.0
+2023_Subaru_FORESTER AWD,Gasoline,MPG,26.0,33.0,29.0
+2023_Subaru_FORESTER WILDERNESS AWD,Gasoline,MPG,25.0,28.0,26.0
+2023_Subaru_OUTBACK AWD,Gasoline,MPG,22.0,29.0,25.0
+2023_Subaru_OUTBACK AWD,Gasoline,MPG,26.0,32.0,28.0
+2023_Subaru_OUTBACK WILDERNESS AWD,Gasoline,MPG,21.0,26.0,23.0
+2023_TOYOTA_COROLLA CROSS AWD,Gasoline,MPG,29.0,32.0,30.0
+2023_TOYOTA_HIGHLANDER AWD,Gasoline,MPG,21.0,28.0,24.0
+2023_TOYOTA_RAV4 AWD,Gasoline,MPG,27.0,33.0,29.0
+2023_TOYOTA_RAV4 AWD,Gasoline,MPG,25.0,33.0,28.0
+2023_TOYOTA_RAV4 AWD LE,Gasoline,MPG,27.0,34.0,30.0
+2023_TOYOTA_RAV4 AWD TRD OFFROAD,Gasoline,MPG,25.0,32.0,28.0
+2023_TOYOTA_RAV4 HYBRID AWD,Gasoline,MPG,41.0,38.0,40.0
+2023_TOYOTA_RAV4 HYBRID AWD WOODLAND EDITION,Gasoline,MPG,38.0,35.0,37.0
+2023_TOYOTA_VENZA AWD,Gasoline,MPG,40.0,37.0,39.0
+2023_Volkswagen_Atlas 4Motion,Gasoline,MPG,20.0,24.0,22.0
+2023_Volkswagen_Atlas 4Motion,Gasoline,MPG,18.0,23.0,20.0
+2023_Volkswagen_Atlas Cross Sport 4Motion,Gasoline,MPG,20.0,24.0,22.0
+2023_Volkswagen_Atlas Cross Sport 4Motion,Gasoline,MPG,18.0,24.0,20.0
+2023_Volkswagen_Taos 4Motion,Gasoline,MPG,25.0,32.0,28.0
+2023_Volkswagen_Tiguan 4Motion,Gasoline,MPG,22.0,29.0,25.0
+2023_Volkswagen_Tiguan R-Line 4Motion,Gasoline,MPG,21.0,28.0,24.0
+"2023_Volvo Cars of North America, LLC_XC40 B5 AWD",Gasoline,MPG,23.0,30.0,26.0
+"2023_Volvo Cars of North America, LLC_XC60 B5 AWD",Gasoline,MPG,23.0,29.0,25.0
+"2023_Volvo Cars of North America, LLC_XC60 B6 AWD",Gasoline,MPG,21.0,27.0,23.0
+2023_BMW_X5 sDrive40i,Gasoline,MPG,21.0,26.0,23.0
+2023_Buick_ENCLAVE FWD,Gasoline,MPG,18.0,26.0,21.0
+2023_Cadillac_ESCALADE 2WD,Gasoline,MPG,21.0,27.0,23.0
+2023_Cadillac_ESCALADE 2WD,Gasoline,MPG,14.0,19.0,16.0
+2023_Chevrolet_SUBURBAN 2WD,Gasoline,MPG,21.0,27.0,23.0
+2023_Chevrolet_SUBURBAN 2WD,Gasoline,MPG,15.0,20.0,17.0
+2023_Chevrolet_SUBURBAN 2WD,Gasoline,MPG,14.0,20.0,16.0
+2023_Chevrolet_TAHOE 2WD,Gasoline,MPG,21.0,28.0,24.0
+2023_Chevrolet_TAHOE 2WD,Gasoline,MPG,15.0,20.0,17.0
+2023_Chevrolet_TAHOE 2WD,Gasoline,MPG,14.0,20.0,16.0
+2023_Chevrolet_TRAVERSE FWD,Gasoline,MPG,18.0,27.0,21.0
+2023_Dodge_Durango RWD,Gasoline,MPG,19.0,26.0,21.0
+2023_Dodge_Durango RWD,Gasoline,MPG,14.0,22.0,17.0
+2023_Ford_EXPEDITION 2WD,Gasoline,MPG,17.0,23.0,19.0
+2023_Ford_EXPEDITION 2WD,Gasoline,MPG,16.0,23.0,19.0
+2023_Ford_EXPLORER HEV RWD,Gasoline,MPG,27.0,28.0,27.0
+2023_Ford_EXPLORER PLATINUM HEV RWD,Gasoline,MPG,25.0,26.0,26.0
+2023_Ford_EXPLORER RWD,Gasoline,MPG,20.0,28.0,23.0
+2023_Ford_EXPLORER RWD,Gasoline,MPG,21.0,28.0,24.0
+2023_Ford_EXPLORER RWD,Gasoline,MPG,18.0,26.0,21.0
+2023_Ford_EXPLORER RWD,Gasoline,MPG,18.0,25.0,20.0
+2023_GMC_ACADIA FWD,Gasoline,MPG,22.0,29.0,25.0
+2023_GMC_ACADIA FWD,Gasoline,MPG,19.0,27.0,22.0
+2023_GMC_YUKON 2WD,Gasoline,MPG,21.0,27.0,23.0
+2023_GMC_YUKON 2WD,Gasoline,MPG,15.0,20.0,17.0
+2023_GMC_YUKON 2WD,Gasoline,MPG,14.0,20.0,16.0
+2023_GMC_YUKON XL 2WD,Gasoline,MPG,21.0,27.0,23.0
+2023_GMC_YUKON XL 2WD,Gasoline,MPG,15.0,20.0,17.0
+2023_GMC_YUKON XL 2WD,Gasoline,MPG,14.0,19.0,16.0
+2023_INFINITI_QX60 FWD,Gasoline,MPG,21.0,26.0,23.0
+2023_INFINITI_QX80 2WD,Gasoline,MPG,14.0,20.0,16.0
+2023_Jeep_Grand Cherokee L 4X2,Gasoline,MPG,19.0,26.0,21.0
+2023_Jeep_Wagoneer 4x2,Gasoline,MPG,17.0,24.0,20.0
+2023_Jeep_Wagoneer 4x2,Gasoline,MPG,16.0,22.0,18.0
+2023_Jeep_Wagoneer L 4x2,Gasoline,MPG,17.0,24.0,20.0
+2023_Lincoln_AVIATOR RWD,Gasoline,MPG,18.0,26.0,21.0
+2023_Lincoln_NAVIGATOR 2WD,Gasoline,MPG,17.0,23.0,19.0
+2023_Lincoln_NAVIGATOR 2WD,Gasoline,MPG,16.0,23.0,19.0
+2023_NISSAN_ARMADA 2WD,Gasoline,MPG,14.0,19.0,16.0
+2023_TOYOTA_4RUNNER 2WD,Gasoline,MPG,16.0,19.0,17.0
+2023_TOYOTA_SEQUOIA 2WD,Gasoline,MPG,21.0,24.0,22.0
+2023_Acura_MDX AWD Type-S,Gasoline,MPG,17.0,21.0,19.0
+2023_Aston Martin Lagonda Ltd_DBX 707,Gasoline,MPG,15.0,20.0,17.0
+2023_Aston Martin Lagonda Ltd_DBX V8,Gasoline,MPG,14.0,20.0,16.0
+2023_Audi_Q7,Gasoline,MPG,19.0,25.0,21.0
+2023_Audi_Q7,Gasoline,MPG,18.0,22.0,20.0
+2023_Audi_Q8,Gasoline,MPG,18.0,23.0,20.0
+2023_Audi_RS Q8,Gasoline,MPG,13.0,20.0,16.0
+2023_Audi_SQ7,Gasoline,MPG,14.0,20.0,17.0
+2023_Audi_SQ8,Gasoline,MPG,14.0,20.0,17.0
+2023_Bentley_Bentayga,Gasoline,MPG,14.0,21.0,17.0
+2023_Bentley_Bentayga EWB,Gasoline,MPG,14.0,21.0,17.0
+2023_Bentley_Bentayga Speed,Gasoline,MPG,12.0,19.0,14.0
+2023_BMW_ALPINA XB7,Gasoline,MPG,16.0,20.0,17.0
+2023_BMW_X5 M,Gasoline,MPG,13.0,18.0,15.0
+2023_BMW_X5 M Competition,Gasoline,MPG,13.0,18.0,15.0
+2023_BMW_X5 M50i,Gasoline,MPG,16.0,22.0,18.0
+2023_BMW_X5 xDrive40i,Gasoline,MPG,21.0,25.0,23.0
+2023_BMW_X6 M,Gasoline,MPG,13.0,18.0,15.0
+2023_BMW_X6 M Competition,Gasoline,MPG,13.0,18.0,15.0
+2023_BMW_X6 M50i,Gasoline,MPG,16.0,22.0,18.0
+2023_BMW_X6 xDrive40i,Gasoline,MPG,21.0,25.0,23.0
+2023_BMW_X7 M60i xDrive,Gasoline,MPG,16.0,21.0,18.0
+2023_BMW_X7 xDrive40i,Gasoline,MPG,21.0,25.0,22.0
+2023_Buick_ENCLAVE AWD,Gasoline,MPG,17.0,25.0,20.0
+2023_Cadillac_ESCALADE 4WD,Gasoline,MPG,20.0,26.0,22.0
+2023_Cadillac_ESCALADE 4WD,Gasoline,MPG,14.0,18.0,16.0
+2023_Cadillac_ESCALADE V AWD,Gasoline,MPG,11.0,16.0,13.0
+2023_Chevrolet_SUBURBAN 4WD,Gasoline,MPG,20.0,26.0,22.0
+2023_Chevrolet_SUBURBAN 4WD,Gasoline,MPG,15.0,19.0,16.0
+2023_Chevrolet_SUBURBAN 4WD,Gasoline,MPG,14.0,18.0,16.0
+2023_Chevrolet_TAHOE 4WD,Gasoline,MPG,20.0,26.0,22.0
+2023_Chevrolet_TAHOE 4WD,Gasoline,MPG,14.0,18.0,16.0
+2023_Chevrolet_TAHOE 4WD,Gasoline,MPG,15.0,20.0,17.0
+2023_Chevrolet_TAHOE 4WD,Gasoline,MPG,14.0,18.0,16.0
+2023_Chevrolet_TRAVERSE AWD,Gasoline,MPG,17.0,25.0,20.0
+2023_Dodge_Durango AWD,Gasoline,MPG,18.0,25.0,21.0
+2023_Dodge_Durango AWD,Gasoline,MPG,14.0,22.0,17.0
+2023_Dodge_Durango SRT AWD,Gasoline,MPG,12.0,17.0,13.0
+2023_Dodge_Durango SRT AWD,Gasoline,MPG,13.0,19.0,15.0
+2023_Ford_BRONCO RAPTOR 4WD,Gasoline,MPG,15.0,16.0,15.0
+2023_Ford_EXPEDITION 4WD,Gasoline,MPG,16.0,22.0,18.0
+2023_Ford_EXPEDITION 4WD,Gasoline,MPG,16.0,21.0,18.0
+2023_Ford_EXPEDITION TIMBERLINE 4WD,Gasoline,MPG,16.0,19.0,17.0
+2023_Ford_EXPEDITION TIMBERLINE 4WD,Gasoline,MPG,15.0,19.0,17.0
+2023_Ford_EXPLORER AWD,Gasoline,MPG,20.0,26.0,22.0
+2023_Ford_EXPLORER AWD,Gasoline,MPG,20.0,27.0,23.0
+2023_Ford_EXPLORER AWD,Gasoline,MPG,18.0,24.0,20.0
+2023_Ford_EXPLORER AWD,Gasoline,MPG,18.0,24.0,20.0
+2023_Ford_EXPLORER FFV AWD,Gasoline,MPG,17.0,25.0,20.0
+2023_Ford_EXPLORER HEV AWD,Gasoline,MPG,23.0,26.0,25.0
+2023_Ford_EXPLORER PLATINUM HEV AWD,Gasoline,MPG,23.0,24.0,23.0
+2023_Ford_EXPLORER TIMBERLINE AWD,Gasoline,MPG,19.0,21.0,20.0
+2023_Ford_EXPLORER TIMBERLINE AWD,Gasoline,MPG,19.0,22.0,21.0
+2023_GENESIS_GV80 AWD,Gasoline,MPG,20.0,24.0,22.0
+2023_GENESIS_GV80 AWD,Gasoline,MPG,18.0,23.0,20.0
+2023_GMC_ACADIA AWD,Gasoline,MPG,22.0,27.0,24.0
+2023_GMC_ACADIA AWD,Gasoline,MPG,19.0,26.0,21.0
+2023_GMC_YUKON 4WD,Gasoline,MPG,20.0,26.0,22.0
+2023_GMC_YUKON 4WD,Gasoline,MPG,15.0,20.0,17.0
+2023_GMC_YUKON 4WD,Gasoline,MPG,14.0,18.0,16.0
+2023_GMC_YUKON XL 4WD,Gasoline,MPG,20.0,26.0,22.0
+2023_GMC_YUKON XL 4WD,Gasoline,MPG,15.0,19.0,16.0
+2023_GMC_YUKON XL 4WD,Gasoline,MPG,14.0,18.0,16.0
+2023_Honda_PILOT AWD,Gasoline,MPG,19.0,25.0,21.0
+2023_Honda_Pilot AWD Touring/Elite/Black,Gasoline,MPG,19.0,25.0,21.0
+2023_Honda_Pilot AWD TRAILSPORT,Gasoline,MPG,18.0,23.0,20.0
+2023_INFINITI_QX60 AWD,Gasoline,MPG,20.0,25.0,22.0
+2023_INFINITI_QX80 4WD,Gasoline,MPG,13.0,19.0,15.0
+2023_INFINITI_QX80 4WD,Gasoline,MPG,13.0,19.0,15.0
+2023_Jeep_Grand Cherokee 4X4,Gasoline,MPG,14.0,22.0,17.0
+2023_Jeep_Grand Cherokee L 4X4,Gasoline,MPG,18.0,25.0,21.0
+2023_Jeep_Grand Cherokee L 4X4,Gasoline,MPG,14.0,22.0,17.0
+2023_Jeep_Grand Wagoneer 4x4,Gasoline,MPG,14.0,20.0,17.0
+2023_Jeep_Grand Wagoneer 4x4,Gasoline,MPG,13.0,18.0,15.0
+2023_Jeep_Grand Wagoneer L 4x4,Gasoline,MPG,14.0,19.0,16.0
+2023_Jeep_Wagoneer 4x4,Gasoline,MPG,16.0,23.0,19.0
+2023_Jeep_Wagoneer 4x4,Gasoline,MPG,15.0,20.0,17.0
+2023_Jeep_Wagoneer L 4x4,Gasoline,MPG,16.0,23.0,19.0
+2023_Lamborghini_Urus S,Gasoline,MPG,14.0,19.0,16.0
+2023_Land Rover_Defender 110,Gasoline,MPG,18.0,20.0,19.0
+2023_Land Rover_Defender 110,Gasoline,MPG,14.0,19.0,16.0
+2023_Land Rover_Defender 110 MHEV,Gasoline,MPG,18.0,23.0,20.0
+2023_Land Rover_Defender 130 P300 MHEV,Gasoline,MPG,17.0,21.0,19.0
+2023_Land Rover_Defender 130 P400 MHEV,Gasoline,MPG,17.0,21.0,19.0
+2023_Land Rover_Defender 90,Gasoline,MPG,18.0,21.0,19.0
+2023_Land Rover_Defender 90,Gasoline,MPG,15.0,19.0,16.0
+2023_Land Rover_Defender 90 MHEV,Gasoline,MPG,18.0,23.0,20.0
+2023_Land Rover_Discovery,Gasoline,MPG,19.0,24.0,21.0
+2023_Land Rover_Discovery MHEV,Gasoline,MPG,19.0,25.0,22.0
+2023_Land Rover_New Range Rover,Gasoline,MPG,16.0,21.0,18.0
+2023_Land Rover_New Range Rover,Gasoline,MPG,16.0,21.0,18.0
+2023_Land Rover_New Range Rover LWB,Gasoline,MPG,16.0,21.0,18.0
+2023_Land Rover_New Range Rover LWB,Gasoline,MPG,16.0,21.0,18.0
+2023_Land Rover_New Range Rover P360 LWB MHEV,Gasoline,MPG,18.0,26.0,21.0
+2023_Land Rover_New Range Rover P360 MHEV,Gasoline,MPG,18.0,26.0,21.0
+2023_Land Rover_New Range Rover P400 LWB MHEV,Gasoline,MPG,18.0,26.0,21.0
+2023_Land Rover_New Range Rover P400 MHEV,Gasoline,MPG,18.0,26.0,21.0
+2023_Land Rover_New Range Rover Sport,Gasoline,MPG,16.0,21.0,18.0
+2023_Land Rover_New Range Rover Sport P360 MHEV,Gasoline,MPG,19.0,26.0,22.0
+2023_Land Rover_New Range Rover Sport P400 MHEV,Gasoline,MPG,18.0,26.0,21.0
+2023_LEXUS_GX 460,Gasoline,MPG,15.0,19.0,16.0
+2023_LEXUS_LX 600,Gasoline,MPG,17.0,22.0,19.0
+2023_Lincoln_AVIATOR AWD,Gasoline,MPG,17.0,24.0,20.0
+2023_Lincoln_NAVIGATOR 4WD,Gasoline,MPG,15.0,21.0,17.0
+2023_Lincoln_NAVIGATOR 4WD,Gasoline,MPG,16.0,22.0,18.0
+2023_MASERATI_LEVANTE GT,Gasoline,MPG,16.0,22.0,18.0
+2023_MASERATI_LEVANTE MODENA,Gasoline,MPG,16.0,22.0,18.0
+2023_MASERATI_LEVANTE MODENA V8,Gasoline,MPG,13.0,20.0,16.0
+2023_MASERATI_LEVANTE TROFEO,Gasoline,MPG,13.0,20.0,16.0
+2023_Mercedes-Benz_AMG GLE 53 4MATIC+,Gasoline,MPG,18.0,22.0,19.0
+2023_Mercedes-Benz_AMG GLE 53 4MATIC+ (coupe),Gasoline,MPG,17.0,21.0,19.0
+2023_Mercedes-Benz_AMG GLE 63 S 4MATIC+,Gasoline,MPG,15.0,20.0,17.0
+2023_Mercedes-Benz_AMG GLE 63 S 4MATIC+ (coupe),Gasoline,MPG,15.0,19.0,17.0
+2023_Mercedes-Benz_AMG GLS 63 4MATIC+,Gasoline,MPG,14.0,19.0,16.0
+2023_Mercedes-Benz_G 550,Gasoline,MPG,13.0,16.0,14.0
+2023_Mercedes-Benz_GLE 450 4MATIC,Gasoline,MPG,20.0,25.0,22.0
+2023_Mercedes-Benz_GLE 580 4MATIC,Gasoline,MPG,16.0,21.0,18.0
+2023_Mercedes-Benz_GLS 450 4MATIC,Gasoline,MPG,18.0,23.0,20.0
+2023_Mercedes-Benz_GLS 580 4MATIC,Gasoline,MPG,16.0,21.0,18.0
+2023_Mercedes-Benz_GLS 600 4MATIC Maybach,Gasoline,MPG,15.0,20.0,17.0
+2023_NISSAN_ARMADA 4WD,Gasoline,MPG,13.0,18.0,15.0
+2023_NISSAN_ARMADA 4WD,Gasoline,MPG,13.0,18.0,15.0
+2023_Porsche_Cayenne,Gasoline,MPG,17.0,22.0,19.0
+2023_Porsche_Cayenne GTS,Gasoline,MPG,15.0,19.0,17.0
+2023_Porsche_Cayenne GTS Coupe,Gasoline,MPG,15.0,19.0,17.0
+2023_Porsche_Cayenne S,Gasoline,MPG,16.0,22.0,18.0
+2023_Porsche_Cayenne S Coupe,Gasoline,MPG,16.0,21.0,18.0
+2023_Porsche_Cayenne Turbo,Gasoline,MPG,14.0,19.0,16.0
+2023_Porsche_Cayenne Turbo Coup¨¦,Gasoline,MPG,15.0,20.0,17.0
+2023_Porsche_Cayenne Turbo GT,Gasoline,MPG,14.0,19.0,16.0
+2023_Subaru_ASCENT AWD,Gasoline,MPG,20.0,26.0,22.0
+2023_Subaru_ASCENT LIMITED/TOURING/ONYX AWD,Gasoline,MPG,19.0,25.0,21.0
+2023_TOYOTA_4RUNNER 4WD,Gasoline,MPG,16.0,19.0,17.0
+2023_TOYOTA_4RUNNER 4WD,Gasoline,MPG,16.0,19.0,17.0
+2023_TOYOTA_HIGHLANDER HYBRID AWD,Gasoline,MPG,35.0,35.0,35.0
+2023_TOYOTA_HIGHLANDER HYBRID AWD LTD/PLAT,Gasoline,MPG,35.0,34.0,35.0
+2023_TOYOTA_SEQUOIA 4WD,Gasoline,MPG,19.0,22.0,20.0
+"2023_Volvo Cars of North America, LLC_XC90 B5 AWD",Gasoline,MPG,22.0,28.0,25.0
+"2023_Volvo Cars of North America, LLC_XC90 B6 AWD",Gasoline,MPG,20.0,26.0,22.0

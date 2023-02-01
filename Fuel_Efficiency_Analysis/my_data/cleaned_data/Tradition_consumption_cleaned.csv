@@ -1,0 +1,1081 @@
+Models,Fuel Usage Desc - Conventional Fuel,Fuel Unit - Conventional Fuel,Fuel Unit Desc - Conventional Fuel,City FE (Guide) - Conventional Fuel,Hwy FE (Guide) - Conventional Fuel,Comb FE (Guide) - Conventional Fuel
+2023_Aston Martin Lagonda Ltd_V12 Vantage,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,22,16
+2023_Aston Martin Lagonda Ltd_Vantage V8,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,24,20
+2023_Audi_R8 Coupe quattro,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,18,15
+2023_Audi_R8 Coupe RWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,23,17
+2023_Audi_R8 GT RWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,21,17
+2023_Audi_R8 Spyder quattro,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,18,15
+2023_Audi_R8 Spyder RWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,23,17
+2023_Audi_TT Roadster,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,30,25
+2023_BMW_Z4 M40i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_BMW_Z4 sDrive30i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,33,28
+2023_Bugatti_Chiron,Gasoline (Premium Unleaded Required),MPG,miles per gallon,9,14,11
+2023_Bugatti_Chiron Pur Sport,Gasoline (Premium Unleaded Required),MPG,miles per gallon,8,11,9
+2023_Bugatti_Chiron Super Sport,Gasoline (Premium Unleaded Required),MPG,miles per gallon,8,11,9
+2023_Chevrolet_CORVETTE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,24,19
+2023_Chevrolet_CORVETTE Z06,Gasoline (Premium Unleaded Required),MPG,miles per gallon,12,21,15
+2023_Chevrolet_CORVETTE Z06 CARBON AERO,Gasoline (Premium Unleaded Required),MPG,miles per gallon,12,19,14
+"2023_Ferrari North America, Inc._812 Competizione",Gasoline (Premium Unleaded Required),MPG,miles per gallon,12,16,14
+"2023_Ferrari North America, Inc._812 Competizione A",Gasoline (Premium Unleaded Required),MPG,miles per gallon,12,16,14
+"2023_Ferrari North America, Inc._812 GTS",Gasoline (Premium Unleaded Required),MPG,miles per gallon,12,15,13
+"2023_Ferrari North America, Inc._F8 Spider",Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,18,16
+"2023_Ferrari North America, Inc._F8 Tributo",Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,19,16
+"2023_Ferrari North America, Inc._Ferrari Daytona SP3",Gasoline (Premium Unleaded Required),MPG,miles per gallon,12,16,13
+"2023_Ferrari North America, Inc._Ferrari Monza SP1",Gasoline (Premium Unleaded Required),MPG,miles per gallon,12,15,13
+"2023_Ferrari North America, Inc._Ferrari Monza SP2",Gasoline (Premium Unleaded Required),MPG,miles per gallon,12,15,13
+2023_Jaguar_F-TYPE P450 AWD R-Dynamic Conv,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,24,18
+2023_Jaguar_F-TYPE P450 AWD R-Dynamic Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,24,18
+2023_Jaguar_F-TYPE P450 RWD Convertible,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,24,19
+2023_Jaguar_F-TYPE P450 RWD Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,24,19
+2023_Jaguar_F-TYPE R AWD Convertible,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,24,18
+2023_Jaguar_F-TYPE R AWD Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,24,18
+2023_Lamborghini_Huracan Coupe,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,18,15
+2023_Lamborghini_Huracan Coupe 2WD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,18,15
+2023_Lamborghini_Huracan Spyder,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,18,15
+2023_Lamborghini_Huracan Spyder 2WD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,18,15
+2023_MASERATI_MC20,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,25,18
+2023_MASERATI_MC20 Spyder,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,25,18
+2023_MAZDA_MX-5,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,26,35,30
+2023_MAZDA_MX-5,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,26,34,29
+2023_NISSAN_Z,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,28,22
+2023_NISSAN_Z,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,24,20
+2023_Porsche_718 Boxster,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,27,24
+2023_Porsche_718 Boxster,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,25,22
+2023_Porsche_718 Boxster GTS 4.0,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,24,21
+2023_Porsche_718 Boxster GTS 4.0,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,24,19
+2023_Porsche_718 Boxster S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,25,22
+2023_Porsche_718 Boxster S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,24,21
+2023_Porsche_718 Boxster T,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,27,23
+2023_Porsche_718 Boxster T,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,26,22
+2023_Porsche_718 Cayman,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,27,24
+2023_Porsche_718 Cayman,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,25,22
+2023_Porsche_718 Cayman GT4,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,24,20
+2023_Porsche_718 Cayman GT4,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,23,19
+2023_Porsche_718 Cayman GTS 4.0,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,24,21
+2023_Porsche_718 Cayman GTS 4.0,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,24,19
+2023_Porsche_718 Cayman S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,25,22
+2023_Porsche_718 Cayman S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,24,21
+2023_Porsche_718 Cayman T,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,27,23
+2023_Porsche_718 Cayman T,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,26,22
+2023_Porsche_718 GT4 RS,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,19,16
+2023_Porsche_718 Spyder,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,24,20
+2023_Porsche_718 Spyder,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,23,19
+2023_Porsche_911 GT3,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,18,16
+2023_Porsche_911 GT3,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,18,16
+2023_Porsche_911 GT3 Touring,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,18,16
+2023_Porsche_911 GT3 Touring,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,18,16
+2023_TOYOTA_Supra 2.0,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,31,27
+2023_TOYOTA_Supra 3.0,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_TOYOTA_Supra 3.0,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,27,21
+2023_Aston Martin Lagonda Ltd_DB11 V12,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,22,17
+2023_Aston Martin Lagonda Ltd_DB11 V8,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,24,20
+2023_Aston Martin Lagonda Ltd_DBS,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,22,17
+2023_Bentley_Continental GT Convertible,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,22,18
+2023_Bentley_Continental GT Convertible Speed,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,18,14
+"2023_Ferrari North America, Inc._Portofino M",Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,23,19
+2023_LEXUS_LC 500 CONVERTIBLE,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,25,18
+2023_Mini_COOPER CONVERTIBLE,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,29,38,32
+2023_Mini_COOPER CONVERTIBLE,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,27,37,31
+2023_Mini_COOPER S CONVERTIBLE,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,27,36,30
+2023_Mini_COOPER S CONVERTIBLE,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,33,27
+2023_Mini_JOHN COOPER WORKS CONVERTIBLE,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,33,27
+2023_Porsche_911 Carrera,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,24,20
+2023_Porsche_911 Carrera 4,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,24,20
+2023_Porsche_911 Carrera 4 Cabriolet,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,24,20
+2023_Porsche_911 Carrera 4 GTS,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,23,19
+2023_Porsche_911 Carrera 4 GTS,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,23,19
+2023_Porsche_911 Carrera 4 GTS Cabriolet,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,22,19
+2023_Porsche_911 Carrera 4 GTS Cabriolet,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,23,19
+2023_Porsche_911 Carrera 4S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,23,20
+2023_Porsche_911 Carrera 4S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,25,20
+2023_Porsche_911 Carrera 4S Cabriolet,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,23,20
+2023_Porsche_911 Carrera 4S Cabriolet,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,24,20
+2023_Porsche_911 Carrera Cabriolet,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,24,20
+2023_Porsche_911 Carrera GTS,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,23,19
+2023_Porsche_911 Carrera GTS,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,24,20
+2023_Porsche_911 Carrera GTS Cabriolet,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,23,19
+2023_Porsche_911 Carrera GTS Cabriolet,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,24,20
+2023_Porsche_911 Carrera S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,23,20
+2023_Porsche_911 Carrera S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,25,21
+2023_Porsche_911 Carrera S Cabriolet,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,23,20
+2023_Porsche_911 Carrera S Cabriolet,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,25,20
+2023_Porsche_911 Sport Classic,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,21,17
+2023_Porsche_911 Targa 4,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,24,20
+2023_Porsche_911 Targa 4 GTS,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,22,19
+2023_Porsche_911 Targa 4 GTS,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,23,19
+2023_Porsche_911 Targa 4S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,23,20
+2023_Porsche_911 Targa 4S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,24,20
+2023_Porsche_911 Turbo,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,20,17
+2023_Porsche_911 Turbo Cabriolet,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,20,17
+2023_Porsche_911 Turbo S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,20,17
+2023_Porsche_911 Turbo S Cabriolet,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,20,17
+2023_Subaru_BRZ,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,30,25
+2023_Subaru_BRZ,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,27,22
+2023_TOYOTA_GR86,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,31,25
+2023_TOYOTA_GR86,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,27,22
+2023_Audi_A3,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,38,32
+2023_Audi_A3 quattro,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,35,30
+2023_Audi_A5 Cabriolet quattro,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,31,26
+2023_Audi_A5 Coupe quattro,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,32,27
+2023_Audi_RS5 Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,26,21
+2023_Audi_S3,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,32,26
+2023_Audi_S5 Cabriolet,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,28,23
+2023_Audi_S5 Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,30,24
+2023_Audi_TT Coupe,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,30,25
+2023_Audi_TTS Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_Bentley_Continental GT,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,23,18
+2023_Bentley_Continental GT Speed,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,20,15
+2023_BMW_230i Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,26,35,29
+2023_BMW_230i xDrive Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,34,28
+2023_BMW_430i Convertible,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,34,28
+2023_BMW_430i Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,34,28
+2023_BMW_430i xDrive Convertible,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,33,27
+2023_BMW_430i xDrive Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,33,27
+2023_BMW_840i Convertible,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,29,24
+2023_BMW_840i Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,29,24
+2023_BMW_840i xDrive Convertible,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,29,24
+2023_BMW_840i xDrive Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,29,24
+2023_BMW_M2 Coupe,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,23,19
+2023_BMW_M2 Coupe,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,24,19
+2023_BMW_M240i Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,32,26
+2023_BMW_M240i xDrive Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,32,26
+2023_BMW_M4 Competition Coupe,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,23,19
+2023_BMW_M4 Competition M xDrive Coupe,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,22,18
+2023_BMW_M4 Coupe,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,23,19
+2023_BMW_M4 CSL Coupe,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,23,18
+2023_BMW_M440i Convertible,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_BMW_M440i Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,32,27
+2023_BMW_M440i xDrive Convertible,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,31,25
+2023_BMW_M440i xDrive Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,31,25
+2023_BMW_M4CompetitionMxDriveConvertible,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,23,18
+2023_BMW_M8 Competition Convertible,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,22,17
+2023_BMW_M8 Competition Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,22,17
+2023_BMW_M850i xDrive Convertible,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,24,19
+2023_BMW_M850i xDrive Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,24,19
+2023_Chevrolet_CAMARO,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,30,25
+2023_Chevrolet_CAMARO,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,28,22
+2023_Chevrolet_CAMARO,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,29,22
+2023_Chevrolet_CAMARO,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,26,20
+2023_Chevrolet_CAMARO,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,21,16
+2023_Chevrolet_CAMARO,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,26,20
+2023_Chevrolet_CAMARO,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,24,19
+2023_Chevrolet_CAMARO,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,20,16
+"2023_Ferrari North America, Inc._Roma",Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,22,19
+2023_Ford_MUSTANG,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,32,25
+2023_Ford_MUSTANG,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,31,24
+2023_Ford_MUSTANG,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,29,24
+2023_Ford_MUSTANG,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,24,19
+2023_Ford_MUSTANG,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,24,18
+2023_Ford_MUSTANG CONVERTIBLE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,28,23
+2023_Ford_MUSTANG CONVERTIBLE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,28,23
+2023_Ford_MUSTANG CONVERTIBLE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,27,23
+2023_Ford_MUSTANG CONVERTIBLE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,23,18
+2023_Ford_MUSTANG HO CONVERTIBLE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,26,22
+2023_Ford_MUSTANG HO CONVERTIBLE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,25,21
+2023_Ford_MUSTANG HO COUPE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,27,23
+2023_Ford_MUSTANG HO COUPE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,27,22
+2023_Ford_MUSTANG MACH 1,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,23,18
+2023_Ford_MUSTANG MACH 1,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,14,22,17
+2023_LEXUS_LC 500,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,25,19
+2023_LEXUS_LC 500h,Gasoline (Premium Unleaded Required),MPG,miles per gallon,26,33,29
+2023_LEXUS_RC 300,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,31,25
+2023_LEXUS_RC 300 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,26,22
+2023_LEXUS_RC 350,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,28,23
+2023_LEXUS_RC 350 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,26,22
+2023_LEXUS_RC F,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,24,19
+2023_Mercedes-Benz_AMG C 43 4MATIC (convertible),Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,28,22
+2023_Mercedes-Benz_AMG C 43 4MATIC (coupe),Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,27,21
+2023_Mercedes-Benz_AMG E 53 4MATIC+ (Convertible),Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,27,23
+2023_Mercedes-Benz_AMG E 53 4MATIC+ (Coupe),Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,28,23
+2023_Mercedes-Benz_C 300 (convertible),Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,29,24
+2023_Mercedes-Benz_C 300 (Coupe),Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,31,25
+2023_Mercedes-Benz_C 300 4MATIC (convertible),Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,30,25
+2023_Mercedes-Benz_C 300 4MATIC (Coupe),Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,31,25
+2023_Mercedes-Benz_E 450 (convertible),Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,29,25
+2023_Mercedes-Benz_E 450 (coupe),Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,30,25
+2023_Mercedes-Benz_E 450 4MATIC (convertible),Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,29,24
+2023_Mercedes-Benz_E 450 4MATIC (coupe),Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,30,24
+2023_Mini_COOPER HARDTOP 2 DOOR,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,29,38,32
+2023_Mini_COOPER HARDTOP 2 DOOR,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,27,37,31
+2023_Mini_COOPER HARDTOP 4 DOOR,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,29,38,32
+2023_Mini_COOPER HARDTOP 4 DOOR,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,27,37,31
+2023_Mini_COOPER S HARDTOP 2 DOOR,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,28,38,31
+2023_Mini_COOPER S HARDTOP 2 DOOR,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,33,27
+2023_Mini_COOPER S HARDTOP 4 DOOR,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,28,38,31
+2023_Mini_COOPER S HARDTOP 4 DOOR,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,33,27
+2023_Mini_JOHN COOPER WORKS HARDTOP 2 DOOR,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,34,29
+2023_Mini_JOHN COOPER WORKS HARDTOP 2 DOOR,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,31,25
+2023_NISSAN_GT-R,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,22,18
+2023_TOYOTA_GR COROLLA,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,28,24
+2023_Acura_TLX AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,29,24
+2023_Acura_TLX AWD A-SPEC,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,29,24
+2023_Acura_TLX FWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,31,25
+2023_Acura_TLX FWD A-SPEC,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,30,25
+2023_Acura_TLX Type-S,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,25,21
+2023_Acura_TLX Type-S Perf Tire,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,24,21
+2023_Audi_A4 quattro,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,33,28
+2023_Audi_A4 S-Line quattro,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,32,27
+2023_Audi_S4,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,30,24
+2023_BMW_228i Gran Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,34,28
+2023_BMW_228i xDrive Gran Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,33,27
+2023_BMW_330i Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,34,29
+2023_BMW_330i xDrive Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,33,27
+2023_BMW_430i Gran Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,34,28
+2023_BMW_430i xDrive Gran Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,33,27
+2023_BMW_M235i xDrive Gran Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,33,27
+2023_BMW_M3 Competition M xDrive Sedan,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,22,18
+2023_BMW_M3 Competition Sedan,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,23,19
+2023_BMW_M3 Sedan,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,23,19
+2023_BMW_M340i Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_BMW_M340i xDrive Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,32,26
+2023_BMW_M440i Gran Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,32,27
+2023_BMW_M440i xDrive Gran Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,31,25
+2023_Cadillac_CT4,Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,34,27
+2023_Cadillac_CT4,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,31,25
+2023_Cadillac_CT4 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,31,26
+2023_Cadillac_CT4 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,29,24
+2023_Cadillac_CT4 V,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,29,23
+2023_Cadillac_CT4 V,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,24,19
+2023_Cadillac_CT4 V,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,23,18
+2023_Cadillac_CT4 V AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,28,23
+2023_GENESIS_G70 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,28,23
+2023_GENESIS_G70 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,26,20
+2023_GENESIS_G70 RWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,31,25
+2023_GENESIS_G70 RWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,27,21
+2023_KIA_Rio,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,32,41,36
+2023_LEXUS_IS 300,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,31,25
+2023_LEXUS_IS 300 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,26,22
+2023_LEXUS_IS 350,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,28,23
+2023_LEXUS_IS 350 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,26,22
+2023_LEXUS_IS 500,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,25,20
+2023_LEXUS_UX 250h,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,43,41,42
+2023_LEXUS_UX 250h,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,43,41,42
+2023_LEXUS_UX 250h AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,41,38,39
+2023_LEXUS_UX 250h AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,41,38,39
+2023_MAZDA_MAZDA3 4-Door 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,36,31
+2023_MAZDA_MAZDA3 4-Door 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,37,31
+2023_MAZDA_MAZDA3 4-Door 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,35,30
+2023_MAZDA_MAZDA3 4-Door 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,32,27
+2023_Mercedes-Benz_AMG CLA 35 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,29,24
+2023_Mercedes-Benz_AMG CLA 45 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,28,23
+2023_Mercedes-Benz_AMG GT 43 4MATIC+,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,24,21
+2023_Mercedes-Benz_AMG GT 53 4MATIC+,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,24,21
+2023_Mercedes-Benz_AMG GT 63 4MATIC+,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,21,17
+2023_Mercedes-Benz_AMG GT 63 S 4MATIC+,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,21,17
+2023_Mercedes-Benz_C 300,Gasoline (Premium Unleaded Required),MPG,miles per gallon,25,36,29
+2023_Mercedes-Benz_C 300 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,24,33,27
+2023_Mercedes-Benz_CLA 250,Gasoline (Premium Unleaded Required),MPG,miles per gallon,25,36,29
+2023_Mercedes-Benz_CLA 250 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,24,33,27
+2023_Mercedes-Benz_CLS 450 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,30,25
+2023_Mitsubishi Motors Corporation_MIRAGE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,36,43,39
+2023_Mitsubishi Motors Corporation_MIRAGE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,33,41,36
+2023_Mitsubishi Motors Corporation_MIRAGE G4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,35,41,37
+2023_Mitsubishi Motors Corporation_MIRAGE G4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,33,40,35
+2023_NISSAN_VERSA,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,32,40,35
+2023_NISSAN_VERSA,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,35,30
+2023_TOYOTA_COROLLA,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,31,40,34
+2023_TOYOTA_COROLLA,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,32,41,35
+2023_TOYOTA_COROLLA HATCHBACK,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,32,41,35
+2023_TOYOTA_COROLLA HATCHBACK XSE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,30,38,33
+2023_TOYOTA_COROLLA HYBRID,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,50,43,47
+2023_TOYOTA_COROLLA HYBRID,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,53,46,50
+2023_TOYOTA_COROLLA HYBRID AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,47,41,44
+2023_TOYOTA_COROLLA HYBRID AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,51,44,48
+2023_Volkswagen_GLI,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,36,30
+2023_Volkswagen_GLI,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,37,30
+2023_Volkswagen_Golf-R,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,30,26
+2023_Volkswagen_Golf-R,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,28,23
+2023_Volkswagen_GTI,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,34,28
+2023_Volkswagen_GTI,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,32,27
+2023_Volkswagen_Jetta,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,31,41,35
+2023_Volkswagen_Jetta,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,42,34
+2023_Volkswagen_Jetta Sport/SE/SEL,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,40,33
+"2023_Volvo Cars of North America, LLC_S60 B5",Gasoline (Premium Unleaded Required),MPG,miles per gallon,26,35,30
+"2023_Volvo Cars of North America, LLC_S60 B5 AWD",Gasoline (Premium Unleaded Required),MPG,miles per gallon,25,33,28
+2023_ALFA ROMEO_Giulia,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,33,27
+2023_ALFA ROMEO_Giulia,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,25,20
+2023_ALFA ROMEO_Giulia AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_Audi_A5 Sportback quattro,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,33,28
+2023_Audi_A5 Sportback S-Line quattro,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,32,27
+2023_Audi_A6 quattro,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,31,27
+2023_Audi_A6 quattro,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,30,24
+2023_Audi_A7,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,30,24
+2023_Audi_RS 7,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,21,17
+2023_Audi_RS5 Sportback,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,25,21
+2023_Audi_S5 Sportback,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,30,24
+2023_Audi_S6,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,26,22
+2023_Audi_S7,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,26,22
+2023_Bentley_Flying Spur,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,22,17
+2023_Bentley_Flying Spur,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,19,15
+2023_BMW_530i Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,33,28
+2023_BMW_530i xDrive Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,32,26
+2023_BMW_540i Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,32,27
+2023_BMW_540i xDrive Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_BMW_840i Gran Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,29,24
+2023_BMW_840i xDrive Gran Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,29,24
+2023_BMW_ALPINA B8 Gran Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,24,19
+2023_BMW_M5 Competition Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,21,17
+2023_BMW_M5 Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,21,17
+2023_BMW_M550i xDrive Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,25,20
+2023_BMW_M8 Competition Gran Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,22,17
+2023_BMW_M850i xDrive Gran Coupe,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,24,19
+2023_BMW_X2 M35i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,31,27
+2023_BMW_X2 sDrive28i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,32,27
+2023_BMW_X2 xDrive28i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,31,27
+2023_Cadillac_CT5,Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,33,27
+2023_Cadillac_CT5,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,27,22
+2023_Cadillac_CT5 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,30,25
+2023_Cadillac_CT5 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,26,21
+2023_Cadillac_CT5 V,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,27,21
+2023_Cadillac_CT5 V,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,21,16
+2023_Cadillac_CT5 V,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,21,15
+2023_Chevrolet_MALIBU,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,35,30
+2023_Dodge_Challenger,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,30,23
+2023_Dodge_Challenger,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,16,25,19
+2023_Dodge_Challenger,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,23,18
+2023_Dodge_Challenger,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,24,18
+2023_Dodge_Challenger,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,23,17
+2023_Dodge_Challenger AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,27,21
+2023_Dodge_Challenger SRT,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,22,16
+2023_Dodge_Challenger SRT Widebody,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,21,15
+2023_Dodge_Challenger Widebody,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,24,18
+2023_Dodge_Challenger Widebody,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,23,17
+2023_Honda_ACCORD SPORT/TOURING,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,46,41,44
+2023_Honda_CIVIC 4Dr,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,33,42,36
+2023_Honda_CIVIC 4Dr,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,31,38,34
+2023_Honda_CIVIC 4Dr,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,27,37,31
+2023_Honda_CIVIC 4Dr,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,30,37,33
+2023_HYUNDAI MOTOR COMPANY_Elantra,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,36,31
+2023_HYUNDAI MOTOR COMPANY_Elantra,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,33,42,37
+2023_HYUNDAI MOTOR COMPANY_Elantra,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,30,40,34
+2023_HYUNDAI MOTOR COMPANY_Elantra Hybrid,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,49,52,50
+2023_HYUNDAI MOTOR COMPANY_Elantra Hybrid Blue,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,53,56,54
+2023_HYUNDAI MOTOR COMPANY_Elantra N,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,30,23
+2023_HYUNDAI MOTOR COMPANY_Elantra N,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,31,25
+2023_HYUNDAI MOTOR COMPANY_Venue,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,33,31
+2023_INFINITI_Q50,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,29,23
+2023_INFINITI_Q50 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,27,22
+2023_INFINITI_Q50 AWD RED SPORT,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,26,22
+2023_INFINITI_Q50 RED SPORT,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,26,22
+2023_Jaguar_XF P250,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,33,28
+2023_Jaguar_XF P250 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,32,26
+2023_Jaguar_XF P300 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,30,25
+2023_KIA_Forte,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,35,30
+2023_KIA_Forte,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,31,26
+2023_KIA_Forte,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,39,32
+2023_KIA_Forte FE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,30,41,34
+2023_KIA_Stinger AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,29,24
+2023_KIA_Stinger AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,24,20
+2023_KIA_Stinger RWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,32,25
+2023_KIA_Stinger RWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,25,20
+2023_LEXUS_ES 250 AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,34,28
+2023_LEXUS_ES 300h,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,43,44,44
+2023_LEXUS_ES 350,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,32,26
+2023_LEXUS_ES 350 F SPORT,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,31,25
+2023_LEXUS_LS 500,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,29,22
+2023_LEXUS_LS 500 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,27,21
+2023_LEXUS_LS 500h AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,29,25
+2023_MASERATI_GHIBLI GT,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,25,20
+2023_MASERATI_GHIBLI MODENA AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,25,20
+2023_MASERATI_GHIBLI MODENA RWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,25,20
+2023_MASERATI_GHIBLI TROFEO,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,20,16
+2023_MAZDA_MAZDA3 5-Door 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,35,30
+2023_MAZDA_MAZDA3 5-Door 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,36,30
+2023_MAZDA_MAZDA3 5-Door 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,33,29
+2023_MAZDA_MAZDA3 5-Door 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_Mercedes-Benz_AMG E 53 4MATIC+,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,29,24
+2023_Mercedes-Benz_AMG E 63 S 4MATIC+,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,24,19
+2023_Mercedes-Benz_E 350,Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,31,26
+2023_Mercedes-Benz_E 350 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,30,24
+2023_Mercedes-Benz_E 450 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,31,26
+2023_Mini_COOPER COUNTRYMAN,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,26,32,28
+2023_Mini_COOPER COUNTRYMAN ALL4,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_Mini_COOPER S CLUBMAN,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,35,29
+2023_Mini_COOPER S CLUBMAN,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,32,25
+2023_Mini_COOPER S CLUBMAN ALL4,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,32,27
+2023_Mini_COOPER S COUNTRYMAN,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,33,28
+2023_Mini_COOPER S COUNTRYMAN ALL4,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_Mini_JCW COUNTRYMAN ALL4,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,24,30,26
+2023_Mini_JOHN COOPER WORKS CLUBMAN ALL4,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_NISSAN_ALTIMA,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,39,32
+2023_NISSAN_ALTIMA AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,36,30
+2023_NISSAN_ALTIMA SL/SR,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,37,31
+2023_NISSAN_ALTIMA SR,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,34,29
+2023_NISSAN_KICKS,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,31,36,33
+2023_NISSAN_MAXIMA,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,30,24
+2023_Subaru_IMPREZA 4-Door,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,36,32
+2023_Subaru_IMPREZA 4-Door,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_Subaru_IMPREZA 4-Door SPORT,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,36,30
+2023_Subaru_WRX,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,25,21
+2023_Subaru_WRX,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,26,22
+2023_TOYOTA_CAMRY,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,33,26
+2023_TOYOTA_CAMRY AWD LE/SE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,34,29
+2023_TOYOTA_CAMRY AWD XLE/XSE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,34,28
+2023_TOYOTA_CAMRY HYBRID LE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,51,53,52
+2023_TOYOTA_CAMRY HYBRID SE/XLE/XSE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,44,47,46
+2023_TOYOTA_CAMRY LE/SE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,39,32
+2023_TOYOTA_CAMRY TRD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,31,25
+2023_TOYOTA_CAMRY XLE/XSE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,38,31
+2023_TOYOTA_CAMRY XSE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,32,26
+2023_TOYOTA_PRIUS,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,57,56,57
+2023_TOYOTA_PRIUS AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,53,54,54
+2023_TOYOTA_PRIUS AWD XLE/LTD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,49,50,49
+2023_TOYOTA_PRIUS XLE/LTD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,52,52,52
+2023_TOYOTA_TOYOTA CROWN AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,32,30
+2023_TOYOTA_TOYOTA CROWN AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,42,41,41
+"2023_Volvo Cars of North America, LLC_S90 B6 AWD",Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,32,26
+2023_Acura_INTEGRA,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,30,37,33
+2023_Acura_INTEGRA A-SPEC,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,29,36,32
+2023_Acura_INTEGRA A-SPEC,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,26,36,30
+2023_Audi_A8L,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,28,22
+2023_Audi_S8,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,23,18
+2023_BMW_740i Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,31,27
+2023_BMW_760i xDrive Sedan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,26,21
+2023_Chrysler_300,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,30,23
+2023_Chrysler_300,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,16,25,19
+2023_Chrysler_300,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,24,18
+2023_Chrysler_300 AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,27,21
+2023_Dodge_Charger,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,30,23
+2023_Dodge_Charger,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,16,25,19
+2023_Dodge_Charger,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,24,18
+2023_Dodge_Charger AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,27,21
+2023_Dodge_Charger SRT Widebody,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,21,15
+2023_Dodge_Charger Widebody,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,24,18
+2023_GENESIS_G80 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,30,25
+2023_GENESIS_G80 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,25,19
+2023_GENESIS_G80 RWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,32,26
+2023_GENESIS_G90 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,26,21
+2023_GENESIS_G90 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,24,20
+2023_Honda_ACCORD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,37,32
+2023_Honda_ACCORD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,51,44,48
+2023_Honda_CIVIC 5Dr,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,31,39,35
+2023_Honda_CIVIC 5Dr,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,30,37,33
+2023_Honda_CIVIC 5Dr,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,37,31
+2023_Honda_CIVIC 5Dr,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,37,32
+2023_Honda_CIVIC 5Dr,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,36,29
+2023_Honda_CIVIC 5Dr,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,28,24
+2023_HYUNDAI MOTOR COMPANY_Sonata,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,37,31
+2023_HYUNDAI MOTOR COMPANY_Sonata,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,33,27
+2023_HYUNDAI MOTOR COMPANY_Sonata,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,38,32
+2023_HYUNDAI MOTOR COMPANY_Sonata,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,37,31
+2023_HYUNDAI MOTOR COMPANY_Sonata Hybrid,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,45,51,47
+2023_HYUNDAI MOTOR COMPANY_Sonata Hybrid Blue,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,50,54,52
+2023_KIA_K5,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,37,31
+2023_KIA_K5,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,32,27
+2023_KIA_K5 AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,33,28
+2023_MASERATI_QUATTROPORTE GT,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,25,19
+2023_MASERATI_QUATTROPORTE MODENA AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,25,20
+2023_MASERATI_QUATTROPORTE MODENA RWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,25,19
+2023_MASERATI_QUATTROPORTE TROFEO,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,20,16
+2023_Mercedes-Benz_S 500 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,28,23
+2023_Mercedes-Benz_S 580 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,25,19
+2023_Mercedes-Benz_S 580 4MATIC Maybach,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,25,18
+2023_Porsche_Panamera,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,24,20
+2023_Porsche_Panamera 4,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,24,20
+2023_Porsche_Panamera 4 Executive,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,23,19
+2023_Porsche_Panamera 4 ST,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,23,20
+2023_Porsche_Panamera 4S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,24,20
+2023_Porsche_Panamera 4S Executive,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,23,19
+2023_Porsche_Panamera 4S ST,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,23,19
+2023_Porsche_Panamera GTS,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,21,17
+2023_Porsche_Panamera GTS ST,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,20,17
+2023_Porsche_Panamera Turbo S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,21,17
+2023_Rolls-Royce Motor Cars Limited_Ghost,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,19,14
+2023_Rolls-Royce Motor Cars Limited_Ghost Black Badge,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,19,14
+2023_Rolls-Royce Motor Cars Limited_Ghost Extended,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,19,14
+2023_Rolls-Royce Motor Cars Limited_Phantom,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,18,14
+2023_Rolls-Royce Motor Cars Limited_Phantom Extended,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,18,14
+2023_Subaru_LEGACY,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_Subaru_LEGACY,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,35,30
+2023_Volkswagen_Arteon,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,33,28
+2023_Volkswagen_Arteon 4Motion,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,31,25
+2023_Audi_A4 Allroad quattro,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,30,26
+2023_Honda_HR-V AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,30,27
+2023_Honda_HR-V FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,32,28
+2023_KIA_Niro,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,53,45,49
+2023_KIA_Niro FE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,53,54,53
+2023_KIA_Soul,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,33,30
+2023_KIA_Soul Eco dynamics,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,35,31
+2023_Lamborghini_Urus Performante,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,19,16
+2023_Mercedes-Benz_AMG GLA 35 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,29,25
+2023_Mercedes-Benz_AMG GLA 45 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,25,22
+2023_Subaru_IMPREZA 5-Door,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,36,31
+2023_Subaru_IMPREZA 5-Door,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,31,26
+2023_Subaru_IMPREZA 5-Door SPORT,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,35,30
+2023_Subaru_IMPREZA 5-Door SPORT,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,30,25
+"2023_Volvo Cars of North America, LLC_V60CC B5 AWD",Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,30,26
+2023_Audi_A6 Allroad,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,30,24
+2023_Audi_RS 6 Avant,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,21,17
+2023_Mercedes-Benz_AMG E 63 S 4MATIC+ (SW),Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,24,19
+2023_Mercedes-Benz_AMG GLB 35 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,27,23
+2023_Mercedes-Benz_E 450 4MATIC All-Terrain (wagon),Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,28,24
+2023_NISSAN_MURANO AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,28,23
+2023_NISSAN_MURANO FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,28,23
+2023_Rolls-Royce Motor Cars Limited_Cullinan,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,19,14
+2023_Rolls-Royce Motor Cars Limited_Cullinan Black Badge,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,19,14
+"2023_Volvo Cars of North America, LLC_V90CC B6 AWD",Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,29,25
+2023_Ford_MAVERICK FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,30,25
+2023_Ford_MAVERICK HEV FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,40,33,37
+2023_TOYOTA_TACOMA 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,23,21
+2023_TOYOTA_TACOMA 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,24,21
+2023_Ford_MAVERICK AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,28,24
+2023_Ford_MAVERICK TREMOR AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,24,21
+2023_TOYOTA_TACOMA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,22,20
+2023_TOYOTA_TACOMA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,22,20
+2023_TOYOTA_TACOMA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,21,18
+2023_TOYOTA_TACOMA 4WD D-CAB MT TRD-ORP/PRO,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,20,18
+2023_Chevrolet_SILVERADO 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,21,20
+2023_Chevrolet_SILVERADO 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,22,20
+2023_Chevrolet_SILVERADO 2WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,24,29,26
+2023_Chevrolet_SILVERADO 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,21,19
+2023_Chevrolet_SILVERADO 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,21,19
+2023_Chevrolet_SILVERADO 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,20,18
+2023_Chevrolet_SILVERADO 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,20,18
+2023_Ford_F150 PICKUP 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,25,21
+2023_Ford_F150 PICKUP 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,26,22
+2023_Ford_F150 PICKUP 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,24,21
+2023_Ford_F150 PICKUP 2WD FFV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,23,20
+2023_Ford_F150 PICKUP 2WD FFV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,24,21
+2023_Ford_F150 PICKUP 2WD FFV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,25,20
+2023_Ford_F150 PICKUP 2WD FFV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,24,19
+2023_Ford_F150 PICKUP 2WD HEV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,25,25
+2023_Ford_RANGER 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,26,22
+2023_Ford_RANGER 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,26,23
+2023_GMC_SIERRA 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,21,20
+2023_GMC_SIERRA 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,22,20
+2023_GMC_SIERRA 2WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,24,29,26
+2023_GMC_SIERRA 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,21,18
+2023_GMC_SIERRA 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,21,18
+2023_GMC_SIERRA 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,20,18
+2023_GMC_SIERRA 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,20,18
+2023_NISSAN_FRONTIER 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,24,20
+2023_NISSAN_TITAN 2WD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,21,18
+2023_RAM_1500 4X2,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,25,22
+2023_RAM_1500 4X2,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,18,23,20
+2023_RAM_1500 Classic 4X2,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,25,20
+2023_RAM_1500 Classic 4X2,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,15,21,17
+2023_RAM_1500 HFE 4X2,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,26,23
+2023_TOYOTA_TUNDRA 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,23,20
+2023_TOYOTA_TUNDRA 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,24,20
+2023_TOYOTA_TUNDRA 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,24,22
+2023_Chevrolet_SILVERADO 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,21,19
+2023_Chevrolet_SILVERADO 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,21,19
+2023_Chevrolet_SILVERADO 4WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,22,27,24
+2023_Chevrolet_SILVERADO 4WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,22,27,24
+2023_Chevrolet_SILVERADO 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,20,17
+2023_Chevrolet_SILVERADO 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,20,17
+2023_Chevrolet_SILVERADO 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,19,17
+2023_Chevrolet_SILVERADO 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,19,17
+2023_Chevrolet_SILVERADO 4WD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,20,17
+2023_Chevrolet_SILVERADO 4WD MUD TERRAIN TIRES,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,18,17
+2023_Chevrolet_SILVERADO 4WD MUD TERRAIN TIRES,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,21,23,22
+2023_Chevrolet_SILVERADO 4WD MUD TERRAIN TIRES,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,18,16
+2023_Chevrolet_SILVERADO 4WD MUD TERRAIN TIRES,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,19,16
+2023_Chevrolet_SILVERADO 4WD MUD TERRAIN TIRES,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,19,17
+2023_Chevrolet_SILVERADO 4WD MUD TERRAIN TIRES,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,18,16
+2023_Chevrolet_SILVERADO 4WD ZR2,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,17,15
+2023_Ford_F150 PICKUP 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,23,20
+2023_Ford_F150 PICKUP 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,24,20
+2023_Ford_F150 PICKUP 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,23,19
+2023_Ford_F150 PICKUP 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,23,20
+2023_Ford_F150 PICKUP 4WD FFV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,22,20
+2023_Ford_F150 PICKUP 4WD FFV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,22,18
+2023_Ford_F150 PICKUP 4WD FFV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,22,19
+2023_Ford_F150 PICKUP 4WD HEV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,23,23
+2023_Ford_F150 PICKUP TREMOR 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,20,18
+2023_Ford_F150 PICKUP TREMOR 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,20,18
+2023_Ford_F150 PICKUP TREMOR 4WD FFV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_Ford_F150 PICKUP TREMOR 4WD FFV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_Ford_F150 RAPTOR 37 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,14,16,15
+2023_Ford_F150 RAPTOR 37 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,16,15
+2023_Ford_F150 RAPTOR 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,14,18,15
+2023_Ford_F150 RAPTOR 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,18,16
+2023_Ford_F150 RAPTOR R 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,10,15,12
+2023_Ford_RANGER 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,24,21
+2023_Ford_RANGER 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,24,22
+2023_Ford_RANGER TREMOR 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,19,19
+2023_GMC_SIERRA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,20,19
+2023_GMC_SIERRA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,20,19
+2023_GMC_SIERRA 4WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,22,27,24
+2023_GMC_SIERRA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,20,17
+2023_GMC_SIERRA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,20,17
+2023_GMC_SIERRA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,19,17
+2023_GMC_SIERRA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,19,17
+2023_GMC_SIERRA 4WD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,19,17
+2023_GMC_SIERRA 4WD AT4X,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,17,15
+2023_GMC_SIERRA 4WD MUD TERRAIN TIRES,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,18,17
+2023_GMC_SIERRA 4WD MUD TERRAIN TIRES,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,21,23,22
+2023_GMC_SIERRA 4WD MUD TERRAIN TIRES,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,18,16
+2023_GMC_SIERRA 4WD MUD TERRAIN TIRES,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,19,16
+2023_GMC_SIERRA 4WD MUD TERRAIN TIRES,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,19,17
+2023_GMC_SIERRA 4WD MUD TERRAIN TIRES,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,17,15
+2023_Honda_RIDGELINE AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,24,21
+2023_Jeep_Gladiator 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,22,19
+2023_Jeep_Gladiator 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,23,19
+2023_Jeep_Gladiator EcoDiesel 4X4,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,22,28,24
+2023_Jeep_Gladiator Rubic EcoDiesel 4X4,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,21,27,24
+2023_NISSAN_FRONTIER 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,22,19
+2023_NISSAN_FRONTIER 4WD PRO-4X,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,22,19
+2023_NISSAN_TITAN 4WD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,21,18
+2023_NISSAN_TITAN 4WD PRO-4X,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_RAM_1500 4X4,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,21,29,24
+2023_RAM_1500 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,24,21
+2023_RAM_1500 4X4,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,17,22,19
+2023_RAM_1500 Classic 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,23,19
+2023_RAM_1500 Classic 4X4,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_RAM_1500 TRX 4x4,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,10,14,12
+2023_TOYOTA_TUNDRA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,22,19
+2023_TOYOTA_TUNDRA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,23,19
+2023_TOYOTA_TUNDRA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,22,20
+2023_TOYOTA_TUNDRA 4WD PRO,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,20,19
+2023_Cadillac_XT5 HEARSE FWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,23,21
+2023_Cadillac_XT5 LIMO FWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,23,21
+2023_Ford_Transit Connect Van FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,26,25
+2023_Ford_Transit Connect Wagon LWB FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,28,26
+2023_Mercedes-Benz_GLA 250,Gasoline (Premium Unleaded Required),MPG,miles per gallon,24,34,28
+2023_Mercedes-Benz_GLB 250,Gasoline (Premium Unleaded Required),MPG,miles per gallon,24,32,27
+2023_Mercedes-Benz_Metris (Cargo Van),Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,23,20
+"2023_Mercedes-Benz_Metris (Cargo Van, LWB)",Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,23,20
+2023_Mercedes-Benz_Metris (Passenger Van),Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,22,19
+2023_Mercedes-Benz_Metris (US Postal Long),Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,25,21
+2023_Mercedes-Benz_Metris (US Postal),Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,25,21
+2023_Cadillac_XT5 HEARSE AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,23,21
+2023_Cadillac_XT5 LIMO AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,23,21
+2023_Chevrolet_SILVERADO 2WD CAB CHASSIS,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,18,16
+2023_Chevrolet_SILVERADO 4WD CAB CHASSIS,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,17,16
+2023_GMC_SIERRA 2WD CAB CHASSIS,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,18,16
+2023_GMC_SIERRA 4WD CAB CHASSIS,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,17,16
+2023_Chrysler_Pacifica,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,28,22
+2023_Chrysler_Voyager,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,28,22
+2023_Honda_ODYSSEY FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,28,22
+2023_KIA_Carnival,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,26,22
+2023_TOYOTA_SIENNA,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,36,36,36
+2023_Chrysler_Pacifica AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,25,20
+2023_TOYOTA_SIENNA AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,35,36,35
+2023_Acura_MDX FWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,26,22
+2023_Acura_RDX FWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,28,24
+2023_Acura_RDX FWD A-SPEC,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,27,24
+2023_ALFA ROMEO_Stelvio,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_BMW_X3 sDrive30i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,29,25
+2023_Buick_ENCORE GX FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,31,30
+2023_Buick_ENCORE GX FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,32,30
+2023_Buick_ENVISION FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_Cadillac_XT4 FWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,30,26
+2023_Cadillac_XT5 FWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,29,24
+2023_Cadillac_XT5 FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,26,21
+2023_Cadillac_XT6 FWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,27,23
+2023_Cadillac_XT6 FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,26,21
+2023_Chevrolet_BLAZER FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_Chevrolet_BLAZER FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,27,22
+2023_Chevrolet_EQUINOX FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,31,28
+2023_Chevrolet_TRAILBLAZER FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,31,30
+2023_Chevrolet_TRAILBLAZER FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,33,31
+2023_Ford_ESCAPE FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,34,30
+2023_Ford_ESCAPE FWD HEV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,42,36,39
+2023_GMC_TERRAIN FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,29,26
+2023_Honda_CR-V FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,34,30
+2023_Honda_CR-V FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,43,36,40
+2023_Honda_PILOT FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,27,22
+2023_HYUNDAI MOTOR COMPANY_Kona FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,35,32
+2023_HYUNDAI MOTOR COMPANY_Kona FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,30,35,32
+2023_HYUNDAI MOTOR COMPANY_Kona N,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,27,23
+2023_HYUNDAI MOTOR COMPANY_Palisade FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,27,22
+2023_HYUNDAI MOTOR COMPANY_Santa Cruz FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,26,23
+2023_HYUNDAI MOTOR COMPANY_Santa Fe FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,28,25
+2023_HYUNDAI MOTOR COMPANY_Santa Fe FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,28,26
+2023_HYUNDAI MOTOR COMPANY_Tucson FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,32,28
+2023_INFINITI_QX50,Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,29,26
+2023_KIA_Seltos FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,35,31
+2023_KIA_Sorento FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_KIA_Sorento FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,29,26
+2023_KIA_Sorento Hybrid FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,39,35,37
+2023_KIA_Sportage FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,32,28
+2023_KIA_Telluride FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,26,23
+2023_LEXUS_NX 250,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,33,28
+2023_LEXUS_RX 350,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,29,25
+2023_Lincoln_CORSAIR FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,30,25
+2023_Lincoln_NAUTILUS FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,26,23
+2023_Lincoln_NAUTILUS FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,26,23
+2023_MITSUBISHI MOTORS_Outlander 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,31,27
+2023_Mitsubishi Motors Corporation_ECLIPSE CROSS 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,28,26
+2023_Mitsubishi Motors Corporation_ECLIPSE CROSS ES 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,29,27
+2023_Mitsubishi Motors Corporation_Outlander Sport 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,30,27
+2023_NISSAN_PATHFINDER 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,27,23
+2023_NISSAN_ROGUE FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,30,37,33
+2023_NISSAN_ROGUE FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,30,37,33
+2023_NISSAN_ROGUE FWD SL/PLATINUM,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,36,32
+2023_NISSAN_ROGUE FWD SL/PLATINUM,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,36,32
+2023_TOYOTA_COROLLA CROSS,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,31,33,32
+2023_TOYOTA_HIGHLANDER,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_TOYOTA_HIGHLANDER,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,28,24
+2023_TOYOTA_HIGHLANDER HYBRID,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,36,35,36
+2023_TOYOTA_RAV4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,34,30
+2023_TOYOTA_RAV4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,35,30
+2023_Volkswagen_Atlas,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,25,23
+2023_Volkswagen_Atlas,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,24,20
+2023_Volkswagen_Atlas Cross Sport,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,25,23
+2023_Volkswagen_Atlas Cross Sport,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,24,20
+2023_Volkswagen_Taos,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,36,31
+2023_Volkswagen_Tiguan,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,30,26
+2023_Volkswagen_Tiguan S,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,31,27
+"2023_Volvo Cars of North America, LLC_XC40 B4",Gasoline (Premium Unleaded Required),MPG,miles per gallon,24,32,27
+"2023_Volvo Cars of North America, LLC_XC60 B5",Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,30,26
+2023_Acura_MDX AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,25,21
+2023_Acura_RDX AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,27,23
+2023_Acura_RDX AWD A-SPEC,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,26,23
+2023_ALFA ROMEO_Stelvio AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,28,24
+2023_ALFA ROMEO_Stelvio AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,23,19
+2023_Audi_Q3 S-Line,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,28,24
+2023_Audi_Q5 quattro,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,23,29,25
+2023_Audi_Q5 S-Line quattro,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_Audi_Q5 Sportback S-line quattro,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_Audi_SQ5,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,24,21
+2023_Audi_SQ5 Sportback,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,24,21
+2023_BMW_X1 xDrive28i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,25,34,28
+2023_BMW_X3 M,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_BMW_X3 M Competition,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_BMW_X3 M40i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,26,23
+2023_BMW_X3 xDrive30i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,28,24
+2023_BMW_X4 M,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_BMW_X4 M Competition,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_BMW_X4 M40i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,26,23
+2023_BMW_X4 xDrive30i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,28,24
+2023_Buick_ENCORE GX AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,29,27
+2023_Buick_ENVISION AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_Cadillac_XT4 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,29,24
+2023_Cadillac_XT5 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,27,23
+2023_Cadillac_XT5 AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,25,21
+2023_Cadillac_XT6 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,26,23
+2023_Cadillac_XT6 AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,25,21
+2023_Chevrolet_BLAZER AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,27,24
+2023_Chevrolet_BLAZER AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,26,21
+2023_Chevrolet_EQUINOX AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,30,26
+2023_Chevrolet_TRAILBLAZER AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,30,28
+2023_Dodge_Hornet AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,29,24
+2023_FIAT_500X AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,30,26
+2023_Ford_BRONCO 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,21,20
+2023_Ford_BRONCO 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,21,20
+2023_Ford_BRONCO 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,21,20
+2023_Ford_BRONCO BADLANDS 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,17,17
+2023_Ford_BRONCO BADLANDS 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,17,17
+2023_Ford_BRONCO BADLANDS 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,17,17
+2023_Ford_BRONCO BLACK DIAMOND 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,18,18
+2023_Ford_BRONCO BLACK DIAMOND 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,18,17
+2023_Ford_BRONCO BLACK DIAMOND 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,18,18
+2023_Ford_BRONCO SASQUATCH 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,17,18
+2023_Ford_BRONCO SASQUATCH 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,18,17
+2023_Ford_BRONCO SASQUATCH 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,17,17
+2023_Ford_BRONCO SPORT 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,28,26
+2023_Ford_BRONCO SPORT 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,26,23
+2023_Ford_EDGE AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,28,23
+2023_Ford_EDGE AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,28,23
+2023_Ford_EDGE AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,25,21
+2023_Ford_ESCAPE AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,32,28
+2023_Ford_ESCAPE AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,31,26
+2023_Ford_ESCAPE AWD HEV,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,42,36,39
+2023_GENESIS_GV70 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,28,24
+2023_GENESIS_GV70 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,26,22
+2023_GENESIS_GV70 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,24,21
+2023_GMC_TERRAIN AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,28,26
+2023_Honda_CR-V AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,32,29
+2023_Honda_CR-V AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,40,34,37
+2023_Honda_PASSPORT AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,24,21
+2023_HYUNDAI MOTOR COMPANY_Kona AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,32,29
+2023_HYUNDAI MOTOR COMPANY_Kona AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,33,30
+2023_HYUNDAI MOTOR COMPANY_Palisade AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,25,21
+2023_HYUNDAI MOTOR COMPANY_Santa Cruz AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,27,22
+2023_HYUNDAI MOTOR COMPANY_Santa Cruz AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,25,23
+2023_HYUNDAI MOTOR COMPANY_Santa Fe AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,28,24
+2023_HYUNDAI MOTOR COMPANY_Santa Fe AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,25,24
+2023_HYUNDAI MOTOR COMPANY_Santa Fe Hybrid,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,33,30,32
+2023_HYUNDAI MOTOR COMPANY_Santa Fe Hybrid Blue,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,36,31,34
+2023_HYUNDAI MOTOR COMPANY_Tucson AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,28,25
+2023_HYUNDAI MOTOR COMPANY_Tucson Hybrid,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,37,36,37
+2023_HYUNDAI MOTOR COMPANY_Tucson Hybrid Blue,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,38,38,38
+2023_INFINITI_QX50 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,28,25
+2023_INFINITI_QX55 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,28,25
+2023_Jaguar_E-PACE,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,26,23
+2023_Jaguar_F-PACE,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,27,24
+2023_Jaguar_F-PACE P340 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,27,22
+2023_Jaguar_F-PACE P400 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,26,22
+2023_Jaguar_F-PACE SVR,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,21,17
+2023_Jeep_Cherokee 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,29,24
+2023_Jeep_Cherokee Trailhawk 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,26,22
+2023_Jeep_Compass 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,32,27
+2023_Jeep_Renegade 4x4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,29,26
+2023_Jeep_Renegade Trailhawk 4x4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,27,24
+2023_Jeep_Wrangler 2dr 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,24,23
+2023_Jeep_Wrangler 2dr 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,23,20
+2023_Jeep_Wrangler 2dr 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,24,21
+2023_Jeep_Wrangler 2dr 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,25,20
+2023_Jeep_Wrangler 4dr 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,24,22
+2023_Jeep_Wrangler 4dr 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,23,20
+2023_Jeep_Wrangler 4dr 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,24,21
+2023_Jeep_Wrangler 4dr 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,23,19
+2023_Jeep_Wrangler 4dr 4X4,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,17,14
+2023_Jeep_Wrangler 4dr EcoDiesel 4x4,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,22,29,25
+2023_Jeep_Wrangler Rubic 4dr EcoDiesel 4x4,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,21,26,23
+2023_KIA_Seltos AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,30,27
+2023_KIA_Seltos AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,31,29
+2023_KIA_Sorento AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,27,24
+2023_KIA_Sorento AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,25,24
+2023_KIA_Sorento Hybrid AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,36,33,34
+2023_KIA_Sportage AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,28,25
+2023_KIA_Sportage Hybrid AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,38,38,38
+2023_KIA_Sportage Hybrid FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,42,44,43
+2023_KIA_Telluride AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,24,21
+2023_Land Rover_Discovery Sport,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,23,20
+2023_Land Rover_Range Rover Evoque,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,27,22
+2023_Land Rover_Range Rover Evoque MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,26,23
+2023_Land Rover_Range Rover Velar,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,26,23
+2023_Land Rover_Range Rover Velar P340 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,26,22
+2023_Land Rover_Range Rover Velar P400 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,25,21
+2023_LEXUS_NX 250 AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,32,28
+2023_LEXUS_NX 350 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,28,25
+2023_LEXUS_NX 350h AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,41,37,39
+2023_LEXUS_RX 350 AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,28,24
+2023_LEXUS_RX 350h AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,37,34,36
+2023_LEXUS_RX 500h AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,27,28,27
+2023_Lincoln_CORSAIR AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,28,24
+2023_Lincoln_NAUTILUS AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,25,22
+2023_Lincoln_NAUTILUS AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,25,22
+2023_Lincoln_NAUTILUS AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,25,21
+2023_MASERATI_GRECALE GT,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_MASERATI_GRECALE MODENA,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_MASERATI_GRECALE TROFEO,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,25,20
+2023_MAZDA_CX-30 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,30,25
+2023_MAZDA_CX-30 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,33,29
+2023_MAZDA_CX-5 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,27,24
+2023_MAZDA_CX-5 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,30,26
+2023_MAZDA_CX-9 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,26,23
+2023_MAZDA_MAZDA CX-50 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,29,25
+2023_MAZDA_MAZDA CX-50 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,30,27
+2023_Mercedes-Benz_AMG GLC 43 4MATIC (coupe),Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,24,20
+2023_Mercedes-Benz_GLA 250 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,32,26
+2023_Mercedes-Benz_GLB 250 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,30,25
+2023_Mercedes-Benz_GLC 300 4MATIC (Coupe),Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,26,22
+2023_Mercedes-Benz_GLE 350,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,25,22
+2023_Mercedes-Benz_GLE 350 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,24,21
+2023_MITSUBISHI MOTORS_Outlander 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,24,30,26
+2023_Mitsubishi Motors Corporation_ECLIPSE CROSS 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,26,25
+2023_Mitsubishi Motors Corporation_ECLIPSE CROSS ES 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,28,26
+2023_Mitsubishi Motors Corporation_Outlander Sport 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,29,26
+2023_Mitsubishi Motors Corporation_Outlander Sport 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,28,25
+2023_NISSAN_PATHFINDER 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,27,23
+2023_NISSAN_PATHFINDER 4WD ROCK CREEK,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,23,21
+2023_NISSAN_PATHFINDER 4WD SL/PLATINUM,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,25,22
+2023_NISSAN_ROGUE AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,35,31
+2023_NISSAN_ROGUE AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,35,31
+2023_NISSAN_ROGUE AWD SL/PLATINUM,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,34,31
+2023_NISSAN_ROGUE AWD SL/PLATINUM,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,34,31
+2023_Porsche_Macan,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,25,21
+2023_Porsche_Macan GTS,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,22,19
+2023_Porsche_Macan S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,23,19
+2023_Porsche_Macan T,Gasoline (Premium Unleaded Required),MPG,miles per gallon,19,25,21
+2023_Subaru_CROSSTREK AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,28,33,30
+2023_Subaru_CROSSTREK AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_Subaru_CROSSTREK AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,34,29
+2023_Subaru_FORESTER AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,33,29
+2023_Subaru_FORESTER WILDERNESS AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,28,26
+2023_Subaru_OUTBACK AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_Subaru_OUTBACK AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,26,32,28
+2023_Subaru_OUTBACK WILDERNESS AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,26,23
+2023_TOYOTA_COROLLA CROSS AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,29,32,30
+2023_TOYOTA_HIGHLANDER AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,28,24
+2023_TOYOTA_RAV4 AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,33,29
+2023_TOYOTA_RAV4 AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,33,28
+2023_TOYOTA_RAV4 AWD LE,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,34,30
+2023_TOYOTA_RAV4 AWD TRD OFFROAD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,32,28
+2023_TOYOTA_RAV4 HYBRID AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,41,38,40
+2023_TOYOTA_RAV4 HYBRID AWD WOODLAND EDITION,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,38,35,37
+2023_TOYOTA_VENZA AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,40,37,39
+2023_Volkswagen_Atlas 4Motion,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,24,22
+2023_Volkswagen_Atlas 4Motion,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,23,20
+2023_Volkswagen_Atlas Cross Sport 4Motion,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,24,22
+2023_Volkswagen_Atlas Cross Sport 4Motion,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,24,20
+2023_Volkswagen_Taos 4Motion,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,32,28
+2023_Volkswagen_Tiguan 4Motion,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_Volkswagen_Tiguan R-Line 4Motion,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,28,24
+"2023_Volvo Cars of North America, LLC_XC40 B5 AWD",Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,30,26
+"2023_Volvo Cars of North America, LLC_XC60 B5 AWD",Gasoline (Premium Unleaded Required),MPG,miles per gallon,23,29,25
+"2023_Volvo Cars of North America, LLC_XC60 B6 AWD",Gasoline (Premium Unleaded Required),MPG,miles per gallon,21,27,23
+2023_BMW_X5 sDrive40i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,26,23
+2023_Buick_ENCLAVE FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,26,21
+2023_Cadillac_ESCALADE 2WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,21,27,23
+2023_Cadillac_ESCALADE 2WD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,19,16
+2023_Chevrolet_SUBURBAN 2WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,21,27,23
+2023_Chevrolet_SUBURBAN 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_Chevrolet_SUBURBAN 2WD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,20,16
+2023_Chevrolet_TAHOE 2WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,21,28,24
+2023_Chevrolet_TAHOE 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_Chevrolet_TAHOE 2WD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,20,16
+2023_Chevrolet_TRAVERSE FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,27,21
+2023_Dodge_Durango RWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,26,21
+2023_Dodge_Durango RWD,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,14,22,17
+2023_Ford_EXPEDITION 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,23,19
+2023_Ford_EXPEDITION 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,23,19
+2023_Ford_EXPLORER HEV RWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,27,28,27
+2023_Ford_EXPLORER PLATINUM HEV RWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,25,26,26
+2023_Ford_EXPLORER RWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,28,23
+2023_Ford_EXPLORER RWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,28,24
+2023_Ford_EXPLORER RWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,26,21
+2023_Ford_EXPLORER RWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,25,20
+2023_GMC_ACADIA FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,29,25
+2023_GMC_ACADIA FWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,27,22
+2023_GMC_YUKON 2WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,21,27,23
+2023_GMC_YUKON 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_GMC_YUKON 2WD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,20,16
+2023_GMC_YUKON XL 2WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,21,27,23
+2023_GMC_YUKON XL 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_GMC_YUKON XL 2WD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,19,16
+2023_INFINITI_QX60 FWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,26,23
+2023_INFINITI_QX80 2WD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,20,16
+2023_Jeep_Grand Cherokee L 4X2,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,26,21
+2023_Jeep_Wagoneer 4x2,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,24,20
+2023_Jeep_Wagoneer 4x2,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,16,22,18
+2023_Jeep_Wagoneer L 4x2,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,24,20
+2023_Lincoln_AVIATOR RWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,26,21
+2023_Lincoln_NAVIGATOR 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,23,19
+2023_Lincoln_NAVIGATOR 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,23,19
+2023_NISSAN_ARMADA 2WD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,19,16
+2023_TOYOTA_4RUNNER 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,19,17
+2023_TOYOTA_SEQUOIA 2WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,21,24,22
+2023_Acura_MDX AWD Type-S,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,21,19
+2023_Aston Martin Lagonda Ltd_DBX 707,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_Aston Martin Lagonda Ltd_DBX V8,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,20,16
+2023_Audi_Q7,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,25,21
+2023_Audi_Q7,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,22,20
+2023_Audi_Q8,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,23,20
+2023_Audi_RS Q8,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,20,16
+2023_Audi_SQ7,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,20,17
+2023_Audi_SQ8,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,20,17
+2023_Bentley_Bentayga,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,21,17
+2023_Bentley_Bentayga EWB,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,21,17
+2023_Bentley_Bentayga Speed,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,19,14
+2023_BMW_ALPINA XB7,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,20,17
+2023_BMW_X5 M,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,18,15
+2023_BMW_X5 M Competition,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,18,15
+2023_BMW_X5 M50i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,22,18
+2023_BMW_X5 xDrive40i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,25,23
+2023_BMW_X6 M,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,18,15
+2023_BMW_X6 M Competition,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,18,15
+2023_BMW_X6 M50i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,22,18
+2023_BMW_X6 xDrive40i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,25,23
+2023_BMW_X7 M60i xDrive,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,21,18
+2023_BMW_X7 xDrive40i,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,21,25,22
+2023_Buick_ENCLAVE AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,25,20
+2023_Cadillac_ESCALADE 4WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,20,26,22
+2023_Cadillac_ESCALADE 4WD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,18,16
+2023_Cadillac_ESCALADE V AWD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,11,16,13
+2023_Chevrolet_SUBURBAN 4WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,20,26,22
+2023_Chevrolet_SUBURBAN 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,19,16
+2023_Chevrolet_SUBURBAN 4WD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,18,16
+2023_Chevrolet_TAHOE 4WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,20,26,22
+2023_Chevrolet_TAHOE 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,14,18,16
+2023_Chevrolet_TAHOE 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_Chevrolet_TAHOE 4WD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,18,16
+2023_Chevrolet_TRAVERSE AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,25,20
+2023_Dodge_Durango AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,25,21
+2023_Dodge_Durango AWD,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,14,22,17
+2023_Dodge_Durango SRT AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,12,17,13
+2023_Dodge_Durango SRT AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,19,15
+2023_Ford_BRONCO RAPTOR 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,16,15
+2023_Ford_EXPEDITION 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,22,18
+2023_Ford_EXPEDITION 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,21,18
+2023_Ford_EXPEDITION TIMBERLINE 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,19,17
+2023_Ford_EXPEDITION TIMBERLINE 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,19,17
+2023_Ford_EXPLORER AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,26,22
+2023_Ford_EXPLORER AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,27,23
+2023_Ford_EXPLORER AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,24,20
+2023_Ford_EXPLORER AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,24,20
+2023_Ford_EXPLORER FFV AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,25,20
+2023_Ford_EXPLORER HEV AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,26,25
+2023_Ford_EXPLORER PLATINUM HEV AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,23,24,23
+2023_Ford_EXPLORER TIMBERLINE AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,21,20
+2023_Ford_EXPLORER TIMBERLINE AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,22,21
+2023_GENESIS_GV80 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,24,22
+2023_GENESIS_GV80 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,23,20
+2023_GMC_ACADIA AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,22,27,24
+2023_GMC_ACADIA AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,26,21
+2023_GMC_YUKON 4WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,20,26,22
+2023_GMC_YUKON 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_GMC_YUKON 4WD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,18,16
+2023_GMC_YUKON XL 4WD,"Diesel, ultra low sulfur (15 ppm, maximum)",MPG,miles per gallon,20,26,22
+2023_GMC_YUKON XL 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,19,16
+2023_GMC_YUKON XL 4WD,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,18,16
+2023_Honda_PILOT AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,25,21
+2023_Honda_Pilot AWD Touring/Elite/Black,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,25,21
+2023_Honda_Pilot AWD TRAILSPORT,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,23,20
+2023_INFINITI_QX60 AWD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,20,25,22
+2023_INFINITI_QX80 4WD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,19,15
+2023_INFINITI_QX80 4WD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,19,15
+2023_Jeep_Grand Cherokee 4X4,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,14,22,17
+2023_Jeep_Grand Cherokee L 4X4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,18,25,21
+2023_Jeep_Grand Cherokee L 4X4,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,14,22,17
+2023_Jeep_Grand Wagoneer 4x4,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,20,17
+2023_Jeep_Grand Wagoneer 4x4,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,18,15
+2023_Jeep_Grand Wagoneer L 4x4,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,19,16
+2023_Jeep_Wagoneer 4x4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,23,19
+2023_Jeep_Wagoneer 4x4,Gasoline (Mid Grade Unleaded Recommended),MPG,miles per gallon,15,20,17
+2023_Jeep_Wagoneer L 4x4,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,23,19
+2023_Lamborghini_Urus S,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,19,16
+2023_Land Rover_Defender 110,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,20,19
+2023_Land Rover_Defender 110,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,14,19,16
+2023_Land Rover_Defender 110 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,23,20
+2023_Land Rover_Defender 130 P300 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,21,19
+2023_Land Rover_Defender 130 P400 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,17,21,19
+2023_Land Rover_Defender 90,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,21,19
+2023_Land Rover_Defender 90,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,15,19,16
+2023_Land Rover_Defender 90 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,23,20
+2023_Land Rover_Discovery,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,24,21
+2023_Land Rover_Discovery MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,25,22
+2023_Land Rover_New Range Rover,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,21,18
+2023_Land Rover_New Range Rover,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,21,18
+2023_Land Rover_New Range Rover LWB,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,21,18
+2023_Land Rover_New Range Rover LWB,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,21,18
+2023_Land Rover_New Range Rover P360 LWB MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,26,21
+2023_Land Rover_New Range Rover P360 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,26,21
+2023_Land Rover_New Range Rover P400 LWB MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,26,21
+2023_Land Rover_New Range Rover P400 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,26,21
+2023_Land Rover_New Range Rover Sport,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,16,21,18
+2023_Land Rover_New Range Rover Sport P360 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,19,26,22
+2023_Land Rover_New Range Rover Sport P400 MHEV,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,18,26,21
+2023_LEXUS_GX 460,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,19,16
+2023_LEXUS_LX 600,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,22,19
+2023_Lincoln_AVIATOR AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,17,24,20
+2023_Lincoln_NAVIGATOR 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,15,21,17
+2023_Lincoln_NAVIGATOR 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,22,18
+2023_MASERATI_LEVANTE GT,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,22,18
+2023_MASERATI_LEVANTE MODENA,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,22,18
+2023_MASERATI_LEVANTE MODENA V8,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,20,16
+2023_MASERATI_LEVANTE TROFEO,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,20,16
+2023_Mercedes-Benz_AMG GLE 53 4MATIC+,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,22,19
+2023_Mercedes-Benz_AMG GLE 53 4MATIC+ (coupe),Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,21,19
+2023_Mercedes-Benz_AMG GLE 63 S 4MATIC+,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,20,17
+2023_Mercedes-Benz_AMG GLE 63 S 4MATIC+ (coupe),Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,19,17
+2023_Mercedes-Benz_AMG GLS 63 4MATIC+,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,19,16
+2023_Mercedes-Benz_G 550,Gasoline (Premium Unleaded Required),MPG,miles per gallon,13,16,14
+2023_Mercedes-Benz_GLE 450 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,25,22
+2023_Mercedes-Benz_GLE 580 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,21,18
+2023_Mercedes-Benz_GLS 450 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,18,23,20
+2023_Mercedes-Benz_GLS 580 4MATIC,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,21,18
+2023_Mercedes-Benz_GLS 600 4MATIC Maybach,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,20,17
+2023_NISSAN_ARMADA 4WD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,18,15
+2023_NISSAN_ARMADA 4WD,Gasoline (Premium Unleaded Recommended),MPG,miles per gallon,13,18,15
+2023_Porsche_Cayenne,Gasoline (Premium Unleaded Required),MPG,miles per gallon,17,22,19
+2023_Porsche_Cayenne GTS,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,19,17
+2023_Porsche_Cayenne GTS Coupe,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,19,17
+2023_Porsche_Cayenne S,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,22,18
+2023_Porsche_Cayenne S Coupe,Gasoline (Premium Unleaded Required),MPG,miles per gallon,16,21,18
+2023_Porsche_Cayenne Turbo,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,19,16
+2023_Porsche_Cayenne Turbo Coup¨¦,Gasoline (Premium Unleaded Required),MPG,miles per gallon,15,20,17
+2023_Porsche_Cayenne Turbo GT,Gasoline (Premium Unleaded Required),MPG,miles per gallon,14,19,16
+2023_Subaru_ASCENT AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,20,26,22
+2023_Subaru_ASCENT LIMITED/TOURING/ONYX AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,25,21
+2023_TOYOTA_4RUNNER 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,19,17
+2023_TOYOTA_4RUNNER 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,16,19,17
+2023_TOYOTA_HIGHLANDER HYBRID AWD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,35,35,35
+2023_TOYOTA_HIGHLANDER HYBRID AWD LTD/PLAT,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,35,34,35
+2023_TOYOTA_SEQUOIA 4WD,Gasoline (Regular Unleaded Recommended),MPG,miles per gallon,19,22,20
+"2023_Volvo Cars of North America, LLC_XC90 B5 AWD",Gasoline (Premium Unleaded Required),MPG,miles per gallon,22,28,25
+"2023_Volvo Cars of North America, LLC_XC90 B6 AWD",Gasoline (Premium Unleaded Required),MPG,miles per gallon,20,26,22
