@@ -1,6 +1,7 @@
 # Project 1: Electrical Vehicles Research
 
 Group Members: Wing Lui, Ge Shen, Dashrath Bhandari, Sushil Baskota, Jingbo Zhao
+
 ---
 ## Project Summary:
 
