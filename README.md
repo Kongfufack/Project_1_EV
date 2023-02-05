@@ -33,5 +33,5 @@ The file EV_Market_Analysis.ipynb is the main script that I was working on. The 
 
 ---
 ## Referneces:
-API: Geoapify
-Please check the [reference](https://github.com/Kongfufack/Project_1_EV/blob/main/Dataset/reference.csv) to find all the sources of csv file 
+* API: Geoapify
+* Please check the [reference](https://github.com/Kongfufack/Project_1_EV/blob/main/Dataset/reference.csv) to find all the sources of csv file 
