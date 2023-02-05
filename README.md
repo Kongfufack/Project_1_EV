@@ -24,7 +24,7 @@ The file [EV_Market_Analysis.ipynb](https://github.com/Kongfufack/Project_1_EV/b
 The analysis of charging stations in Australia is in [geoapify API](https://github.com/Kongfufack/Project_1_EV/blob/main/geoapify_API.ipynb).[Goeapify (API)](https://www.geoapify.com/) is utilised to identify the location of charging stations across the country (Australia). [The longitudes and latitudes of Australia cities](https://github.com/Kongfufack/Project_1_EV/blob/main/Dataset/Australia_city.csv) are used for the params in Geoapify. The fee requirement and the locations of each charging stations are extracted from the API responses and stored in [charging station csv file](https://github.com/Kongfufack/Project_1_EV/blob/main/output_data/charging_station.csv). The API data demonstrated that the coverage of charging stataions is insufficient and will avoid people who like road trip to purchase a EV. By comparing the API data and [the official data in Electric vehicle council](https://github.com/Kongfufack/Project_1_EV/blob/main/Dataset/Public_charging_infrastructure.csv), we found out that a lot of charging stations information were missing in the API. Also, there is no offical data or easy way to locate nearby charging station, which will be a big draw back to the general buyers.
 
 ---
-For a better visualisation for our finding, please check our [power point slide](https://github.com/Kongfufack/Project_1_EV/blob/main/Project_1_EV.pdf).
+For a better visualisation for our findings, please check our [power point slide](https://github.com/Kongfufack/Project_1_EV/blob/main/Project_1_EV.pdf).
 
 ## Referneces:
 API: Geoapify
