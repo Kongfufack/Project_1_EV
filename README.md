@@ -8,7 +8,8 @@ In the past 10 years, the fuel price was very unstable (56% increased) compared 
 
 ---
 
-#### Comparsion of fuel and electricity price (Dashrath Bhandari)
+#### Comparsion of fuel and electricity price (Dashrath Bhandari) 
+The file "Cost_efficient.ipyb"(https://github.com/Kongfufack/Project_1_EV/blob/main/Dataset/Cost_efficient.ipynb) is the one that i contributed in our project. We extract the data for feul cost from online source called fuel watch. But it was very challenging to get proper data for electricity costs. After trying for few days, we decided to get the data on our own. Therefore, we went through the bills of every months for last ten years and finalised our data. After the proper documention and analysis technique that we gained from our study, we figured out that the electricity price hasnot gone up as much as fuel price.
 
 
 #### Eneginee Performance of EV and traditional vehicles (Ge Shen)
