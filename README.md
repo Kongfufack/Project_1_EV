@@ -4,7 +4,7 @@ Group Members: Wing Lui, Ge Shen, Dashrath Bhandari, Sushil Baskota, Jingbo Zhao
 
 ## Project Summary:
 
-The fuel price was very unstable (56% increased) compared to the electricity price (33% increased) in the past 10 years. Therefore, we are interested to investigate is electrical vehicles (EV) is worth buying to the general buyers, and in a bigger scale, comparing the electric vehicles markets in both global and Australia. This small study started with understanding the enginee performance of electrical and traditional vehicles. Then, we investigated the global and Australian EV sales market, which suggested that Austrlian EV market growth was falling behind compared to the other developed countries. Finally, we demonstrated that insufficient EV charging stations in Austrlia might be a potiental reason to slow down the EV growth in Australia.
+In the past 10 years, the fuel price was very unstable (56% increased) compared to the electricity price (33% increased). Therefore, we are interested to investigate is electrical vehicles (EV) more worth buying to the general buyers compared to traditional vehicles, and in a bigger scale, comparing the electric vehicles markets in both global and Australia. This small study started with understanding the enginee performance of electrical and traditional vehicles. Then, we investigated the global and Australian EV sales market, which suggested that Austrlian EV market growth was falling behind compared to the other developed countries. Finally, we demonstrated that insufficient EV charging stations in Austrlia might be a potiental reason to slow down the EV growth in Australia.
 
 ---
 
